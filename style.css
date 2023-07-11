@@ -60,8 +60,12 @@ nav {
     gap: 1.875rem;
 }
 
-.manus ul li a,
 nav a {
+    text-decoration: none;
+}
+
+.manus ul li a,
+.manus ul li a.active {
     text-decoration: none;
     color: #484848;
     font-family: Poppins;
@@ -70,14 +74,43 @@ nav a {
     font-weight: 500;
     line-height: normal;
     text-transform: capitalize;
+    background-image: linear-gradient(to right,
+            #54b3d6,
+            #54b3d6 50%,
+            #000 50%);
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
 }
-.contactbtn a{
+
+.manus ul li a:before {
+    content: '';
+    background: #03233C;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+}
+.manus ul li a:hover::before {
+    width:100%;
+  }
+
+
+.contactbtn a {
     color: #FFF;
-font-family: Poppins;
-font-size: 18px;
-font-style: normal;
-font-weight: 600;
-line-height: normal;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
 }
 
 .contactbtn {
@@ -89,19 +122,19 @@ line-height: normal;
     gap: 5px;
     -webkit-transform: translateZ(0);
     -moz-transform: translateZ(0);
-     -ms-transform: translateZ(0);
-         transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    transform: translateZ(0);
 
- -webkit-transition: all 0.2s ease;
+    -webkit-transition: all 0.2s ease;
     -moz-transition: all 0.2s ease;
-     -ms-transition: all 0.2s ease;
-         transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    transition: all 0.2s ease;
 }
 
 .logo {
-	position: absolute;
-	top: 10px;
-	left: 191px;
+    position: absolute;
+    top: 10px;
+    left: 191px;
 }
 
 
@@ -110,15 +143,16 @@ line-height: normal;
     box-shadow: 0px 10px 10px rgba(227, 42, 18, 0.2);
 
     -webkit-transform: rotateX(20deg);
-       -moz-transform: rotateX(20deg);
-        -ms-transform: rotateX(20deg);
-            transform: rotateX(20deg);
-  }
- .contactbtn:active {
+    -moz-transform: rotateX(20deg);
+    -ms-transform: rotateX(20deg);
+    transform: rotateX(20deg);
+}
+
+.contactbtn:active {
     top: 0px;
-    box-shadow: 0px 0px 0px rgba( 15, 165, 60, 0.0 );
+    box-shadow: 0px 0px 0px rgba(15, 165, 60, 0.0);
     background: rgb(224, 20, 27);
-  }
+}
 
 
 
@@ -127,7 +161,8 @@ line-height: normal;
 
 
 
-  /* =========================================================header ends here */
+/* =========================================================header ends here */
+
 
 
 
