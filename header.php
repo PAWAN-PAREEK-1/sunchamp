@@ -28,8 +28,8 @@
         </div>
 
         <div class="contactbtn">
-            <a id="contactbtn" href="">Contact Us </a>
-            <img src="img/skip.svg" alt="">
+            <a id="contactbtn01" href="">Contact Us </a>
+            <img src="img/skip.svg" alt="" id="contactbtnimg">
         </div>
 
 
