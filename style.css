@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Script&family=Montserrat:wght@600&family=Poppins:wght@500&family=Roboto:wght@100;400&family=Ubuntu:wght@300&display=swap');
+
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+
+/* ===========================================header start here */
+
+.header01 {
+    display: flex;
+    justify-content: space-between;
+    background-color: #0060AA;
+    padding-inline: 6.25rem;
+    padding-block: 0.7rem;
+
+}
+
+.header03 {
+    display: inherit;
+    gap: .5rem;
+}
+
+.header02 h3 {
+    color: rgba(255, 255, 255, 0.95);
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.header03 h3 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    padding-block: 2.2rem;
+    align-items: center;
+    position: relative;
+    padding-left: 368px;
+
+}
+
+.manus ul {
+    list-style-type: none;
+    display: inline-flex;
+    gap: 1.875rem;
+}
+
+.manus ul li a,
+nav a {
+    text-decoration: none;
+    color: #484848;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.contactbtn a{
+    color: #FFF;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+.contactbtn {
+    padding: 12px 25px;
+    background-color: #ED3237;
+    border-radius: .7rem;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    -webkit-transform: translateZ(0);
+    -moz-transform: translateZ(0);
+     -ms-transform: translateZ(0);
+         transform: translateZ(0);
+
+ -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+     -ms-transition: all 0.2s ease;
+         transition: all 0.2s ease;
+}
+
+.logo {
+	position: absolute;
+	top: 10px;
+	left: 191px;
+}
+
+
+.contactbtn:hover {
+    top: -10px;
+    box-shadow: 0px 10px 10px rgba(227, 42, 18, 0.2);
+
+    -webkit-transform: rotateX(20deg);
+       -moz-transform: rotateX(20deg);
+        -ms-transform: rotateX(20deg);
+            transform: rotateX(20deg);
+  }
+ .contactbtn:active {
+    top: 0px;
+    box-shadow: 0px 0px 0px rgba( 15, 165, 60, 0.0 );
+    background: rgb(224, 20, 27);
+  }
+
+
+
+
+
+
+
+
+  /* =========================================================header ends here */
+
+
+
