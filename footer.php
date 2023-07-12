@@ -1,4 +1,5 @@
 <footer class="footer">
+    <div class="footer1">
     <div class="column">
         <h3 id="newshead">WANT TO GET MOTIVATED?<br>
             STAY CONNECTED!</h3>
@@ -51,4 +52,16 @@
         </div>
         <a href=""><h4>VIEW ALL RECENT POST</h4></a>
     </div>
+    </div>
+    <hr >
+    <div class="footer2">
+
+       <h3> &copy;Copyrights 2023 All Rights Reserved by Sun Champ Global Trades</h3>
+            <div class="footerlinks">
+                <a href="#">Terms & Condition</a>
+                <a href="#">Careers</a>
+                <a href="#">Privacy Policy</a>
+            </div>
+    </div>
+
 </footer>

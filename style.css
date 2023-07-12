@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Luxurious+Script&family=Montserrat:wght@600&family=Poppins:wght@500&family=Roboto:wght@100;400&family=Ubuntu:wght@300&display=swap');
 
-  @import url('https://fonts.googleapis.com/css2?family=Luxurious+Script&family=Montserrat:wght@600&family=Poppins:wght@100;500&family=Roboto:wght@100;400&family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Script&family=Montserrat:wght@600&family=Poppins:wght@100;500&family=Roboto:wght@100;400&family=Ubuntu:wght@300&display=swap');
 
 
 * {
@@ -183,11 +183,15 @@ nav {
 
 
 
-.footer {
+.footer1 {
     display: flex;
     background-color: #03233C;
     padding: 3.125rem 6.25rem;
     gap: 20px;
+}
+
+.footer {
+    background-color: #03233C;
 }
 
 .column {
@@ -212,7 +216,8 @@ nav {
     align-items: flex-start;
 
 }
-.column h3{
+
+.column h3 {
     color: #FFF;
     font-family: Poppins;
     font-size: 20px;
@@ -274,9 +279,10 @@ input:focus {
     margin-bottom: 24px;
 }
 
-.contact-info{
+.contact-info {
     box-sizing: content-box;
 }
+
 .contact-info p {
     color: rgba(255, 255, 255, 0.65);
     font-family: Poppins;
@@ -302,7 +308,7 @@ input:focus {
 
 }
 
- .quick-links h3 {
+.quick-links h3 {
 
     margin-bottom: 20px;
 }
@@ -315,14 +321,15 @@ input:focus {
 .quick-links li {
     margin-bottom: 5px;
 }
-.quick-links ul li a{
+
+.quick-links ul li a {
     color: #FFF;
-font-family: Poppins;
-font-size: 16px;
-font-style: normal;
-font-weight: 100;
-line-height: 26px;
-text-decoration: none;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 100;
+    line-height: 26px;
+    text-decoration: none;
 }
 
 .recent-post {
@@ -360,34 +367,72 @@ text-decoration: none;
 .contactbtn2 {
     border-radius: 5px;
 }
-.post h3{
+
+.post h3 {
     margin-bottom: 20px;
 }
-.post-content p:nth-child(1){
+
+.post-content p:nth-child(1) {
     color: rgba(255, 255, 255, 0.65);
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px;
+}
+
+.post-content p:nth-child(2) {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.contact-info {
+    width: 80%;
+}
+
+.post a {
+    color: #EB4438;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 22px;
+    text-decoration: none;
+}
+
+.footer2 h3 {
+    color: rgba(255, 255, 255, 0.65);
+    text-align: left;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+.footer2  {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.footerlinks a{
+    color: rgba(255, 255, 255, 0.65);
+
 font-family: Poppins;
 font-size: 14px;
 font-style: normal;
-font-weight: 500;
+font-weight: 400;
 line-height: 26px;
+margin-left: 20px;
+text-decoration: none;
 }
-.post-content p:nth-child(2){
-    color: #FFF;
-font-family: Poppins;
-font-size: 16px;
-font-style: normal;
-font-weight: 500;
-line-height: normal;
-}
-.contact-info{
-    width: 80%;
-}
-.post a{
-    color: #EB4438;
-font-family: Poppins;
-font-size: 16px;
-font-style: normal;
-font-weight: 600;
-line-height: 22px;
-text-decoration: none ;
-}
+
+
+
+
+
+
+/* ===================================================footer end here */
