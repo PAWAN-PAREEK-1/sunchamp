@@ -3,6 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Luxurious+Script&family=Montserrat:wght@600&family=Poppins:wght@100;500&family=Roboto:wght@100;400&family=Ubuntu:wght@300&display=swap');
 
 
+
 * {
     padding: 0;
     margin: 0;
@@ -413,21 +414,24 @@ input:focus {
     font-weight: 400;
     line-height: 26px;
 }
-.footer2  {
+
+.footer2 {
     display: flex;
     justify-content: space-around;
     padding: 20px;
 }
-.footerlinks a{
+
+.footerlinks a {
     color: rgba(255, 255, 255, 0.65);
 
-font-family: Poppins;
-font-size: 14px;
-font-style: normal;
-font-weight: 400;
-line-height: 26px;
-margin-left: 20px;
-text-decoration: none;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    margin-left: 20px;
+    text-decoration: none;
+
 }
 
 
@@ -436,3 +440,79 @@ text-decoration: none;
 
 
 /* ===================================================footer end here */
+
+
+
+
+
+
+/* ==================================================index page start here */
+
+
+.testi101 {
+    background-image: url(img/testiheroimg.svg);
+
+
+}
+
+.testi101 img,
+.testi102 {
+    padding-inline: 120px;
+}
+
+#testibg {
+    transform: translate(1px, 50px);
+}
+
+.testi102,
+.testicontact {
+    padding-block: 60px;
+}
+
+.testi102 h3 {
+    color: #333;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.testi102 h1 {
+    color: #333;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 61px;
+    text-transform: uppercase;
+}
+
+.testi103 {
+    background-color: #ED3237;
+}
+
+.testicontact {
+    padding-inline: 120px;
+    display: flex;
+    gap: 3.125rem;
+}
+
+.testicontact h3 {
+    color: rgba(255, 255, 255, 0.90);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+
+}
+
+.testicontact p {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+}
