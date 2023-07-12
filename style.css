@@ -144,13 +144,13 @@ nav {
 }
 
 .logo {
-	position: absolute;
-	top: 30px;
-	left: 191px;
-	z-index: 1;
-	border: 2px solid white;
-	background: white;
-	padding: 5px;
+    position: absolute;
+    top: 30px;
+    left: 191px;
+    z-index: 1;
+    border: 2px solid white;
+    background: white;
+    padding: 5px;
 }
 
 
@@ -454,7 +454,7 @@ input:focus {
 
 .testi-1 {
     position: relative;
-  }
+}
 
 .testi-1::after {
     content: "";
@@ -464,8 +464,9 @@ input:focus {
     right: 0;
     bottom: 0;
     background-image: url(img/testiheroimg.svg);
-    opacity: 0.2; /* 50% opacity */
-  }
+    opacity: 0.2;
+    /* 50% opacity */
+}
 
 
 .testi101 img,
@@ -529,21 +530,24 @@ input:focus {
     font-weight: 700;
     line-height: 30px;
 }
-.testi2{
-    padding: 30px 30px 70px 30px ;
+
+.testi2 {
+    padding: 30px 30px 70px 30px;
     background-color: #0060AA;
     width: 30%;
     border-radius: 15px;
     transform: translateY(-110%);
 
 }
-.rating{
+
+.rating {
     display: flex;
     gap: 30px;
     margin-bottom: 20px;
     margin-top: 10px;
 }
-.testi2 h1{
+
+.testi2 h1 {
 
     color: #FFF;
     font-family: Poppins;
@@ -553,55 +557,61 @@ input:focus {
     line-height: 61px;
     text-transform: uppercase;
 }
-.rating0 h3{
+
+.rating0 h3 {
     color: #FFF;
-font-family: Poppins;
-font-size: 24px;
-font-style: normal;
-font-weight: 600;
-line-height: normal;
-text-transform: uppercase;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: uppercase;
 }
-.rating0 img{
+
+.rating0 img {
     max-width: 75px;
     max-height: 75px;
 }
-.testi2 p{
+
+.testi2 p {
     color: #FFF;
-font-family: Poppins;
-font-size: 20px;
-font-style: normal;
-font-weight: 600;
-line-height: 32px;
-letter-spacing: 0.2px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0.2px;
 }
-.testi001{
+
+.testi001 {
     display: flex;
     justify-content: end;
     margin-right: 169px;
 }
+
 .circles {
-  display: flex;
+    display: flex;
 }
 
 .circle {
-  width: 20px;
-  height: 20px;
-  border-radius: 50%;
-  background-color: #fff;
-  margin-right: 10px;
-  margin-top: 70px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #fff;
+    margin-right: 10px;
+    margin-top: 70px;
 }
-.circle.active{
+
+.circle.active {
     background-color: #ED3237;
-  height: 10px;
-  border-radius: 30%;
-  /* margin-top: 5px; */
-  padding-left: 5px;
+    height: 10px;
+    border-radius: 30%;
+    /* margin-top: 5px; */
+    padding-left: 5px;
 }
 
 .circle:hover {
-  cursor: pointer;
+    cursor: pointer;
 }
 
 
@@ -612,23 +622,24 @@ letter-spacing: 0.2px;
 
 
 
-.clipimg{
+.clipimg {
     position: relative;
 }
 
-.img1{
+.img1 {
     width: 324px;
-height: 589px;
+    height: 589px;
 }
+
 .img2 {
-	width: 238px;
-	height: 589px;
-	overflow: hidden;
-	position: absolute;
-	top: 30px;
-	left: 226px;
-	border: 8px solid white;
-	border-radius: 14px;
+    width: 238px;
+    height: 589px;
+    overflow: hidden;
+    position: absolute;
+    top: 30px;
+    left: 226px;
+    border: 8px solid white;
+    border-radius: 14px;
 }
 
 
@@ -639,16 +650,57 @@ height: 589px;
 /*
 ========================================================testimonial ends here */
 
+
+
+
+
+/* =================================================index start here */
+
+
+
 .main-container {
-	background-image: url(img/hero.svg);
-	height: 700px;
-	z-index: -1;
-	margin-top: -8px;
+    background-image: url(img/hero.svg);
+
+    z-index: -1;
+    margin-top: -8px;
     background-repeat: no-repeat;
-   background-size: cover;
+    background-size: cover;
     width: 100%;
+    padding: 150px 120px;
 }
 
+.main-container h3 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+}
 
+.main-container h1 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
 
-
+.main-container p {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.main-container h3 ,.main-container h1{
+    padding-bottom: 25px;
+}
+.indexhero{
+    margin-top: 25px;
+}

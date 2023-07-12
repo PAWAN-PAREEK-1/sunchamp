@@ -15,12 +15,19 @@
 <section class="main">
     <section class="hero">
             <div class="main-container">
-
+                    <img src="img/clipimg.svg" alt="">
+                    <h3>We help businesses</h3>
+                    <h1>Grow and Innovate</h1>
+                    <p>Armed with Sun Champ Global Trades insight and foresight.</p>
+                    <p>Business Leaders will find us trustworthy, helping achieve desired results.</p>
+                    <div class="contactbtn indexhero">
+                        <a id="contactbtn01" href="">Contact Us </a>
+                        <img src="img/skip.svg" alt="" id="contactbtnimg">
+                    </div>
             </div>
     </section>
 
 
-    
 
 
 
