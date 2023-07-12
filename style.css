@@ -451,7 +451,7 @@ input:focus {
 
 .testi101 {
     background-image: url(img/testiheroimg.svg);
-   
+
 
 }
 
@@ -521,13 +521,14 @@ input:focus {
     background-color: #0060AA;
     width: 30%;
     border-radius: 15px;
-    transform: translateY(-124%);
+    transform: translateY(-110%);
 
 }
 .rating{
     display: flex;
     gap: 30px;
     margin-bottom: 20px;
+    margin-top: 10px;
 }
 .testi2 h1{
 
@@ -548,6 +549,10 @@ font-weight: 600;
 line-height: normal;
 text-transform: uppercase;
 }
+.rating0 img{
+    max-width: 75px;
+    max-height: 75px;
+}
 .testi2 p{
     color: #FFF;
 font-family: Poppins;
@@ -561,4 +566,27 @@ letter-spacing: 0.2px;
     display: flex;
     justify-content: end;
     margin-right: 169px;
+}
+.circles {
+  display: flex;
+}
+
+.circle {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #fff;
+  margin-right: 10px;
+  margin-top: 70px;
+}
+.circle.active{
+    background-color: #ED3237;
+  height: 10px;
+  border-radius: 30%;
+  /* margin-top: 5px; */
+  padding-left: 5px;
+}
+
+.circle:hover {
+  cursor: pointer;
 }

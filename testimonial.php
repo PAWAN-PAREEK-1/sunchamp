@@ -32,21 +32,66 @@
 
         </div>
         <div class="testi001">
-        <div class="testi2">
+            <div class="testi2">
 
-            <h1>What Client Say</h1>
-            <div class="rating">
-                <img src="img/tesiimg.svg" alt="">
-                <div class="rating0">
-                    <h3>Talan Rhiel Madsen</h3>
-                    <img src="img/ratinh.svg" alt="">
+                <h1>What Client Say</h1>
+                <div class="rating">
+                    <img src="img/tesiimg.svg" alt="">
+                    <div class="rating0">
+                        <h3>Talan Rhiel Madsen</h3>
+                        <img src="img/ratinh.svg" alt="">
+                    </div>
                 </div>
-            </div>
-            <p>I realized after I sent in my order that I adordered a larger quantity than I needed. I emailedand
-                received a quick response, adjustment to my order and a refund. Product was shipped out in a timely
-                manner.</p>
+                <p>I realized after I sent in my order that I adordered a larger quantity than I needed. I emailedand
+                    received a quick response, adjustment to my order and a refund. Product was shipped out in a timely
+                    manner.</p>
+                <div class="circles">
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                    <div class="circle"></div>
+                </div>
+                <script>const circles = document.querySelectorAll('.circle');
+                    const reviews = [
+                        {
+                            name: 'Talan Rhiel Madsen',
+                            image: 'img/tesiimg.svg',
+                            text: 'I realized after I sent in my order that I adordered a larger quantity than I needed. I emailedand received a quick response, adjustment to my order and a refund. Product was shipped out in a timely manner.'
+                        },
+                        {
+                            name: 'Talan Rhiel ',
+                            image: 'img/testiemail.svg',
+                            text: 'we realized after I sent in my order that I adordered a larger quantity than I needed. I emailedand received a quick response, adjustment to my order and a refund. Product was shipped out in a timely manner.'
+                        },
+                        {
+                            name: 'Talan Madsen',
+                            image: 'img/tesiimg.svg',
+                            text: 'I rea I sent in my order that I adordered a larger quantity than I needed. I emailedand received a quick response, adjustment to my order and a refund. Product was shipped out in a timely manner.'
+                        },
+                        {
+                            name: 'Talan Rhiel Madsen',
+                            image: 'img/tesiimg.svg',
+                            text: 'In my order that I adordered a larger quantity than I needed. I emailedand received a quick response, adjustment to my order and a refund. Product was shipped out in a timely manner.'
+                        },
+                        // ... add more reviews here
+                    ];
 
-        </div>
+                    circles.forEach((circle, index) => {
+                        circle.addEventListener('click', () => {
+                            circles.forEach(circle => circle.classList.remove('active'));
+                            // add the active class to the clicked circle
+                            circle.classList.add('active');
+                            const review = reviews[index];
+                            document.querySelector('.rating0 h3').textContent = review.name;
+                            document.querySelector('.rating img').src = review.image;
+                            document.querySelector('.testi2 p').textContent = review.text;
+                        });
+                    });
+
+                </script>
+
+            </div>
+
         </div>
     </div>
 </section>
