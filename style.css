@@ -451,7 +451,7 @@ input:focus {
 
 .testi101 {
     background-image: url(img/testiheroimg.svg);
-
+   
 
 }
 
@@ -515,4 +515,50 @@ input:focus {
     font-style: normal;
     font-weight: 700;
     line-height: 30px;
+}
+.testi2{
+    padding: 30px 30px 70px 30px ;
+    background-color: #0060AA;
+    width: 30%;
+    border-radius: 15px;
+    transform: translateY(-124%);
+
+}
+.rating{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 20px;
+}
+.testi2 h1{
+
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 61px;
+    text-transform: uppercase;
+}
+.rating0 h3{
+    color: #FFF;
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: uppercase;
+}
+.testi2 p{
+    color: #FFF;
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 32px;
+letter-spacing: 0.2px;
+}
+.testi001{
+    display: flex;
+    justify-content: end;
+    margin-right: 169px;
 }
