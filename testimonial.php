@@ -97,3 +97,13 @@
         </div>
     </div>
 </section>
+
+<!-- 
+<section class="clipimg">
+    <div class="img1">
+        <img src="img/clip1.svg" alt="">
+    </div>
+    <div class="img2">
+        <img src="img/clip3.svg" alt="">
+    </div>
+</section> -->

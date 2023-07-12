@@ -12,10 +12,27 @@
     include "header.php";
    ?>
 
+<section class="main">
+    <section class="hero">
+            <div class="main-container">
 
-<?php
-    include "testimonial.php";
-   ?>
+            </div>
+    </section>
+
+
+    
+
+
+
+
+
+
+
+
+
+
+</section>
+
 
 
 

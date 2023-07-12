@@ -144,9 +144,13 @@ nav {
 }
 
 .logo {
-    position: absolute;
-    top: 10px;
-    left: 191px;
+	position: absolute;
+	top: 30px;
+	left: 191px;
+	z-index: 1;
+	border: 2px solid white;
+	background: white;
+	padding: 5px;
 }
 
 
@@ -446,7 +450,7 @@ input:focus {
 
 
 
-/* ==================================================index page start here */
+/* ==================================================testimonial page start here */
 
 .testi-1 {
     position: relative;
@@ -599,3 +603,52 @@ letter-spacing: 0.2px;
 .circle:hover {
   cursor: pointer;
 }
+
+
+
+
+
+
+
+
+
+.clipimg{
+    position: relative;
+}
+
+.img1{
+    width: 324px;
+height: 589px;
+}
+.img2 {
+	width: 238px;
+	height: 589px;
+	overflow: hidden;
+	position: absolute;
+	top: 30px;
+	left: 226px;
+	border: 8px solid white;
+	border-radius: 14px;
+}
+
+
+
+
+
+
+/*
+========================================================testimonial ends here */
+
+.main-container {
+	background-image: url(img/hero.svg);
+	height: 700px;
+	z-index: -1;
+	margin-top: -8px;
+    background-repeat: no-repeat;
+   background-size: cover;
+    width: 100%;
+}
+
+
+
+
