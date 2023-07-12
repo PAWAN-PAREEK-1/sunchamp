@@ -1,15 +1,17 @@
 <section class="testimonial">
     <div class="testi">
         <div class="testi1">
-            <div class="testi101">
+            <div class="testi-1">
+                <div class="testi101">
 
-                <img src="img/play.svg" alt="" id="testibg">
-            </div>
-            <div class="testi102">
-                <h3>Our Testimonial</h3>
-                <h1>Our Materials will build<br>
-                    your Trust</h1>
+                    <img src="img/play.svg" alt="" id="testibg">
+                </div>
+                <div class="testi102">
+                    <h3>Our Testimonial</h3>
+                    <h1>Our Materials will build<br>
+                        your Trust</h1>
 
+                </div>
             </div>
             <div class="testi103">
                 <div class="testicontact">

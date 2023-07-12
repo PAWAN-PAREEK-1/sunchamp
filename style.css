@@ -448,12 +448,21 @@ input:focus {
 
 /* ==================================================index page start here */
 
+.testi-1 {
+    position: relative;
+  }
 
-.testi101 {
+.testi-1::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
     background-image: url(img/testiheroimg.svg);
+    opacity: 0.2; /* 50% opacity */
+  }
 
-
-}
 
 .testi101 img,
 .testi102 {
