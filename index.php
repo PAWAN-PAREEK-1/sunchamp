@@ -183,60 +183,133 @@
         <section class="ourproduct wp">
             <h3>working process</h3>
             <h1>FABIFLEX WORKING PROCESS!</h1>
-                <div class="wp-main">
-                    <div class="wp-box">
-                        <hr>
+            <div class="wp-main">
+                <div class="wp-box">
+                    <hr>
 
-                        <img src="img/wp1.svg" alt="">
-                        <h2>Production of Fabric</h2>
-                        <p>Most fabrics are presently
-                            produced by interlacing.</p>
+                    <img src="img/wp1.svg" alt="">
+                    <h2>Production of Fabric</h2>
+                    <p>Most fabrics are presently
+                        produced by interlacing.</p>
 
+                </div>
+                <div class="wp-box">
+                    <hr id="r1">
+                    <hr id="l1">
+
+                    <img src="img/wp2.svg" alt="">
+                    <h2>Exportation Globally</h2>
+                    <p>Global exports is trade whereby
+                        goods and services..</p>
+                </div>
+                <div class="wp-box">
+                    <hr id="r2">
+                    <hr id="l2">
+
+                    <img src="img/wp3.svg" alt="">
+                    <h2>Digital Shop Available</h2>
+                    <p>It manages business inventory
+                        and transactions via internet.</p>
+                </div>
+                <div class="wp-box">
+                    <hr id="l3">
+
+                    <img src="img/wp4.svg" alt="">
+                    <h2>Great Client Support</h2>
+                    <p>Customer services to assist in
+                        making cost effective.</p>
+                </div>
+            </div>
+        </section>
+
+        <?php
+        include "testimonial.php";
+       ?>
+
+
+
+        <section class="news-blogs">
+            <div class="news">
+                <div class="newsheading">
+                    <h4>Latest News & Blog</h4>
+                    <h2>We believe in counting numbers</h2>
+                </div>
+                <div class="contactbtn " id="newsbtn">
+                    <a id="contactbtn01" href="">View All</a>
+                    <img src="img/skip.svg" alt="" id="contactbtnimg">
+                </div>
+            </div>
+
+            <div class="blogs">
+                <div class="blog">
+                    <a href="">
+                    <div class="recent-post">
+                        <img src="img/newsjpg.png" alt="Post Image">
+                        <div class="post-content news-detail" >
+                            <p> July 10, 2023</p>
+                            <p>Textilegence Magazine &
+                                Digital Platform</p>
+                        </div>
                     </div>
-                    <div class="wp-box">
-                        <hr id="r1">
-                        <hr id="l1">
-
-                        <img src="img/wp2.svg" alt="">
-                        <h2>Exportation Globally</h2>
-                        <p>Global exports is trade whereby
-                            goods and services..</p>
+                    </a>
+                    <hr>
+                    <a href="">
+                    <div class="recent-post">
+                        <img src="img/news1.png" alt="Post Image">
+                        <div class="post-content news-detail">
+                            <p> July 9, 2023</p>
+                            <p>Nulla vitae elit libero, a pharetra augue.</p>
+                        </div>
                     </div>
-                    <div class="wp-box">
-                        <hr id="r2">
-                        <hr id="l2">
-
-                        <img src="img/wp3.svg" alt="">
-                        <h2>Digital Shop Available</h2>
-                        <p>It manages business inventory
-                            and transactions via internet.</p>
+                    </a>
+                    <hr>
+                    <a href="">
+                    <div class="recent-post">
+                        <img src="img/newsjpg.png" alt="Post Image">
+                        <div class="post-content news-detail">
+                            <p> July 10, 2023</p>
+                            <p>Textilegence Magazine &
+                                Digital Platform</p>
+                        </div>
                     </div>
-                    <div class="wp-box">
-                        <hr id="l3">
-
-                        <img src="img/wp4.svg" alt="">
-                        <h2>Great Client Support</h2>
-                        <p>Customer services to assist in
-                            making cost effective.</p>
-                    </div>
+                    </a>
                 </div>
 
+               <a href="">
+                <div class="news-box">
+                    <h3>Traditional</h3>
+                    <p>Textilegence Magazine & Digital
+                        Platform</p>
+
+                    <div class="news-time">
+                        <h5>By: John Doe</h5>
+                        <h5>9 June, 2022</h5>
+                        </div>
+
+
+                </div>
+                </a>
+                  <a href="">
+                <div class="news-box newsbox2">
+                    <h3 id="second-head">Industry</h3>
+                    <p>Textilegence Magazine & Digital
+                        Platform</p>
+
+
+                        <div class="news-time">
+                            <h5>By: John Doe</h5>
+                            <h5>9 June, 2022</h5>
+                            </div>
+
+
+                </div>
+                </a>
+
+            </div>
 
 
 
-
-
-            </section>
-
-
-
-
-
-
-
-        <!-- <?php
-        include "testimonial.php";
-       ?> -->
+        </section>
 
 
 
