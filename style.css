@@ -893,3 +893,108 @@ input:focus {
     text-transform: capitalize;
     padding-bottom: .8rem;
 }
+
+
+/* ======================================our product section index page START*/
+
+.ourproduct {
+    background-image: url(img/ourprohero.svg);
+    padding: 4.37rem 7.5rem;
+    margin-top: 6rem;
+}
+
+.ourproduct h3 {
+    color: #333;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: center;
+}
+
+.ourproduct h1 {
+    color: #333;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 61px;
+    /* 127.083% */
+    text-transform: uppercase;
+}
+.ourindex{
+ display: flex;
+justify-content: center;
+}
+#ourindex{
+    padding-inline:1.8rem;
+    gap: 0.7rem;
+}
+.our-main{
+    padding-block: 4.31rem;
+
+    display: flex;
+    gap: 1.875rem;
+
+}
+.our-main2{
+    margin-top: -6.8rem;
+}
+.our-main-p
+.our-main01{
+    display: flex;
+    gap: 2rem;
+    align-items: center;
+
+}
+.our-main-p{
+    background-color: white;
+    padding: 1.5rem;
+    position: relative;
+
+}
+.our-main-p p{
+    padding-block: 1rem;
+    color: #7F7F7F;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 30px; /* 166.667% */
+}
+.our-main-p h4{
+    color: var(--primery, #ED3237);
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 500;
+line-height: 16px; /* 88.889% */
+text-transform: capitalize;
+}
+.our-main01 h1{
+    color: #333;
+    font-family: Poppins;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px; /* 93.75% */
+
+}
+#our-ser-img{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+
+
+
+
+
+
+
+
+
+/* =========================================our product section index page END */
