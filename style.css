@@ -1007,12 +1007,40 @@ text-transform: capitalize;
 .wp-main{
     display: flex;
     margin-block: 4.3rem;
+
 }
 .wp-box{
     display: flex;
     flex-direction: column;
     gap: 1.2rem;
     align-items: center;
+    position: relative;
+
+
+}
+.wp-box hr {
+	width: 99px;
+	position: absolute;
+	right: 0;
+	top: 44px;
+    border: dashed 1px ;
+}
+#r1{
+    right: 4px;
+}
+#r2{
+    right: 1.7rem;
+}
+#l1{
+    left: 3px;
+}
+#l2 {
+	left: -1px;
+	width: 128px;
+}
+#l3 {
+	left: -25px;
+	width: 125px;
 }
 .wp-box h2{
     color: #333;
