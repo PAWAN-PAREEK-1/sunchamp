@@ -311,6 +311,26 @@
 
         </section>
 
+        <section class="contact-index">
+            <div class="box">
+              <h2>Send Your Message Us</h2>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc malesuada quam at mi hendrerit consequat.</p>
+              <form>
+                <input type="text" placeholder="Name" required>
+                <input type="email" placeholder="Email" required>
+                <input type="tel" placeholder="Phone Number" required>
+                <input type="text" placeholder="Subject" required>
+                <textarea placeholder="Your Message" required></textarea>
+                <button type="submit">Submit</button>
+              </form>
+            </div>
+            <div class="box">
+
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96446.65087463002!2d-74.0059413!3d40.7127837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zM40wNDcnNTguNiJOIDc0wrA1MycwNy41Ilc!5e0!3m2!1sen!2sus!4v1564503685116!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </div>
+          </section>
+
+
 
 
 

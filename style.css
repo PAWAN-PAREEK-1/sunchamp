@@ -1,9 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Luxurious+Script&family=Montserrat:wght@600&family=Poppins:wght@500&family=Roboto:wght@100;400&family=Ubuntu:wght@300&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Luxurious+Script&family=Montserrat:wght@600&family=Poppins:wght@100;500&family=Roboto:wght@100;400&family=Ubuntu:wght@300&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,500;0,800;1,100&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,500;0,600;0,800;1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100&display=swap');
 
 * {
     padding: 0;
@@ -1145,7 +1140,7 @@ input:focus {
 
 .news-box {
     box-sizing: border-box;
-    background-image:  linear-gradient(180deg, rgba(217, 217, 217, 0.00) 0%, #000 100%),url(img/news2.svg);
+    background-image: linear-gradient(180deg, rgba(217, 217, 217, 0.00) 0%, #000 100%), url(img/news2.svg);
     background-repeat: no-repeat;
     padding: 1.4rem;
     border-radius: 10px;
@@ -1154,8 +1149,9 @@ input:focus {
 
 
 }
-.newsbox2{
-    background-image:  linear-gradient(180deg, rgba(217, 217, 217, 0.00) 0%, #000 100%), url(img/news4.svg);
+
+.newsbox2 {
+    background-image: linear-gradient(180deg, rgba(217, 217, 217, 0.00) 0%, #000 100%), url(img/news4.svg);
 }
 
 .news-box h3 {
@@ -1175,7 +1171,7 @@ input:focus {
 .blogs {
     display: flex;
     justify-content: space-between;
-    gap:4.125rem;
+    gap: 4.125rem;
     margin-block: 5.5rem;
 }
 
@@ -1190,7 +1186,7 @@ input:focus {
     font-style: normal;
     font-weight: 600;
     line-height: 28px;
-    border-bottom: dashed 1px ;
+    border-bottom: dashed 1px;
     padding-top: 12rem;
 }
 
@@ -1204,8 +1200,99 @@ input:focus {
     line-height: 26px;
     /* 162.5% */
 }
-.news-time{
+
+.news-time {
     display: flex;
     justify-content: space-between;
     padding-top: 10px;
 }
+
+
+
+.contact-index {
+    display: flex;
+    background: linear-gradient(rgba(0, 96, 170, 0.60), rgba(0, 96, 170, 0.60)), url(img/contactbg.svg);
+    backdrop-filter: blur(30px);
+    padding: 4.37rem 7.5rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: opacity(0.1);
+}
+
+.box {
+    flex: 1;
+    padding: 20px;
+}
+
+.box h2 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 61px;
+    /* 127.083% */
+    text-transform: uppercase;
+}
+
+.box p {
+    margin-top: 10px;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 120% */
+    letter-spacing: 0.2px;
+}
+
+form {
+    margin-top: 20px;
+}
+
+form input,
+form textarea {
+    width: 77%;
+    padding: 0.8rem;
+    margin-bottom: 1.4rem;
+    border: 1px solid var(--gray-5, #E0E0E0);
+    background: rgba(255, 255, 255, 0.06);
+}
+form input::placeholder,
+form textarea ::placeholder{
+    color: #FFF;
+font-family: Poppins;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 171.429% */
+letter-spacing: 0.14px;
+}
+
+form button {
+    display: block;
+    width: 82%;
+    padding: 10px;
+    border-radius: 5px;
+    background:  #ED3237;
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    border: none;
+    cursor: pointer;
+}
+
+.box iframe {
+    width: 90%;
+    height: 32.81rem;
+    border-radius: 10px;
+}
+
+
+
+
+/* ==============================================================index page completed */
