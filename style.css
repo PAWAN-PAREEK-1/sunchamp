@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Luxurious+Script&family=Montserrat:wght@600&family=Poppins:wght@100;500&family=Roboto:wght@100;400&family=Ubuntu:wght@300&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,500;0,800;1,100&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,500;0,600;0,800;1,100&display=swap');
 
 * {
     padding: 0;
@@ -830,7 +830,7 @@ input:focus {
 .aboutus0101 {
 
     background-color: white;
-    padding: 1.63rem;
+    padding: 1rem 1.8rem 1rem 2.03rem;
     position: absolute;
     bottom: 3.6rem;
 
@@ -841,7 +841,7 @@ input:focus {
     leading-trim: both;
     text-edge: cap;
     font-family: Rajdhani;
-    font-size: 96px;
+    font-size: 90px;
     font-style: normal;
     font-weight: 700;
     line-height: normal;
@@ -856,7 +856,7 @@ input:focus {
     line-height: normal;
     display: inline-flex;
     align-items: center;
-    gap: 1.5rem;
+    gap: 1.3rem;
 }
 
 .aboutus02 h3 {
@@ -998,3 +998,36 @@ text-transform: capitalize;
 
 
 /* =========================================our product section index page END */
+
+
+
+.wp{
+    background: none;
+}
+.wp-main{
+    display: flex;
+    margin-block: 4.3rem;
+}
+.wp-box{
+    display: flex;
+    flex-direction: column;
+    gap: 1.2rem;
+    align-items: center;
+}
+.wp-box h2{
+    color: #333;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px; /* 150% */
+}
+.wp-box p{
+    color: #7F7F7F;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px; /* 144.444% */
+}

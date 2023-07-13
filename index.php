@@ -180,6 +180,55 @@
 
 
 
+        <section class="ourproduct wp">
+            <h3>working process</h3>
+            <h1>FABIFLEX WORKING PROCESS!</h1>
+                <div class="wp-main">
+                    <div class="wp-box">
+                        <img src="img/wp1.svg" alt="">
+                        <h2>Production of Fabric</h2>
+                        <p>Most fabrics are presently
+                            produced by interlacing.</p>
+                    </div>
+                    <div class="wp-box">
+                        <img src="img/wp2.svg" alt="">
+                        <h2>Exportation Globally</h2>
+                        <p>Global exports is trade whereby
+                            goods and services..</p>
+                    </div>
+                    <div class="wp-box">
+                        <img src="img/wp3.svg" alt="">
+                        <h2>Digital Shop Available</h2>
+                        <p>It manages business inventory
+                            and transactions via internet.</p>
+                    </div>
+                    <div class="wp-box">
+                        <img src="img/wp4.svg" alt="">
+                        <h2>Great Client Support</h2>
+                        <p>Customer services to assist in
+                            making cost effective.</p>
+                    </div>
+                </div>
+
+
+
+
+
+
+            </section>
+
+
+
+
+
+
+
+        <!-- <?php
+        include "testimonial.php";
+       ?> -->
+
+
+
 
 
 
