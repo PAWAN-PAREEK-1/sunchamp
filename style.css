@@ -1537,6 +1537,7 @@ form button {
 .news0101 {
     width: 33%;
     padding: 1rem;
+    margin-block: 20px;
 }
 
 .news-details p {
@@ -1568,4 +1569,34 @@ form button {
 }
 .news1{
     margin-block: 4rem;
+}
+.news-time2 h5{
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+}
+.pagination{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+.pagination h1{
+    color: #ED3237;
+    font-family: Poppins;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.625rem; /* 108.333% */
+padding: 20px;
+}
+.pagination a{
+    border-radius: 0.625rem;
+background: #F2F2F2;
+}
+.pagination a:hover{
+    background-color: red;
+
+}
+.pagination h1:hover{
+    color: white ;
 }

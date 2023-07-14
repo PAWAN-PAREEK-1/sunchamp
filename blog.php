@@ -40,14 +40,16 @@
                         <h2>Strategies For Reducing <br>Environmental</h2>
                         <p>It is a long established fact that a rea der will be distracted by the readable content of a
                             page when looking at its layout.</p>
-                           <a href=""> <h4>READ MORE  <img src="img/rightarrow.svg" alt=""></h4></a>
+                        <a href="">
+                            <h4>READ MORE <img src="img/rightarrow.svg" alt=""></h4>
+                        </a>
                     </div>
                 </div>
                 <div class="news-box news0101">
 
                     <div class="news-img">
                         <h3>Traditional</h3>
-                        <img src="img/news5.svg" alt="">
+                        <img src="img/news6.svg" alt="">
 
                     </div>
                     <div class="news-details">
@@ -58,14 +60,16 @@
                         <h2>Strategies For Reducing <br>Environmental</h2>
                         <p>It is a long established fact that a rea der will be distracted by the readable content of a
                             page when looking at its layout.</p>
-                           <a href=""> <h4>READ MORE  <img src="img/rightarrow.svg" alt=""></h4></a>
+                        <a href="">
+                            <h4>READ MORE <img src="img/rightarrow.svg" alt=""></h4>
+                        </a>
                     </div>
                 </div>
                 <div class="news-box news0101">
 
                     <div class="news-img">
                         <h3>Traditional</h3>
-                        <img src="img/news5.svg" alt="">
+                        <img src="img/news6.svg" alt="">
 
                     </div>
                     <div class="news-details">
@@ -76,14 +80,97 @@
                         <h2>Strategies For Reducing <br>Environmental</h2>
                         <p>It is a long established fact that a rea der will be distracted by the readable content of a
                             page when looking at its layout.</p>
-                           <a href=""> <h4>READ MORE  <img src="img/rightarrow.svg" alt=""></h4></a>
+                        <a href="">
+                            <h4>READ MORE <img src="img/rightarrow.svg" alt=""></h4>
+                        </a>
                     </div>
                 </div>
 
 
             </div>
+            <div class="news2">
+                <div class="news-box news0101">
+
+                    <div class="news-img">
+                        <h3>Traditional</h3>
+                        <img src="img/news5.svg" alt="">
+
+                    </div>
+                    <div class="news-details">
+                        <div class="news-time news-time2">
+                            <h5><img src="img/person.svg" alt="">By: John Doe</h5>
+                            <h5><img src="img/calender.svg" alt="">9 June, 2022</h5>
+                        </div>
+                        <h2>Strategies For Reducing <br>Environmental</h2>
+                        <p>It is a long established fact that a rea der will be distracted by the readable content of a
+                            page when looking at its layout.</p>
+                        <a href="">
+                            <h4>READ MORE <img src="img/rightarrow.svg" alt=""></h4>
+                        </a>
+                    </div>
+                </div>
+                <div class="news-box news0101">
+
+                    <div class="news-img">
+                        <h3>Traditional</h3>
+                        <img src="img/news5.svg" alt="">
+
+                    </div>
+                    <div class="news-details">
+                        <div class="news-time news-time2">
+                            <h5><img src="img/person.svg" alt="">By: John Doe</h5>
+                            <h5><img src="img/calender.svg" alt="">9 June, 2022</h5>
+                        </div>
+                        <h2>Strategies For Reducing <br>Environmental</h2>
+                        <p>It is a long established fact that a rea der will be distracted by the readable content of a
+                            page when looking at its layout.</p>
+                        <a href="">
+                            <h4>READ MORE <img src="img/rightarrow.svg" alt=""></h4>
+                        </a>
+                    </div>
+                </div>
+                <div class="news-box news0101">
+
+                    <div class="news-img">
+                        <h3>Traditional</h3>
+                        <img src="img/news5.svg" alt="">
+
+                    </div>
+                    <div class="news-details">
+                        <div class="news-time news-time2">
+                            <h5><img src="img/person.svg" alt="">By: John Doe</h5>
+                            <h5><img src="img/calender.svg" alt="">9 June, 2022</h5>
+                        </div>
+                        <h2>Strategies For Reducing <br>Environmental</h2>
+                        <p>It is a long established fact that a rea der will be distracted by the readable content of a
+                            page when looking at its layout.</p>
+                        <a href="">
+                            <h4>READ MORE <img src="img/rightarrow.svg" alt=""></h4>
+                        </a>
+                    </div>
+                </div>
+
+
+            </div>
+
+                    <div class="pagination">
+                        <a href="#"><h1>01</h1></a>
+                        <a href="#"><h1>02</h1></a>
+                        <a href="#"><h1>NEXT PAGE</h1></a>
+
+                    </div>
+
+
         </div>
     </section>
+
+
+    <?php
+    include "testimonial.php";
+   ?>
+   <?php
+    include "footer.php";
+   ?>
 
 </body>
 
