@@ -536,8 +536,11 @@ input:focus {
     background-color: #0060AA;
     width: 30%;
     border-radius: 15px;
-    transform: translateY(-110%);
+    /* transform: translateY(-110%); */
 
+}
+.testimonial{
+    position: relative;
 }
 
 .rating {
@@ -582,11 +585,12 @@ input:focus {
     line-height: 32px;
     letter-spacing: 0.2px;
 }
-
 .testi001 {
-    display: flex;
-    justify-content: end;
-    margin-right: 169px;
+	display: flex;
+	justify-content: end;
+	margin-right: 169px;
+	position: absolute;
+	top: 64px;
 }
 
 .circles {
@@ -1083,7 +1087,7 @@ input:focus {
 
 .news-blogs {
     padding: 4.37rem 7.5rem;
-    margin-top: -34.25rem;
+    
 }
 
 .news {
