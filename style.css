@@ -539,7 +539,8 @@ input:focus {
     /* transform: translateY(-110%); */
 
 }
-.testimonial{
+
+.testimonial {
     position: relative;
 }
 
@@ -585,12 +586,13 @@ input:focus {
     line-height: 32px;
     letter-spacing: 0.2px;
 }
+
 .testi001 {
-	display: flex;
-	justify-content: end;
-	margin-right: 169px;
-	position: absolute;
-	top: 64px;
+    display: flex;
+    justify-content: end;
+    margin-right: 169px;
+    position: absolute;
+    top: 64px;
 }
 
 .circles {
@@ -880,7 +882,8 @@ input:focus {
     text-transform: uppercase;
 }
 
-.aboutus02 h4 ,.points h4{
+.aboutus02 h4,
+.points h4 {
     display: inline-flex;
     gap: 0.5rem;
     align-items: center;
@@ -1087,7 +1090,7 @@ input:focus {
 
 .news-blogs {
     padding: 4.37rem 7.5rem;
-    
+
 }
 
 .news {
@@ -1381,25 +1384,34 @@ form button {
 .vision {
     gap: 15rem;
 }
-.products{
+
+
+/*
+=====================================================about page end here */
+
+
+
+/* =========================================================product page start here */
+.products {
     padding: 4.37rem 7.5rem;
     position: relative;
 }
 
 .pro-head {
-	display: flex;
-	border-radius: 10px;
-	background: #FFF;
-	box-shadow: 0px 0px 11px 0px rgba(0, 0, 0, 0.11);
-	padding: 1.4rem;
-	gap: 1.8rem;
-	align-items: center;
-	width: 21.3rem;
-	position: relative;
-	left: 428px;
-	top: 77px;
+    display: flex;
+    border-radius: 10px;
+    background: #FFF;
+    box-shadow: 0px 0px 11px 0px rgba(0, 0, 0, 0.11);
+    padding: 1.4rem;
+    gap: 1.8rem;
+    align-items: center;
+    width: 21.3rem;
+    position: relative;
+    left: 428px;
+    top: 77px;
 }
-.mis{
+
+.mis {
     padding-top: 7rem;
 }
 
@@ -1411,18 +1423,149 @@ form button {
     font-weight: 700;
     line-height: normal;
 }
-#icon3{
+
+#icon3 {
     position: absolute;
     bottom: 5px;
     right: 5px;
 }
-.pro-dec{
+
+.pro-dec {
     display: flex;
     justify-content: space-around;
 }
+
 .points {
     display: flex;
     justify-content: space-between;
     margin-block: 2rem;
     padding-inline: 6.25rem;
+}
+
+
+
+
+/* =========================================================product page end here */
+
+
+
+/* ===================================================blog start here */
+
+
+.news-blog-hero {
+    padding: 4.37rem 7.5rem;
+    text-align: center;
+}
+
+
+.news-blog-hero h3 {
+    color: #333;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.news-blog-hero h1 {
+    color: #333;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 61px;
+    /* 127.083% */
+    text-transform: uppercase;
+}
+
+.news2 {
+    display: flex;
+    gap: 1.3rem;
+}
+
+.news0101 {
+    background: none;
+    border-radius: 10px;
+    background: #FBFBFB;
+
+
+}
+
+.news-img {
+    position: relative;
+
+}
+
+
+.news-img h3 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px;
+    padding: 5px 20px;
+    border-radius: 5px;
+    background-color: red;
+    width: 33%;
+    position: absolute;
+    top: 26px;
+    left: 26px;
+}
+
+.news-time2 h5 {
+    color: black;
+}
+
+.news-details h2 {
+    color: #333;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px;
+    /* 108.333% */
+    text-align: left;
+    padding-block: 10px;
+}
+
+.news-details {
+    padding: 15px;
+
+}
+
+.news0101 {
+    width: 33%;
+    padding: 1rem;
+}
+
+.news-details p {
+    color: #7F7F7F;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px;
+    /* 144.444% */
+    padding-top: 0;
+    border: none;
+    text-align: left;
+    padding-block: 10px;
+}
+
+.news-details h4 {
+    margin-right: 14rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: #ED3237;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 26px;
+    /* 144.444% */
+}
+.news1{
+    margin-block: 4rem;
 }
