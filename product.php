@@ -131,6 +131,13 @@
         </div>
     </section>
 
+
+    <?php
+    include "testimonial.php";
+   ?>
+   <?php
+    include "footer.php";
+   ?>
 </body>
 
 </html>
