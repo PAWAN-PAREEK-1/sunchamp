@@ -1296,3 +1296,76 @@ form button {
 
 
 /* ==============================================================index page completed */
+
+
+
+
+/* =======================================================about page start here */
+
+
+.all-hero{
+    background: linear-gradient(rgba(0, 96, 170, 0.60), rgba(0, 96, 170, 0.60)), url(img/abouthero.svg);
+    backdrop-filter: blur(30px);
+
+   background-repeat: no-repeat;
+   background-size: cover;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   padding-block: 5.6rem;
+}
+.all-hero h1{
+    text-align: center;
+    color: #FFF;
+font-family: Poppins;
+font-size: 64px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.our-mission{
+    display: flex;
+    padding: 7rem 7.5rem;
+    align-items: center;
+    gap: 7.3rem;
+
+}
+.mission{
+    width: 50%;
+}
+
+.mission h3{
+    color: #333;
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+padding-bottom: 0.2rem;
+}
+.mission h1{
+    color: #333;
+font-family: Poppins;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+padding-bottom: 1.8rem;
+}
+.mission p{
+    text-align: left;
+    color: #7F7F7F;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 0.036px;
+text-transform: uppercase;
+padding-bottom: 1.2rem;
+}
+.vision {
+    gap: 15rem;
+}

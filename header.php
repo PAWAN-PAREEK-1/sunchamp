@@ -19,10 +19,10 @@
         </div>
         <div class="manus">
             <ul>
-                <li><a href="#">HOME</a></li>
-                <li><a href="#">ABOUT US</a></li>
-                <li><a href="#">TEXTILE PRODUCTS</a></li>
-                <li><a href="#">NEWS / BLOGS</a></li>
+                <li><a href="index.php">HOME</a></li>
+                <li><a href="about.php">ABOUT US</a></li>
+                <li><a href="product.php">TEXTILE PRODUCTS</a></li>
+                <li><a href="blog.php">NEWS / BLOGS</a></li>
             </ul>
 
         </div>
