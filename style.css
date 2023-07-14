@@ -876,7 +876,7 @@ input:focus {
     text-transform: uppercase;
 }
 
-.aboutus02 h4 {
+.aboutus02 h4 ,.points h4{
     display: inline-flex;
     gap: 0.5rem;
     align-items: center;
@@ -1259,15 +1259,17 @@ form textarea {
     border: 1px solid var(--gray-5, #E0E0E0);
     background: rgba(255, 255, 255, 0.06);
 }
+
 form input::placeholder,
-form textarea ::placeholder{
+form textarea ::placeholder {
     color: #FFF;
-font-family: Poppins;
-font-size: 14px;
-font-style: normal;
-font-weight: 400;
-line-height: 24px; /* 171.429% */
-letter-spacing: 0.14px;
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 171.429% */
+    letter-spacing: 0.14px;
 }
 
 form button {
@@ -1275,7 +1277,7 @@ form button {
     width: 82%;
     padding: 10px;
     border-radius: 5px;
-    background:  #ED3237;
+    background: #ED3237;
     color: #FFF;
     font-family: Poppins;
     font-size: 18px;
@@ -1303,69 +1305,120 @@ form button {
 /* =======================================================about page start here */
 
 
-.all-hero{
+.all-hero {
     background: linear-gradient(rgba(0, 96, 170, 0.60), rgba(0, 96, 170, 0.60)), url(img/abouthero.svg);
     backdrop-filter: blur(30px);
 
-   background-repeat: no-repeat;
-   background-size: cover;
-   display: flex;
-   flex-direction: column;
-   justify-content: center;
-   align-items: center;
-   padding-block: 5.6rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-block: 5.6rem;
 }
-.all-hero h1{
+
+.all-hero h1 {
     text-align: center;
     color: #FFF;
-font-family: Poppins;
-font-size: 64px;
-font-style: normal;
-font-weight: 600;
-line-height: normal;
+    font-family: Poppins;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
 }
-.our-mission{
+
+.our-mission {
     display: flex;
     padding: 7rem 7.5rem;
     align-items: center;
     gap: 7.3rem;
 
 }
-.mission{
+
+.mission {
     width: 50%;
 }
 
-.mission h3{
+.mission h3 {
     color: #333;
-font-family: Poppins;
-font-size: 24px;
-font-style: normal;
-font-weight: 600;
-line-height: normal;
-padding-bottom: 0.2rem;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding-bottom: 0.2rem;
 }
-.mission h1{
+
+.mission h1 {
     color: #333;
-font-family: Poppins;
-font-size: 36px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-text-transform: uppercase;
-padding-bottom: 1.8rem;
+    font-family: Poppins;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    padding-bottom: 1.8rem;
 }
-.mission p{
+
+.mission p {
     text-align: left;
     color: #7F7F7F;
-font-family: Poppins;
-font-size: 18px;
-font-style: normal;
-font-weight: 400;
-line-height: normal;
-letter-spacing: 0.036px;
-text-transform: uppercase;
-padding-bottom: 1.2rem;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.036px;
+    text-transform: uppercase;
+    padding-bottom: 1.2rem;
 }
+
 .vision {
     gap: 15rem;
+}
+.products{
+    padding: 4.37rem 7.5rem;
+    position: relative;
+}
+
+.pro-head {
+	display: flex;
+	border-radius: 10px;
+	background: #FFF;
+	box-shadow: 0px 0px 11px 0px rgba(0, 0, 0, 0.11);
+	padding: 1.4rem;
+	gap: 1.8rem;
+	align-items: center;
+	width: 21.3rem;
+	position: relative;
+	left: 428px;
+	top: 77px;
+}
+.mis{
+    padding-top: 7rem;
+}
+
+.pro-head h1 {
+    color: #333;
+    font-family: Poppins;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+#icon3{
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+}
+.pro-dec{
+    display: flex;
+    justify-content: space-around;
+}
+.points {
+    display: flex;
+    justify-content: space-between;
+    margin-block: 2rem;
+    padding-inline: 6.25rem;
 }
