@@ -114,7 +114,7 @@
                         <h1>Polyster</h1>
                     </div>
                     <p>Polyester fabrics are known for their excellent wrinkle resistance. They ten d to retain.</p>
-                    <h4>READ MORE &nbsp;&nbsp;+</h4>
+                   <a href="product.php#p1"> <h4>READ MORE &nbsp;&nbsp;+</h4></a>
                     <img src="img/icon3.svg" alt="" id="our-ser-img">
                 </div>
                 <div class="our-main-p">
@@ -123,7 +123,7 @@
                         <h1>Polyster</h1>
                     </div>
                     <p>Polyester fabrics are known for their excellent wrinkle resistance. They ten d to retain.</p>
-                    <h4>READ MORE &nbsp;&nbsp;+</h4>
+                    <a href="product.php#p2"> <h4>READ MORE &nbsp;&nbsp;+</h4></a>
                     <img src="img/icon3.svg" alt="" id="our-ser-img">
                 </div>
                 <div class="our-main-p">
@@ -132,7 +132,7 @@
                         <h1>Polyster</h1>
                     </div>
                     <p>Polyester fabrics are known for their excellent wrinkle resistance. They ten d to retain.</p>
-                    <h4>READ MORE &nbsp;&nbsp;+</h4>
+                    <a href="product.php#p3"> <h4>READ MORE &nbsp;&nbsp;+</h4></a>
                     <img src="img/icon3.svg" alt="" id="our-ser-img">
                 </div>
 
@@ -145,7 +145,7 @@
                         <h1>Polyster</h1>
                     </div>
                     <p>Polyester fabrics are known for their excellent wrinkle resistance. They ten d to retain.</p>
-                    <h4>READ MORE &nbsp;&nbsp;+</h4>
+                    <a href="product.php#p4"> <h4>READ MORE &nbsp;&nbsp;+</h4></a>
                     <img src="img/icon3.svg" alt="" id="our-ser-img">
                 </div>
                 <div class="our-main-p">
@@ -154,7 +154,7 @@
                         <h1>Polyster</h1>
                     </div>
                     <p>Polyester fabrics are known for their excellent wrinkle resistance. They ten d to retain.</p>
-                    <h4>READ MORE &nbsp;&nbsp;+</h4>
+                    <a href="product.php#p5"> <h4>READ MORE &nbsp;&nbsp;+</h4></a>
                     <img src="img/icon3.svg" alt="" id="our-ser-img">
                 </div>
                 <div class="our-main-p">
@@ -163,7 +163,7 @@
                         <h1>Polyster</h1>
                     </div>
                     <p>Polyester fabrics are known for their excellent wrinkle resistance. They ten d to retain.</p>
-                    <h4>READ MORE &nbsp;&nbsp;+</h4>
+                    <a href="product.php#p6"> <h4>READ MORE &nbsp;&nbsp;+</h4></a>
                     <img src="img/icon3.svg" alt="" id="our-ser-img">
                 </div>
 
@@ -173,7 +173,7 @@
 
             <div class="ourindex">
                 <div class="contactbtn " id="ourindex">
-                    <a id="contactbtn01" href="">View All</a>
+                    <a id="contactbtn01" href="product.php">View All</a>
                     <img src="img/skip.svg" alt="" id="contactbtnimg">
                 </div>
             </div>
@@ -237,7 +237,7 @@
                     <h2>We believe in counting numbers</h2>
                 </div>
                 <div class="contactbtn " id="newsbtn">
-                    <a id="contactbtn01" href="">View All</a>
+                    <a id="contactbtn01" href="blog.php">View All</a>
                     <img src="img/skip.svg" alt="" id="contactbtnimg">
                 </div>
             </div>

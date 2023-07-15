@@ -15,7 +15,7 @@
     </div>
     <nav>
         <div class="logo">
-            <img src="img/logo.svg" alt="">
+          <a href="index.php">  <img src="img/logo.svg" alt=""></a>
         </div>
         <div class="manus">
             <ul>

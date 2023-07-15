@@ -25,12 +25,11 @@
     <div class="column quick-links">
         <h3>Quick Links</h3>
         <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About Us</a></li>
-            <li><a href="#">Products</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Contact</a></li>
-            <li><a href="#">F.A.Q</a></li>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="about.php">About Us</a></li>
+            <li><a href="product.php">Products</a></li>
+            <li><a href="blog.php">News / Blogs</a></li>
+
         </ul>
     </div>
     <div class="column post">
@@ -50,7 +49,7 @@
                 <p>Nulla vitae elit libero, a pharetra augue.</p>
             </div>
         </div>
-        <a href=""><h4>VIEW ALL RECENT POST</h4></a>
+        <a href=""><h4 style="padding-top:25px;">VIEW ALL RECENT POST</h4></a>
     </div>
     </div>
     <hr >
