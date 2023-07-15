@@ -3,11 +3,15 @@
 * {
     padding: 0;
     margin: 0;
+    scroll-behavior: smooth;
+
+
 }
 
 a {
     text-decoration: none;
 }
+
 
 
 
@@ -103,7 +107,8 @@ nav {
     transition: all 0.3s ease-in-out;
 }
 
-.manus ul li a:hover::before {
+.manus ul li a:hover::before ,
+.manus ul li a.active::before {
     width: 100%;
 }
 
@@ -209,7 +214,7 @@ nav {
 }
 
 .column:nth-child(2) {
-    flex: 10;
+    flex: 13;
 }
 
 .column:nth-child(3) {
@@ -1393,7 +1398,7 @@ form button {
 
 /* =========================================================product page start here */
 .products {
-    padding: 4.37rem 7.5rem;
+    padding: 0.37rem 7.5rem;
     position: relative;
 }
 
@@ -1600,3 +1605,4 @@ background: #F2F2F2;
 .pagination h1:hover{
     color: white ;
 }
+

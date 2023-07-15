@@ -7,12 +7,14 @@
     <link rel="stylesheet" href="style.css">
     <script src="https://kit.fontawesome.com/5f77a54189.js" crossorigin="anonymous"></script>
     <title>Document</title>
+
 </head>
 
 <body>
     <?php
     include "header.php";
    ?>
+
 
     <section class="main">
         <section class="hero">
@@ -23,7 +25,7 @@
                 <p>Armed with Sun Champ Global Trades insight and foresight.</p>
                 <p>Business Leaders will find us trustworthy, helping achieve desired results</p>
                 <div class="contactbtn indexhero">
-                    <a id="contactbtn01" href="">Contact Us </a>
+                    <a id="contactbtn01" href="#contactus">Contact Us </a>
                     <img src="img/skip.svg" alt="" id="contactbtnimg">
                 </div>
             </div>
@@ -311,7 +313,7 @@
 
         </section>
 
-        <section class="contact-index">
+        <section class="contact-index" id="contactus">
             <div class="box">
               <h2>Send Your Message Us</h2>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc malesuada quam at mi hendrerit consequat.</p>
@@ -356,8 +358,34 @@
 
     <?php
     include "footer.php";
+
    ?>
 
+
+   <script>
+    function smoothScroll(event) {
+event.preventDefault();
+
+const target = document.querySelector(event.target.getAttribute('href'));
+const topOffset = target.offsetTop;
+const duration = 10000; // Duration in milliseconds (0.3 seconds)
+const startTime = performance.now();
+const scrollAnimation = setInterval(function () {
+  const currentTime = performance.now();
+  const timeElapsed = currentTime - startTime;
+  const progress = timeElapsed / duration;
+  const distance = topOffset * progress;
+
+  window.scrollTo(0, distance);
+
+  if (timeElapsed >= duration) {
+    clearInterval(scrollAnimation);
+    window.scrollTo(0, topOffset);
+  }
+}, 16); // Update every 16 milliseconds (approx. 60 FPS)
+}
+
+</script>
     <script src="script.js"></script>
 </body>
 
