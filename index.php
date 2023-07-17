@@ -317,13 +317,14 @@
             <div class="box">
               <h2>Send Your Message Us</h2>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc malesuada quam at mi hendrerit consequat.</p>
-              <form>
-                <input type="text" placeholder="Name" required>
-                <input type="email" placeholder="Email" required>
-                <input type="tel" placeholder="Phone Number" required>
-                <input type="text" placeholder="Subject" required>
-                <textarea placeholder="Your Message" required></textarea>
-                <button type="submit">Submit</button>
+              <form action="https://formspree.io/f/xeqbojpn"
+              method="POST">
+                <input type="text" placeholder="Name" name="name"required>
+                <input type="email" placeholder="Email" name="email" required>
+                <input type="tel" placeholder="Phone Number" name="phone" required>
+                <input type="text" placeholder="Subject" name="subject" required>
+                <textarea placeholder="Your Message" name="Message" required></textarea>
+                <button type="submit" name="submit">Submit</button>
               </form>
             </div>
             <div class="box">
