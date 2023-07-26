@@ -412,7 +412,7 @@ input:focus {
     font-weight: 600;
     line-height: 22px;
     text-decoration: none;
-  
+
 }
 
 .footer2 h3 {
@@ -1606,4 +1606,23 @@ background: #F2F2F2;
 .pagination h1:hover{
     color: white ;
 }
+
+
+
+@media  (max-width:768px) {
+    .header01 {
+
+	padding-inline: 0.94rem;
+	padding-block: 0.7rem;
+}
+.header02 h3 {
+	font-size: 12px;
+    padding-right: 47.5px;
+}
+.header03 h3{
+    display: none;
+}
+
+}
+
 
