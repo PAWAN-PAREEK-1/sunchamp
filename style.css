@@ -1225,9 +1225,9 @@ input:focus {
 
 .contact-index {
     display: flex;
-    background: linear-gradient(rgba(0, 96, 170, 0.60), rgba(0, 96, 170, 0.60)), url(img/contactbg.svg);
-    backdrop-filter: blur(30px);
-    padding: 4.37rem 7.5rem;
+
+    /* backdrop-filter: blur(30px); */
+    padding: 0rem 0rem;
     background-repeat: no-repeat;
     background-size: cover;
     backdrop-filter: opacity(0.1);
@@ -1235,30 +1235,32 @@ input:focus {
 
 .box {
     flex: 1;
-    padding: 20px;
+    padding: 3.19rem;
+
+    border-radius: 0.9375rem;
+background: #FFF;
+box-shadow: 0px 8px 28px 0px rgba(0, 0, 0, 0.14);
 }
 
 .box h2 {
-    color: #FFF;
+    color: #333;
     font-family: Poppins;
-    font-size: 48px;
+    font-size: 3rem;
     font-style: normal;
     font-weight: 700;
-    line-height: 61px;
-    /* 127.083% */
+    line-height: 3.8125rem; /* 127.083% */
     text-transform: uppercase;
 }
 
 .box p {
     margin-top: 10px;
-    color: #FFF;
+    color: #7F7F7F;
     font-family: Poppins;
-    font-size: 20px;
+    font-size: 1.25rem;
     font-style: normal;
     font-weight: 400;
-    line-height: 24px;
-    /* 120% */
-    letter-spacing: 0.2px;
+    line-height: 1.5rem; /* 120% */
+    letter-spacing: 0.0125rem;
 }
 
 form {
@@ -1276,14 +1278,13 @@ form textarea {
 
 form input::placeholder,
 form textarea ::placeholder {
-    color: #FFF;
+    color: rgba(127, 127, 127, 0.80);
     font-family: Poppins;
-    font-size: 14px;
+    font-size: 1.0625rem;
     font-style: normal;
     font-weight: 400;
-    line-height: 24px;
-    /* 171.429% */
-    letter-spacing: 0.14px;
+    line-height: 1.5rem; /* 141.176% */
+    letter-spacing: 0.01063rem;
 }
 
 form button {
