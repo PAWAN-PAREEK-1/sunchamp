@@ -4,6 +4,7 @@
     padding: 0;
     margin: 0;
     scroll-behavior: smooth;
+    box-sizing: border-box;
 
 
 }
@@ -1606,10 +1607,29 @@ background: #F2F2F2;
 .pagination h1:hover{
     color: white ;
 }
+.hamburger{
+    display: none;
+    cursor: pointer;
+
+
+}
+.bar{
+    display: block;
+    /* color: black; */
+    width: 25px;
+    height: 3px;
+    margin: 5px auto;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    background-color: black;
+}
 
 
 
 @media  (max-width:768px) {
+    body{
+        overflow: hidden !important;
+    }
     .header01 {
 
 	padding-inline: 0.94rem;
@@ -1623,6 +1643,323 @@ background: #F2F2F2;
     display: none;
 }
 
+
+
+/* Your existing CSS styles */
+
+/* Add the following styles for hiding the navigation menu and showing the hamburger icon */
+.manus ul {
+	position: fixed;
+	right: -100%;
+
+	gap: 0;
+	flex-direction: column;
+	width: 100%;
+	text-align: center;
+	transition: right 0.3s ease;
+	background-color: #f0f0f0;
+	z-index: 1;
+	/* overflow: hidden; */
+	/* left: 20px; */
+	padding: 20px;
+}
+.manus.active ul {
+	right: 0;
+	top: 154px;
+	text-align: left;
+}
+
+.hamburger {
+    display: block;
+    cursor: pointer;
+    padding-right: 20px;
+}
+
+.hamburger .bar {
+    display: block;
+    width: 25px;
+    height: 3px;
+    background-color: #333;
+    margin: 6px auto;
+    transition: 0.4s;
+}
+
+.hamburger.active .bar:nth-child(2) {
+    opacity: 0;
+}
+
+.hamburger.active .bar:nth-child(1) {
+    transform: translateY(8px) rotate(45deg);
+}
+
+.hamburger.active .bar:nth-child(3) {
+    transform: translateY(-8px) rotate(-45deg);
+}
+
+/* Add the following style for hiding the contact button initially */
+.headcontact {
+    display: none;
+}
+.logo {
+
+	left: 34px;
+	z-index: 1;
+    top: 0px;
+    border: none;
+    background: none;
+    padding: 0;
+}
+.main-container{
+    margin-top: 0;
+    padding: 2.37rem 0.94rem;
+}
+.main-container h3{
+     font-size: 0.937rem;
+     padding-bottom:0.5rem ;
+}
+.main-container img{
+    width: 41%;
+}
+.main-container h1{
+    font-size: 1.5rem;
+    padding-bottom: 0.5rem;
+}
+.main-container p{
+    font-size: 0.8rem;
+}
+#contactbtn01{
+    font-size: 0.8rem;
+}
+.specelity{
+    padding: 2.37rem 0.94rem;
+}
+.spheading{
+    padding: 0;
+}
+.spheading h1{
+    font-size: 1.25rem;
+    line-height: 1.25;
+}
+.specelity-testi {
+
+	overflow: auto;
+}
+.spbox p {
+	font-size: 0.81rem;
+	line-height: 1rem;
+    padding-top: 0.94rem;
+}
+.spbox1{
+    width: 2.9375rem;
+height: 2.9375rem;
+gap: 131px;
+/*   */
+}
+.spbox hr{
+    margin-top: 0.94rem;
+}
+.spbox1 h1{
+    font-size: 2.1rem;
+}
+.spbox{
+    min-width: 268px;
+
+
+}
+.aboutus{
+    padding: 2.37rem 0.94rem;
+    flex-direction: column;
+
+}
+.aboutus01 img{
+    width: 100%;
+}
+.aboutus0101{
+    padding: 1rem 3.8rem 1rem 2.41rem;
+}
+.aboutus0101 span {
+	font-size: 3.75rem;
+}
+.aboutus0101 h1 {
+	font-size: 1.5rem;
+
+}
+.aboutus02 h3 {
+	font-size: 0.9375rem;
+}
+.aboutus02 h1{
+    font-size: 1.25rem;
+    line-height: normal;
+}
+.aboutus0201 #aboutP {
+	font-size: 0.875rem;
+}
+.aboutus02 p ,.aboutus02 h4, .points h4{
+	font-size: 0.81rem;
+	line-height: normal;
+
+
+}
+.aboutus02 {
+	padding-block: 0rem;
+}
+.ourproduct {
+
+    padding: 2.37rem 0.94rem;
+    margin-top: 0;
+
+
+}
+.ourproduct h1 {
+	font-size: 1.25rem;
+	line-height: normal;
+    text-align: left;
+    padding-right: 17px;
+
+}
+.ourproduct h3 {
+	font-size: 0.937rem;
+    text-align: left;
+}
+.our-main{
+    padding-block: 0.94rem;
+}
+.our-main01 img{
+    width: 3.4375rem;
+height: 3.4375rem;
+}
+.our-main-p .our-main01 {
+
+	gap: 0.62rem;
+
+}
+.our-main-p{
+    width: 17.438rem;
+}
+.our-main-p p {
+	font-size: 0.81rem;
+	line-height: normal;
+}
+.our-main-p h4 {
+	font-size: 0.81rem;
+
+}
+.ourproduct>div{
+    display: flex;
+    flex-direction: row;
+    overflow: auto;
+    gap: 20px;
+}
+.our-main2{
+    margin-top: 0;
+}
+.wp h3,.wp h1{
+    text-align: center;
+}
+.wp-main {
+
+	margin-block: 1.88rem;
+}
+.wp-box hr{
+    display: none;
+
+}
+.wp-box h2 {
+	font-size: 1.25rem;
+	line-height: 1.8rem;
+}
+.wp-box p {
+	font-size: 1rem;
+	line-height: 1.6rem;
+    padding-inline: 56px;
+}
+.wp-box{
+    min-width: 403px;
+}
+.testi101 img, .testi102 {
+	padding-inline: 0.94rem;
+    text-align: center;
+}
+#testibg {
+	transform: translate(150px, 50px);
+
+width: 7.5rem;
+height: 7.5rem;
+}
+.testi102 h3 {
+    font-family: Poppins;
+	font-size: 0.93rem;
+}
+.testi001 {
+	display: flex;
+	justify-content: end;
+	margin-right: 169px;
+	position: absolute;
+	top: 274px;
+	width: 100%;
+}
+.testi102 h1 {
+	font-size: 1.25rem;
+	line-height: normal;
+}
+.testicontact {
+	padding-inline: 0.94rem;
+    gap: 1.425rem;
+
+}
+.testicontact h3{
+    font-size: 0.81rem;
+}
+.testicontact p{
+    font-size: 1rem;
+}
+.testi102{
+    padding-bottom: 10.81rem;
+}
+.testi103 {
+	padding-top: 12.1rem;
+}
+.testi2 h1 {
+	font-size: 1.25rem;
+	line-height: 1.09rem;
+	text-align: center;
+}
+.rating0 h3{
+
+font-size: 1rem;
+
+line-height: normal;
+
+}
+.testi2 {
+	width: 100%;
+	margin: 0.94rem;
+}
+.testi2 p{
+font-size: 0.8125rem;
+
+line-height: normal;
+}
+.testi2{
+    padding: 30px;
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

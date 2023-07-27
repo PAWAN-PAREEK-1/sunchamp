@@ -17,7 +17,9 @@
         <div class="logo">
           <a href="index.php">  <img src="img/logo.svg" alt=""></a>
         </div>
-        <div class="manus">
+
+
+        <div class="manus " >
             <ul>
                 <li><a href="index.php" <?php if (basename($_SERVER['PHP_SELF']) == 'index.php') echo 'class="active"'; ?>>HOME</a></li>
                 <li><a href="about.php" <?php if (basename($_SERVER['PHP_SELF']) == 'about.php') echo 'class="active"'; ?>>ABOUT US</a></li>
@@ -27,13 +29,40 @@
             </ul>
 
         </div>
+        <div class="hamburger">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </div>
 
-        <div class="contactbtn">
+
+
+
+
+
+
+        <div class="contactbtn headcontact">
             <a id="contactbtn01" href="#contactus">Contact Us </a>
             <img src="img/skip.svg" alt="" id="contactbtnimg">
         </div>
 
 
+
+        <script>
+            document.addEventListener("DOMContentLoaded", function () {
+
+    const hamburger = document.querySelector(".hamburger");
+    const manus = document.querySelector(".manus");
+    const contactBtn = document.querySelector(".contactbtn");
+
+    hamburger.addEventListener("click", function () {
+        hamburger.classList.toggle("active");
+        manus.classList.toggle("active");
+        contactBtn.classList.toggle("active");
+    });
+});
+
+        </script>
 
     </nav>
 </header>
