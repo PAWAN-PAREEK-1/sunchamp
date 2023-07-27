@@ -599,7 +599,7 @@ input:focus {
     justify-content: end;
     margin-right: 169px;
     position: absolute;
-    top: 64px;
+    top: 22px;
 }
 
 .circles {
@@ -1628,7 +1628,7 @@ background: #F2F2F2;
 
 @media  (max-width:768px) {
     body{
-        overflow: hidden !important;
+        overflow-x: hidden ;
     }
     .header01 {
 
@@ -1943,8 +1943,83 @@ line-height: normal;
 .testi2{
     padding: 30px;
 }
+.news-blogs {
+	padding: 2.37rem 0.94rem;
+}
+.newsheading h4{
+font-size: 0.9375rem;
 
+}
+.newsheading h2{
+font-size: 1.25rem;
+line-height: normal;
+text-transform: uppercase;
+padding-right: 40px;
+}
+.news{
+    flex-direction: column;
+}
+#newsbtn{
+    margin-top: 20px;
+}
+.blogs{
+    margin-block: 2.5rem;
+    flex-direction: column-reverse;
+}
+.footer1{
+    padding: 2.37rem 0.94rem;
+    flex-direction: column;
+}
+.column #newshead{
+    font-size: 1.25rem;
 
+line-height: normal;
+
+}
+.newslatter{
+    flex-direction: column;
+    gap: 0.94rem;
+    max-width: 100% !important;
+}
+input{
+    width: 100%;
+}
+.contactbtn2 {
+    justify-content: center;
+	width: 100%;
+}
+.contact-info h3{
+    font-size: 0.875rem;
+
+line-height: normal;
+}
+.contact-info p{
+
+font-size: 0.8125rem;
+line-height: normal;
+}
+#phone{
+    font-size: 0.875rem;
+    line-height: normal;
+
+}
+.quick-links h3{
+
+font-size: 1.25rem;
+line-height: 1.75rem;
+}
+.quick-links ul li a{
+    line-height: normal ;
+}
+.footer2 h3{
+    font-size: 0.75rem;
+    line-height: normal;
+}
+.footer2 {
+
+	flex-direction: column;
+	gap: 20px;
+}
 
 
 
