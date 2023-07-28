@@ -77,7 +77,7 @@
                     </div>
                 </div>
             </div>
-            <div class="our-mission vision">
+            <div class="our-mission vision vision-mission">
                 <div class="clipimg  ">
                     <div class="img1">
                         <img src="img/clip1.svg" alt="">

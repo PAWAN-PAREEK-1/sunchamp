@@ -1666,7 +1666,7 @@ background: #F2F2F2;
 
 /* Add the following styles for hiding the navigation menu and showing the hamburger icon */
 .manus ul {
-	position: fixed;
+	position: absolute;
 	right: -100%;
 
 	gap: 0;
@@ -1682,7 +1682,7 @@ background: #F2F2F2;
 }
 .manus.active ul {
 	right: 0;
-	top: 154px;
+	top: 103px;
 	text-align: left;
 }
 
@@ -2073,7 +2073,36 @@ form input, form textarea {
 	width: 100%;
 
 }
+.our-mission{
+    flex-direction: column-reverse;
+    padding: 2.37rem 0.94rem;
+    align-items: self-start;
+}
+.img2{
+    left: 133px;
+}
+.vision-mission{
+    flex-direction: column;
+}
+.mission h3{
+font-size: 0.9375rem;
 
+line-height: normal;
+}
+.mission h1{
+font-size: 1.25rem;
+line-height: normal;
+}
+.mission{
+    width: 100%;
+}
+.mission p{
+font-size: 0.8125rem;
+line-height: normal;
+}
+.our-mission{
+    gap: 4.3rem;
+}
 
 
 
