@@ -2103,7 +2103,48 @@ line-height: normal;
 .our-mission{
     gap: 4.3rem;
 }
+.points{
+    padding-inline: 0.94rem;
+    flex-direction: column;
+}
+.products{
+    padding: 0px 0.94rem;
 
+
+}
+.pro-dec {
+
+	flex-direction: column;
+}
+.pro-img img {
+    width: 100%;
+}
+.mis {
+	padding-top: 4rem;
+}
+.pro-head h1{
+font-style: normal;
+line-height: normal;
+font-size: 1rem;
+}
+.pro-head{
+    padding: 0.94rem;
+}
+.pro-head {
+	left: 214px;
+	top: 421px;
+	width: 10.5rem;
+	gap: 0.63rem;
+}
+.pro-head img{
+    width: 2.6875rem;
+    height: 2.5rem;
+    flex-shrink: 0;
+}
+#icon3{
+    width: 0.75rem;
+height: 0.875rem;
+}
 
 
 
