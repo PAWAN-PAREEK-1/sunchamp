@@ -2037,6 +2037,42 @@ line-height: 1.75rem;
 	flex-direction: column;
 	gap: 20px;
 }
+.box img{
+    width: 100%;
+
+}
+.box h2{
+
+font-size: 1.25rem;
+line-height: normal;
+
+}
+.box p{
+font-size: 0.875rem;
+line-height: normal;
+}
+.box.box22 {
+	width: 21.5625rem;
+	height: 39.25rem;
+}
+.box22 {
+
+	right: 2.25rem;
+	top: 17.81rem;
+    padding: 0.94rem;
+}
+.contact-index{
+    margin-bottom: 37rem;
+}
+.nameemail {
+
+	gap: 0px;
+	flex-direction: column;
+}
+form input, form textarea {
+	width: 100%;
+
+}
 
 
 
