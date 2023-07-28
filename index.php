@@ -314,26 +314,26 @@
       </section>
 
       <section class="contact-index" id="contactus">
-        <div class="box box22">
+        <div class="box ">
             <img src="img/contact.svg" alt="">
 
         </div>
-        <div class="box">
+        <div class="box box22">
           <h2>Send Your Message Us</h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
             malesuada quam at mi hendrerit consequat.
           </p>
           <form action="https://formspree.io/f/xeqbojpn" method="POST">
-            <input type="text" placeholder="Name" name="name" required />
-            <input type="email" placeholder="Email" name="email" required />
-            <input
+           <div class="nameemail"> <input type="text" placeholder="Name" name="name" required />
+            <input type="email" placeholder="Email" name="email" required /></div>
+           <div class="nameemail"> <input
               type="tel"
               placeholder="Phone Number"
               name="phone"
               required
             />
-            <input type="text" placeholder="Subject" name="subject" required />
+            <input type="text" placeholder="Subject" name="subject" required /></div>
             <textarea
               placeholder="Your Message"
               name="Message"
