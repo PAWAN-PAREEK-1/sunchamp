@@ -2145,6 +2145,51 @@ font-size: 1rem;
     width: 0.75rem;
 height: 0.875rem;
 }
+.all-hero h1{
+    font-size: 1.5rem;
+}
+.all-hero img{
+    width: 6.125rem;
+height: 0.5rem;
+}
+.news-blog-hero h3{
+font-size: 0.9375rem;
+line-height: normal;
+text-align: left;
+}
+.news-blog-hero{
+    padding: 2.37rem 0.94rem;
+
+}
+.news-blog-hero h1{
+font-size: 1.25rem;
+line-height: normal;
+text-align: left;
+}
+.news2{
+    overflow: auto;
+    gap: 1.3rem;
+}
+.news0101{
+    width: 100%;
+}
+.news-img{
+    overflow: hidden;
+}
+.news-details p{
+    font-size: 0.8rem;
+    line-height: normal;
+}
+.news-details h2{
+    font-size: 1.25rem;
+    line-height: normal;
+}
+.news-details h4{
+    margin-right:11.4rem;
+}
+.news1{
+    margin-block: 0;
+}
 
 
 
