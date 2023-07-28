@@ -13,6 +13,15 @@ a {
     text-decoration: none;
 }
 
+span{
+    color: var(--primery, #ED3237);
+font-family: Poppins;
+
+font-style: normal;
+
+
+
+}
 
 
 
@@ -541,7 +550,7 @@ input:focus {
 .testi2 {
     padding: 30px 30px 70px 30px;
     background-color: #0060AA;
-    width: 30%;
+    width: 40%;
     border-radius: 15px;
     /* transform: translateY(-110%); */
 
@@ -2194,15 +2203,13 @@ text-align: left;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 }
+
+/* @media  (max-width: 766px) {
+    .box .box22 {
+        right: 0.35rem;
+        top: 17.81rem;
+        padding: 0.94rem;
+    }
+
+} */

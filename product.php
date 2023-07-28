@@ -21,7 +21,7 @@
     </section>
     <section class="ourproduct">
         <h3>Our Product</h3>
-        <h1>Let's Experience Exclusive Quality</h1>
+        <h1>Let's Experience Exclusive <span>Quality</span> </h1>
 
         <div class="our-main">
 
@@ -104,7 +104,7 @@
             </div>
             <div class="mission mis">
 
-                <h1>Service..... that builds Trust</h1>
+                <h1>Service..... <span>that builds Trust</span> </h1>
                 <p>The mission of the Sun Champ Global Trades is to create prosperity by strengthening the
                     competitiveness of industry, promoting trade and investment, and ensuring fair trade and
                     compliance with trade laws and agreements.</p>

@@ -8,8 +8,8 @@
                 </div>
                 <div class="testi102">
                     <h3>Our Testimonial</h3>
-                    <h1>Our Materials will build<br>
-                        your Trust</h1>
+                    <h1>Our Materials will <span> build<br>
+                        your Trust</span></h1>
 
                 </div>
             </div>

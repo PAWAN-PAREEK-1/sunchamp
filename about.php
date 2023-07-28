@@ -33,7 +33,7 @@
             </div>
             <div class="aboutus02">
                 <h3>About Us</h3>
-                <h1>Let’s Build Something Creative together</h1>
+                <h1>Let’s <span>Build Something</span>  Creative together</h1>
                 <div class="aboutus0201">
                     <img src="img/icon1.svg" alt="">
                     <p id="aboutP">We’re In This Business Since 2008 And We Provide The Best Services</p>
@@ -58,7 +58,7 @@
             <div class="our-mission">
                 <div class="mission">
                     <h3>Our Mission</h3>
-                    <h1>Service..... that builds Trust</h1>
+                    <h1>Service..... <span>that builds Trust</span> </h1>
                     <p>The mission of the Sun Champ Global Trades is to create prosperity by strengthening the
                         competitiveness of industry, promoting trade and investment, and ensuring fair trade and
                         compliance with trade laws and agreements.</p>
@@ -88,7 +88,7 @@
                 </div>
                 <div class="mission">
                     <h3>Our Vision</h3>
-                    <h1>We have focused on placing our office infrastructure</h1>
+                    <h1>We have  <span>focused</span> on placing our office infrastructure</h1>
                     <p>The mission of the Sun Champ Global Trades is to create prosperity by strengthening the
                         competitiveness of industry, promoting trade and investment, and ensuring fair trade and
                         compliance with trade laws and agreements.</p>

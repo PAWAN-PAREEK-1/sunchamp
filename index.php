@@ -36,7 +36,7 @@
 
       <section class="specelity">
         <div class="spheading">
-          <h1>We Give Top Production From Every Angle</h1>
+          <h1>We Give <span>Top Production </span> From Every Angle</h1>
         </div>
 
         <div class="specelity-testi">
@@ -85,7 +85,7 @@
         </div>
         <div class="aboutus02">
           <h3>About Us</h3>
-          <h1>Let’s Build Something Creative together</h1>
+          <h1>Let’s <span>Build Something </span> Build Something Creative together</h1>
           <div class="aboutus0201">
             <img src="img/icon1.svg" alt="" />
             <p id="aboutP">
@@ -114,7 +114,7 @@
 
       <section class="ourproduct">
         <h3>Our Product</h3>
-        <h1>Let's Experience Exclusive Quality</h1>
+        <h1>Let's Experience Exclusive <span>Quality</span> </h1>
         <div>
           <div class="our-main">
             <div class="our-main-p">
@@ -204,7 +204,7 @@
 
       <section class="ourproduct wp">
         <h3>working process</h3>
-        <h1>FABIFLEX WORKING PROCESS!</h1>
+        <h1><span>FABIFLEX</span> WORKING PROCESS!</h1>
         <div class="wp-main">
           <div class="wp-box">
             <hr />
@@ -247,7 +247,7 @@
         <div class="news">
           <div class="newsheading">
             <h4>Latest News & Blog</h4>
-            <h2>We believe in counting numbers</h2>
+            <h2> <span>We believe</span> in counting numbers</h2>
           </div>
           <div class="contactbtn" id="newsbtn">
             <a id="contactbtn01" href="blog.php">View All</a>

@@ -23,7 +23,7 @@
 
 <section class="news-blog-hero  news-det-dec">
     <h3>Latest News & Blog</h3>
-    <h1>We believe in counting numbers</h1>
+    <h1> <span>We believe </span>in counting numbers</h1>
 
 </section>
 
