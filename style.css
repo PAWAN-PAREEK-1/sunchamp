@@ -1654,7 +1654,7 @@ background: #F2F2F2;
 
 @media  (max-width:768px) {
     body{
-        overflow-x: hidden ;
+        /* overflow-y: hidden ; */
     }
     .header01 {
 
@@ -1675,7 +1675,7 @@ background: #F2F2F2;
 
 /* Add the following styles for hiding the navigation menu and showing the hamburger icon */
 .manus ul {
-	position: absolute;
+	position: fixed;
 	right: -100%;
 
 	gap: 0;
@@ -1691,7 +1691,7 @@ background: #F2F2F2;
 }
 .manus.active ul {
 	right: 0;
-	top: 103px;
+	top: 162px;
 	text-align: left;
 }
 
