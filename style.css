@@ -2213,3 +2213,19 @@ text-align: left;
     }
 
 } */
+
+
+@media (max-width: 368px){
+.box22 {
+  right: 0.45rem !important;
+  top: 17.81rem;
+  padding: 0.94rem;
+}
+}
+@media (min-width: 369px) and (max-width: 385px){
+    .box22 {
+      right: 1.25rem !important;
+      top: 17.81rem;
+      padding: 0.94rem;
+    }
+    }
