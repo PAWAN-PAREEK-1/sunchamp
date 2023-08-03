@@ -2221,6 +2221,14 @@ text-align: left;
   top: 17.81rem;
   padding: 0.94rem;
 }
+nav{
+    padding-left: 304px !important;
+}
+.news-box h3 {
+
+	font-size: 14px;
+	
+}
 }
 @media (min-width: 369px) and (max-width: 385px){
     .box22 {
