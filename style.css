@@ -33,6 +33,7 @@ font-style: normal;
     background-color: #0060AA;
     padding-inline: 6.25rem;
     padding-block: 0.7rem;
+    align-items: center;
 
 }
 
@@ -128,7 +129,7 @@ nav {
     display: flex;
     align-items: center;
     width: fit-content;
-    padding: 10px;
+    padding: 12px 25PX;
     gap: 5px;
     background-color: #ED3237;
     border-radius: 10px;
@@ -161,7 +162,7 @@ nav {
 .logo {
     position: absolute;
     top: 30px;
-    left: 191px;
+    left: 125px;
     z-index: 1;
     border: 2px solid white;
     background: white;
@@ -831,7 +832,7 @@ input:focus {
 }
 
 .aboutus02 {
-    padding-block: 2.6rem;
+    padding-top: 2.6rem;
 }
 
 .aboutus02 p {
@@ -851,7 +852,7 @@ input:focus {
     background-color: white;
     padding: 1rem 1.8rem 1rem 2.03rem;
     position: absolute;
-    bottom: 3.6rem;
+    bottom:6rem;
 
 }
 
@@ -2227,7 +2228,7 @@ nav{
 .news-box h3 {
 
 	font-size: 14px;
-	
+
 }
 }
 @media (min-width: 369px) and (max-width: 385px){
