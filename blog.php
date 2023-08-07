@@ -28,7 +28,11 @@
                 <div class="news-box news0101">
 
                     <div class="news-img">
-                        <h3>Traditional</h3>
+                   <div class="h1">
+                    <h3>Traditional</h3>
+                   </div>
+
+
                         <img src="img/news5.svg" alt="">
 
                     </div>
@@ -48,7 +52,10 @@
                 <div class="news-box news0101">
 
                     <div class="news-img">
-                        <h3>Traditional</h3>
+                        <div class="h1">
+                            <h3>Traditional</h3>
+                           </div>
+
                         <img src="img/news6.svg" alt="">
 
                     </div>
@@ -68,7 +75,10 @@
                 <div class="news-box news0101">
 
                     <div class="news-img">
-                        <h3>Traditional</h3>
+                        <div class="h1">
+                            <h3>Traditional</h3>
+                           </div>
+
                         <img src="img/news6.svg" alt="">
 
                     </div>
@@ -92,7 +102,10 @@
                 <div class="news-box news0101">
 
                     <div class="news-img">
-                        <h3>Traditional</h3>
+                        <div class="h1">
+                            <h3>Traditional</h3>
+                           </div>
+
                         <img src="img/news5.svg" alt="">
 
                     </div>
@@ -112,7 +125,10 @@
                 <div class="news-box news0101">
 
                     <div class="news-img">
-                        <h3>Traditional</h3>
+                        <div class="h1">
+                            <h3>Traditional</h3>
+                           </div>
+
                         <img src="img/news5.svg" alt="">
 
                     </div>
@@ -132,7 +148,10 @@
                 <div class="news-box news0101">
 
                     <div class="news-img">
-                        <h3>Traditional</h3>
+                        <div class="h1">
+                            <h3>Traditional</h3>
+                           </div>
+
                         <img src="img/news5.svg" alt="">
 
                     </div>

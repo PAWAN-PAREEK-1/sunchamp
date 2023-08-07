@@ -16,7 +16,9 @@
 
 
    <section class="all-hero">
+   <div class="h1">
     <h1>News</h1>
+</div>
     <img src="img/clipimg2.svg" alt="">
 </section>
 

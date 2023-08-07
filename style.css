@@ -609,7 +609,7 @@ input:focus {
     justify-content: end;
     margin-right: 169px;
     position: absolute;
-    top: 22px;
+    top: 62px;
 }
 
 .circles {
@@ -1538,15 +1538,26 @@ form button {
     font-style: normal;
     font-weight: 600;
     line-height: 26px;
+
+}
+.h1{
     padding: 5px 20px;
     border-radius: 5px;
     background-color: red;
-    width: 33%;
-    position: absolute;
-    top: 26px;
-    left: 26px;
+    /* width: 33%; */
+    /* position: absolute; */
+    /* top: 26px;
+    left: 26px; */
 }
-
+.h11{
+    padding: 5px 20px;
+    border-radius: 5px;
+    background-color: red;
+    /* width: 33%; */
+     position: absolute;
+    /* top: 26px;
+    left: 26px; */
+}
 .news-time2 h5 {
     color: black;
 }
@@ -1565,11 +1576,11 @@ form button {
 
 .news-details {
     padding: 15px;
-
+    text-align: left;
 }
 
 .news0101 {
-    width: 33%;
+    /* width: 33%; */
     padding: 1rem;
     margin-block: 20px;
 }
@@ -1589,7 +1600,7 @@ form button {
 }
 
 .news-details h4 {
-    margin-right: 14rem;
+    /* margin-right: 14rem; */
     display: inline-flex;
     align-items: center;
     gap: 0.5rem;
@@ -1599,6 +1610,7 @@ form button {
     font-style: normal;
     font-weight: 600;
     line-height: 26px;
+
     /* 144.444% */
 }
 .news1{
@@ -2237,4 +2249,7 @@ nav{
       top: 17.81rem;
       padding: 0.94rem;
     }
+    }
+    .vision{
+        padding-top: 0;
     }
