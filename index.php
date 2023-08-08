@@ -290,7 +290,7 @@
 
           <a href="">
             <div class="news-box">
-              <div class="h1 h11 ">
+              <div class="h11 ">
                 <h3>Traditional</h3>
                </div>
 
@@ -304,7 +304,7 @@
           </a>
           <a href="">
             <div class="news-box newsbox2">
-              <div class="h1 h11 ">
+              <div class=" h11 ">
               <h3 id="second-head">Industry</h3>
               </div>
               <p>Textilegence Magazine & Digital Platform</p>

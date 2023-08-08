@@ -730,7 +730,7 @@ input:focus {
 }
 
 .specelity {
-    padding: 100px 120px;
+    padding: 100px 120px 0;
 }
 
 .spheading {
@@ -1170,6 +1170,7 @@ input:focus {
     border-radius: 10px;
     border: none !important;
     background-size: cover;
+    height: 100%;
 
 
 }
@@ -1211,7 +1212,7 @@ input:focus {
     font-weight: 600;
     line-height: 28px;
     border-bottom: dashed 1px;
-    padding-top: 12rem;
+    padding-top: 14rem;
 }
 
 
@@ -1545,9 +1546,9 @@ form button {
     border-radius: 5px;
     background-color: red;
     /* width: 33%; */
-    /* position: absolute; */
-    /* top: 26px;
-    left: 26px; */
+    position: absolute;
+     top: 26px;
+    left: 26px;
 }
 .h11{
     padding: 5px 20px;
@@ -1661,6 +1662,9 @@ background: #F2F2F2;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
     background-color: black;
+}
+.box img{
+    height: 100%;
 }
 
 
