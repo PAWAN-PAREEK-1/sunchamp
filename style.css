@@ -759,6 +759,7 @@ input:focus {
     background: #F6FBFF;
     position: relative;
     padding: 1.875rem 1.56rem;
+    flex: 1;
 }
 
 .spbox #spdesign {
@@ -808,6 +809,7 @@ input:focus {
     padding: 4.37rem 7.5rem;
     display: flex;
     gap: 3.12rem;
+    align-items: center;
 
 }
 
@@ -832,7 +834,7 @@ input:focus {
 }
 
 .aboutus02 {
-    padding-top: 2.6rem;
+    /* padding-top: 2.6rem; */
 }
 
 .aboutus02 p {
@@ -979,6 +981,7 @@ input:focus {
     background-color: white;
     padding: 1.5rem;
     position: relative;
+    flex: 1;
 
 }
 
@@ -1479,6 +1482,8 @@ form button {
 .points {
     display: flex;
     justify-content: space-between;
+    /* gap: 6rem; */
+    width: 80%;
     margin-block: 2rem;
     padding-inline: 6.25rem;
 }
@@ -2250,7 +2255,12 @@ font-style: normal;
 font-weight: 400 !important;
 line-height: normal;
 }
-
+.points{
+    gap: 0;
+}
+.table{
+    margin-top: 0rem !important;
+}
 
 
 
@@ -2302,6 +2312,7 @@ nav{
         border-radius: 0.625rem;
 border: 1px solid #E9E9E9;
 background: #FFF;
+margin-top: 4rem;
     }
 
 
@@ -2343,4 +2354,8 @@ line-height: normal;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+}
+.point1{
+    display: flex;
+    flex-direction: column;
 }

@@ -47,7 +47,8 @@
             </div>
             <hr />
             <p>
-              Choose For Many Fabrics and Textiles materials for your production
+              Pick the perfect fabrics and textile materials for your production
+              from our diverse collection
             </p>
             <img src="img/spdesign.svg" alt="" id="spdesign" />
           </div>
@@ -58,7 +59,8 @@
             </div>
             <hr />
             <p>
-              Choose For Many Fabrics and Textiles materials for your production
+              From fibers to fashion, our yarns play a pivotal role in textile
+              evolution
             </p>
             <img src="img/spdesign.svg" alt="" id="spdesign" />
           </div>
@@ -69,7 +71,8 @@
             </div>
             <hr />
             <p>
-              Choose For Many Fabrics and Textiles materials for your production
+              We don't just manufacture yarn, we spin the embodiment of culture,
+              passion, and imagination
             </p>
             <img src="img/spdesign.svg" alt="" id="spdesign" />
           </div>
@@ -85,7 +88,10 @@
         </div>
         <div class="aboutus02">
           <h3>About Us</h3>
-          <h1>Let’s <span>Build Something </span> Build Something Creative together</h1>
+          <h1>
+            Let’s <span>Build Something </span> Build Something Creative
+            together
+          </h1>
           <div class="aboutus0201">
             <img src="img/icon1.svg" alt="" />
             <p id="aboutP">
@@ -93,28 +99,34 @@
             </p>
           </div>
           <p>
-            It is additionally connected with the production clothes. The crude
-            material of textiles is the fiber which might be regular
-            regenerated.
+            We are a Leading supplier of Textile & Chemical Products in India,
+            with a strong presence in global markets including India, China,
+            Bangladesh, Egypt, Thailand, Indonesia, Vietnam, Europe, and North
+            America.
           </p>
           <h4>
-            <img src="img/icon2.svg" alt="" />It can be very well produced using
-            fiber, yarn, texture, or mix.
+            <img src="img/icon2.svg" alt="" />Our name and strength arise from
+            our skilled staff's 15+ years of global market expertise, ensuring
+            customer satisfaction and Trust through our tagline, 'Service...
+            that builds Trust'.
           </h4>
           <h4>
-            <img src="img/icon2.svg" alt="" />It is one of the most extensive
-            terms applied to the clothing industry.
+            <img src="img/icon2.svg" alt="" />Our Professionals are
+            strategically navigating international trade in supplier/buyer host
+            countries, adeptly responsive to cultural nuances and cost-effective
+            practices.
           </h4>
           <h4>
-            <img src="img/icon2.svg" alt="" />It is one of the most extensive
-            terms applied to the clothing industry.
+            <img src="img/icon2.svg" alt="" />Built upon India's strong textile
+            tradition, we proudly serve a diverse clientele, Texturizers,
+            Weavers, Spinning Mills, Traders, and textile-related players.
           </h4>
         </div>
       </section>
 
       <section class="ourproduct">
         <h3>Our Product</h3>
-        <h1>Let's Experience Exclusive <span>Quality</span> </h1>
+        <h1>Let's Experience Exclusive <span>Quality</span></h1>
         <div>
           <div class="our-main">
             <div class="our-main-p">
@@ -123,8 +135,8 @@
                 <h1>Polyster</h1>
               </div>
               <p>
-                Polyester fabrics are known for their excellent wrinkle
-                resistance. They ten d to retain.
+                Sun Champ Global Traders is The best Polyester supplier in
+                Surat, India. Our business...
               </p>
               <a href="product.php#p1"> <h4>READ MORE &nbsp;&nbsp;+</h4></a>
               <img src="img/icon3.svg" alt="" id="our-ser-img" />
@@ -132,11 +144,11 @@
             <div class="our-main-p">
               <div class="our-main01">
                 <img src="img/icon4.svg" alt="" />
-                <h1>Polyster</h1>
+                <h1>Recycled</h1>
               </div>
               <p>
-                Polyester fabrics are known for their excellent wrinkle
-                resistance. They ten d to retain.
+                We, Sun Champ Global Traders The Top recycled polyester fiber
+                manufacturer in India...
               </p>
               <a href="product.php#p2"> <h4>READ MORE &nbsp;&nbsp;+</h4></a>
               <img src="img/icon3.svg" alt="" id="our-ser-img" />
@@ -144,11 +156,11 @@
             <div class="our-main-p">
               <div class="our-main01">
                 <img src="img/icon5.svg" alt="" />
-                <h1>Polyster</h1>
+                <h1>Nylon</h1>
               </div>
               <p>
-                Polyester fabrics are known for their excellent wrinkle
-                resistance. They ten d to retain.
+                A synthetic fiber created from petroleum is called nylon. It is
+                frequently utilized in...
               </p>
               <a href="product.php#p3"> <h4>READ MORE &nbsp;&nbsp;+</h4></a>
               <img src="img/icon3.svg" alt="" id="our-ser-img" />
@@ -158,11 +170,11 @@
             <div class="our-main-p">
               <div class="our-main01">
                 <img src="img/icon6.svg" alt="" />
-                <h1>Polyster</h1>
+                <h1>Cotton/Yarn</h1>
               </div>
               <p>
-                Polyester fabrics are known for their excellent wrinkle
-                resistance. They ten d to retain.
+                The cotton yarns we provide are made using the most up-to-date
+                spinning equipment to...
               </p>
               <a href="product.php#p4"> <h4>READ MORE &nbsp;&nbsp;+</h4></a>
               <img src="img/icon3.svg" alt="" id="our-ser-img" />
@@ -170,11 +182,11 @@
             <div class="our-main-p">
               <div class="our-main01">
                 <img src="img/icon7.svg" alt="" />
-                <h1>Polyster</h1>
+                <h1>Fabrics</h1>
               </div>
               <p>
-                Polyester fabrics are known for their excellent wrinkle
-                resistance. They ten d to retain.
+                Fabric producers use advanced technology and skills to create
+                high-quality materials that...
               </p>
               <a href="product.php#p5"> <h4>READ MORE &nbsp;&nbsp;+</h4></a>
               <img src="img/icon3.svg" alt="" id="our-ser-img" />
@@ -182,11 +194,11 @@
             <div class="our-main-p">
               <div class="our-main01">
                 <img src="img/icon8.svg" alt="" />
-                <h1>Polyster</h1>
+                <h1>Specialities</h1>
               </div>
               <p>
-                Polyester fabrics are known for their excellent wrinkle
-                resistance. They ten d to retain.
+                Welcome to our exceptional textile industry, where the perfect
+                harmony of modern technology...
               </p>
               <a href="product.php#p6"> <h4>READ MORE &nbsp;&nbsp;+</h4></a>
               <img src="img/icon3.svg" alt="" id="our-ser-img" />
@@ -247,7 +259,7 @@
         <div class="news">
           <div class="newsheading">
             <h4>Latest News & Blog</h4>
-            <h2> <span>We believe</span> in counting numbers</h2>
+            <h2><span>We believe</span> in counting numbers</h2>
           </div>
           <div class="contactbtn" id="newsbtn">
             <a id="contactbtn01" href="blog.php">View All</a>
@@ -290,9 +302,9 @@
 
           <a href="">
             <div class="news-box">
-              <div class="h11 ">
+              <div class="h11">
                 <h3>Traditional</h3>
-               </div>
+              </div>
 
               <p>Textilegence Magazine & Digital Platform</p>
 
@@ -304,8 +316,8 @@
           </a>
           <a href="">
             <div class="news-box newsbox2">
-              <div class=" h11 ">
-              <h3 id="second-head">Industry</h3>
+              <div class="h11">
+                <h3 id="second-head">Industry</h3>
               </div>
               <p>Textilegence Magazine & Digital Platform</p>
 
@@ -319,26 +331,33 @@
       </section>
 
       <section class="contact-index" id="contactus">
-        <div class="box ">
-            <img src="img/contact.svg" alt="">
-
+        <div class="box">
+          <img src="img/contact.svg" alt="" />
         </div>
         <div class="box box22">
           <h2>Send Your Message Us</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
-            malesuada quam at mi hendrerit consequat.
+            Feel free to reach out to us by sending a message through our website's contact form. -  we're here to listen
           </p>
           <form action="https://formspree.io/f/xeqbojpn" method="POST">
-           <div class="nameemail"> <input type="text" placeholder="Name" name="name" required />
-            <input type="email" placeholder="Email" name="email" required /></div>
-           <div class="nameemail"> <input
-              type="tel"
-              placeholder="Phone Number"
-              name="phone"
-              required
-            />
-            <input type="text" placeholder="Subject" name="subject" required /></div>
+            <div class="nameemail">
+              <input type="text" placeholder="Name" name="name" required />
+              <input type="email" placeholder="Email" name="email" required />
+            </div>
+            <div class="nameemail">
+              <input
+                type="tel"
+                placeholder="Phone Number"
+                name="phone"
+                required
+              />
+              <input
+                type="text"
+                placeholder="Subject"
+                name="subject"
+                required
+              />
+            </div>
             <textarea
               placeholder="Your Message"
               name="Message"
@@ -347,7 +366,6 @@
             <button type="submit" name="submit">Submit</button>
           </form>
         </div>
-
       </section>
     </section>
 
