@@ -91,15 +91,16 @@
 
 
     <section class="products"  id="p1">
-        <div class="pro-head">
-            <img src="img/icon9.svg" alt="">
-            <h1>Polyster</h1>
-            <img src="img/icon3.svg" alt="" id="icon3">
-        </div>
+
 
         <div class="pro-dec">
             <div class="pro-img">
                 <img src="img/productSec.svg" alt="">
+                <div class="pro-head">
+                    <img src="img/icon9.svg" alt="">
+                    <h1>Polyster</h1>
+                    <img src="img/icon3.svg" alt="" id="icon3">
+                </div>
 
             </div>
             <div class="mission mis">
@@ -118,29 +119,30 @@
 
         <div class="points">
             <div class="point1">
-                <h4><img src="img/icon2.svg" alt="">Trends the Current Market in Design.</h4>
-                <h4><img src="img/icon2.svg" alt="">The rayon fabrics wholesaler is available.</h4>
-                <h4><img src="img/icon2.svg" alt="">The Global fabrics distributor is done by company..</h4>
+               <a href="./Polyster.php#p1"><h4><img src="img/icon2.svg" alt="">Trends the Current Market in Design.</h4></a>
+               <a href="./Polyster.php#p2"> <h4><img src="img/icon2.svg" alt="">The rayon fabrics wholesaler is available.</h4></a>
+               <a href="./Polyster.php#p3"> <h4><img src="img/icon2.svg" alt="">The Global fabrics distributor is done by company..</h4></a>
             </div>
             <div class="point1">
-                <h4><img src="img/icon2.svg" alt="">Trends the Current Market in Design</h4>
-                <h4><img src="img/icon2.svg" alt="">The Global fabrics distributor is done by company.</h4>
-                <h4><img src="img/icon2.svg" alt="">The rayon fabrics wholesaler is available.</h4>
+               <a href="./Polyster.php#p4"> <h4><img src="img/icon2.svg" alt="">Trends the Current Market in Design</h4></a>
+               <a href="./Polyster.php#p5"> <h4><img src="img/icon2.svg" alt="">The Global fabrics distributor is done by company.</h4></a>
+               <a href="./Polyster.php#p6"> <h4><img src="img/icon2.svg" alt="">The rayon fabrics wholesaler is available.</h4></a>
             </div>
 
         </div>
     </section>
 
     <section class="products p1" id="p2">
-        <div class="pro-head">
-            <img src="img/icon9.svg" alt="">
-            <h1>Polyster</h1>
-            <img src="img/icon3.svg" alt="" id="icon3">
-        </div>
+
 
         <div class="pro-dec">
             <div class="pro-img">
                 <img src="img/productSec.svg" alt="">
+                <div class="pro-head">
+                    <img src="img/icon9.svg" alt="">
+                    <h1>Recycled</h1>
+                    <img src="img/icon3.svg" alt="" id="icon3">
+                </div>
 
             </div>
             <div class="mission mis">
@@ -159,29 +161,30 @@
 
         <div class="points">
             <div class="point1">
-                <h4><img src="img/icon2.svg" alt="">Trends the Current Market in Design.</h4>
-                <h4><img src="img/icon2.svg" alt="">The rayon fabrics wholesaler is available.</h4>
-                <h4><img src="img/icon2.svg" alt="">The Global fabrics distributor is done by company..</h4>
+               <a href="./Recycled.php#p1"><h4><img src="img/icon2.svg" alt="">Trends the Current Market in Design.</h4></a>
+               <a href="./Recycled.php#p2"> <h4><img src="img/icon2.svg" alt="">The rayon fabrics wholesaler is available.</h4></a>
+               <a href="./Recycled.php#p3"> <h4><img src="img/icon2.svg" alt="">The Global fabrics distributor is done by company..</h4></a>
             </div>
             <div class="point1">
-                <h4><img src="img/icon2.svg" alt="">Trends the Current Market in Design</h4>
-                <h4><img src="img/icon2.svg" alt="">The Global fabrics distributor is done by company.</h4>
-                <h4><img src="img/icon2.svg" alt="">The rayon fabrics wholesaler is available.</h4>
+               <a href="./Recycled.php#p4"> <h4><img src="img/icon2.svg" alt="">Trends the Current Market in Design</h4></a>
+               <a href="./Recycled.php#p5"> <h4><img src="img/icon2.svg" alt="">The Global fabrics distributor is done by company.</h4></a>
+               <a href="./Recycled.php#p6"> <h4><img src="img/icon2.svg" alt="">The rayon fabrics wholesaler is available.</h4></a>
             </div>
 
         </div>
     </section>
 
     <section class="products p1" id="p3">
-        <div class="pro-head">
-            <img src="img/icon9.svg" alt="">
-            <h1>Polyster</h1>
-            <img src="img/icon3.svg" alt="" id="icon3">
-        </div>
+
 
         <div class="pro-dec">
             <div class="pro-img">
                 <img src="img/productSec.svg" alt="">
+                <div class="pro-head">
+                    <img src="img/icon9.svg" alt="">
+                    <h1>Nylon</h1>
+                    <img src="img/icon3.svg" alt="" id="icon3">
+                </div>
 
             </div>
             <div class="mission mis">
@@ -200,14 +203,14 @@
 
         <div class="points">
             <div class="point1">
-                <h4><img src="img/icon2.svg" alt="">Trends the Current Market in Design.</h4>
-                <h4><img src="img/icon2.svg" alt="">The rayon fabrics wholesaler is available.</h4>
-                <h4><img src="img/icon2.svg" alt="">The Global fabrics distributor is done by company..</h4>
+               <a href="./Nylon.php#p1"><h4><img src="img/icon2.svg" alt="">Trends the Current Market in Design.</h4></a>
+               <a href="./Nylon.php#p2"> <h4><img src="img/icon2.svg" alt="">The rayon fabrics wholesaler is available.</h4></a>
+               <a href="./Nylon.php#p3"> <h4><img src="img/icon2.svg" alt="">The Global fabrics distributor is done by company..</h4></a>
             </div>
             <div class="point1">
-                <h4><img src="img/icon2.svg" alt="">Trends the Current Market in Design</h4>
-                <h4><img src="img/icon2.svg" alt="">The Global fabrics distributor is done by company.</h4>
-                <h4><img src="img/icon2.svg" alt="">The rayon fabrics wholesaler is available.</h4>
+               <a href="./Nylon.php#p4"> <h4><img src="img/icon2.svg" alt="">Trends the Current Market in Design</h4></a>
+               <a href="./Nylon.php#p5"> <h4><img src="img/icon2.svg" alt="">The Global fabrics distributor is done by company.</h4></a>
+               <a href="./Nylon.php#p6"> <h4><img src="img/icon2.svg" alt="">The rayon fabrics wholesaler is available.</h4></a>
             </div>
 
         </div>
@@ -215,15 +218,16 @@
 
 
     <section class="products p1" id="p4">
-        <div class="pro-head">
-            <img src="img/icon9.svg" alt="">
-            <h1>Polyster</h1>
-            <img src="img/icon3.svg" alt="" id="icon3">
-        </div>
+
 
         <div class="pro-dec">
             <div class="pro-img">
                 <img src="img/productSec.svg" alt="">
+                <div class="pro-head">
+                    <img src="img/icon9.svg" alt="">
+                    <h1>Cotton / Viscose / Blend Yarn </h1>
+                    <img src="img/icon3.svg" alt="" id="icon3">
+                </div>
 
             </div>
             <div class="mission mis">
@@ -242,14 +246,14 @@
 
         <div class="points">
             <div class="point1">
-                <h4><img src="img/icon2.svg" alt="">Trends the Current Market in Design.</h4>
-                <h4><img src="img/icon2.svg" alt="">The rayon fabrics wholesaler is available.</h4>
-                <h4><img src="img/icon2.svg" alt="">The Global fabrics distributor is done by company..</h4>
+               <a href="./Cotton.php#p1"><h4><img src="img/icon2.svg" alt="">Trends the Current Market in Design.</h4></a>
+               <a href="./Cotton.php#p2"> <h4><img src="img/icon2.svg" alt="">The rayon fabrics wholesaler is available.</h4></a>
+               <a href="./Cotton.php#p3"> <h4><img src="img/icon2.svg" alt="">The Global fabrics distributor is done by company..</h4></a>
             </div>
             <div class="point1">
-                <h4><img src="img/icon2.svg" alt="">Trends the Current Market in Design</h4>
-                <h4><img src="img/icon2.svg" alt="">The Global fabrics distributor is done by company.</h4>
-                <h4><img src="img/icon2.svg" alt="">The rayon fabrics wholesaler is available.</h4>
+               <a href="./Cotton.php#p4"> <h4><img src="img/icon2.svg" alt="">Trends the Current Market in Design</h4></a>
+               <a href="./Cotton.php#p5"> <h4><img src="img/icon2.svg" alt="">The Global fabrics distributor is done by company.</h4></a>
+               <a href="./Cotton.php#p6"> <h4><img src="img/icon2.svg" alt="">The rayon fabrics wholesaler is available.</h4></a>
             </div>
 
         </div>
@@ -259,15 +263,16 @@
 
 
     <section class="products p1" id="p5">
-        <div class="pro-head">
-            <img src="img/icon9.svg" alt="">
-            <h1>Polyster</h1>
-            <img src="img/icon3.svg" alt="" id="icon3">
-        </div>
+
 
         <div class="pro-dec">
             <div class="pro-img">
                 <img src="img/productSec.svg" alt="">
+                <div class="pro-head">
+                    <img src="img/icon9.svg" alt="">
+                    <h1>Fabrics</h1>
+                    <img src="img/icon3.svg" alt="" id="icon3">
+                </div>
 
             </div>
             <div class="mission mis">
@@ -286,14 +291,14 @@
 
         <div class="points">
             <div class="point1">
-                <h4><img src="img/icon2.svg" alt="">Trends the Current Market in Design.</h4>
-                <h4><img src="img/icon2.svg" alt="">The rayon fabrics wholesaler is available.</h4>
-                <h4><img src="img/icon2.svg" alt="">The Global fabrics distributor is done by company..</h4>
+               <a href="./Fabrics.php#p1"><h4><img src="img/icon2.svg" alt="">Trends the Current Market in Design.</h4></a>
+               <a href="./Fabrics.php#p2"> <h4><img src="img/icon2.svg" alt="">The rayon fabrics wholesaler is available.</h4></a>
+               <a href="./Fabrics.php#p3"> <h4><img src="img/icon2.svg" alt="">The Global fabrics distributor is done by company..</h4></a>
             </div>
             <div class="point1">
-                <h4><img src="img/icon2.svg" alt="">Trends the Current Market in Design</h4>
-                <h4><img src="img/icon2.svg" alt="">The Global fabrics distributor is done by company.</h4>
-                <h4><img src="img/icon2.svg" alt="">The rayon fabrics wholesaler is available.</h4>
+               <a href="./Fabrics.php#p4"> <h4><img src="img/icon2.svg" alt="">Trends the Current Market in Design</h4></a>
+               <a href="./Fabrics.php#p5"> <h4><img src="img/icon2.svg" alt="">The Global fabrics distributor is done by company.</h4></a>
+               <a href="./Fabrics.php#p6"> <h4><img src="img/icon2.svg" alt="">The rayon fabrics wholesaler is available.</h4></a>
             </div>
 
         </div>
@@ -302,15 +307,15 @@
 
 
     <section class="products p1" id="p6">
-        <div class="pro-head">
-            <img src="img/icon9.svg" alt="">
-            <h1>Polyster</h1>
-            <img src="img/icon3.svg" alt="" id="icon3">
-        </div>
 
         <div class="pro-dec">
             <div class="pro-img">
                 <img src="img/productSec.svg" alt="">
+                <div class="pro-head">
+                    <img src="img/icon9.svg" alt="">
+                    <h1>Specialties / Niche</h1>
+                    <img src="img/icon3.svg" alt="" id="icon3">
+                </div>
 
             </div>
             <div class="mission mis">
@@ -329,14 +334,14 @@
 
         <div class="points">
             <div class="point1">
-                <h4><img src="img/icon2.svg" alt="">Trends the Current Market in Design.</h4>
-                <h4><img src="img/icon2.svg" alt="">The rayon fabrics wholesaler is available.</h4>
-                <h4><img src="img/icon2.svg" alt="">The Global fabrics distributor is done by company..</h4>
+               <a href="./Specialties.php#p1"><h4><img src="img/icon2.svg" alt="">Trends the Current Market in Design.</h4></a>
+               <a href="./Specialties.php#p2"> <h4><img src="img/icon2.svg" alt="">The rayon fabrics wholesaler is available.</h4></a>
+               <a href="./Specialties.php#p3"> <h4><img src="img/icon2.svg" alt="">The Global fabrics distributor is done by company..</h4></a>
             </div>
             <div class="point1">
-                <h4><img src="img/icon2.svg" alt="">Trends the Current Market in Design</h4>
-                <h4><img src="img/icon2.svg" alt="">The Global fabrics distributor is done by company.</h4>
-                <h4><img src="img/icon2.svg" alt="">The rayon fabrics wholesaler is available.</h4>
+               <a href="./Specialties.php#p4"> <h4><img src="img/icon2.svg" alt="">Trends the Current Market in Design</h4></a>
+               <a href="./Specialties.php#p5"> <h4><img src="img/icon2.svg" alt="">The Global fabrics distributor is done by company.</h4></a>
+               <a href="./Specialties.php#p6"> <h4><img src="img/icon2.svg" alt="">The rayon fabrics wholesaler is available.</h4></a>
             </div>
 
         </div>
