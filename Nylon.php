@@ -35,22 +35,18 @@
                 <img src="img/productSec.svg" alt="">
                 <div class="pro-head">
                     <img src="img/icon9.svg" alt="">
-                    <h1>Polyster</h1>
+                    <h1>Nylon</h1>
                     <img src="img/icon3.svg" alt="" id="icon3">
                 </div>
 
             </div>
             <div class="mission mis">
 
-                <h1>Service..... <span>that builds Trust</span> </h1>
-                <p>The mission of the Sun Champ Global Trades is to create prosperity by strengthening the
-                    competitiveness of industry, promoting trade and investment, and ensuring fair trade and
-                    compliance with trade laws and agreements.</p>
-                <p>We strive to be a resourceful foreign trade manual for our stakeholders in our collective journey
-                    of transparent and trustworthy international sale transactions.</p>
-                <p>The goal of Sun Champ Global Trades is to establish international business relationship through
-                    facilitating trade opportunities, creating joint ventures and strategic alliances between
-                    international businesses from various countries.</p>
+                <h1>The <span>No.1 Nylon chips</span>  manufacturer in India</h1>
+                <p>Nylon chips and fibers are the main raw material for making fiber nylon chips and engineering plastic-grade nylon chips.Nylon chips are downstream products of CPL which include fiber-grade nylon chips and engineering plastic-grade nylon chips. CPDC produces nylon chips from CPL through vertical integration.
+                </p>
+                <p>Nylon6 and Nylon66 chips are used for producing Nylon filament Yarn as well as Engineering Plastics.The usage of Nylon6 Chips in the compounding industry is very high. It can be compounded with many other polymers or even fibers. Nylon 6 is synthesized by polymerization of Caprolactam.
+                    </p>
             </div>
         </div>
         <table class="table">
@@ -68,9 +64,9 @@
 <script>
     const data1 = [
         {
-            lustre: "Semi Dull, Super Bright, Home Bright, Full Dull, Cationic, Optical Bright, etc",
-            endUse: "Textile",
-            supplierOrigin: "China, Chinese Taipei, India, Indonesia"
+            lustre: "Semi Dull, Bright",
+            endUse: "Textile,Industrial",
+            supplierOrigin: "China, Chinese Taipei,India."
         },
         // Add more data entries here if needed
     ];
@@ -108,7 +104,7 @@
                 <img src="img/productSec.svg" alt="">
                 <div class="pro-head">
                     <img src="img/icon9.svg" alt="">
-                    <h1>Polyster</h1>
+                    <h1>NPOY</h1>
                     <img src="img/icon3.svg" alt="" id="icon3">
                 </div>
 
@@ -116,14 +112,8 @@
             <div class="mission mis">
 
                 <h1>Service..... <span>that builds Trust</span> </h1>
-                <p>The mission of the Sun Champ Global Trades is to create prosperity by strengthening the
-                    competitiveness of industry, promoting trade and investment, and ensuring fair trade and
-                    compliance with trade laws and agreements.</p>
-                <p>We strive to be a resourceful foreign trade manual for our stakeholders in our collective journey
-                    of transparent and trustworthy international sale transactions.</p>
-                <p>The goal of Sun Champ Global Trades is to establish international business relationship through
-                    facilitating trade opportunities, creating joint ventures and strategic alliances between
-                    international businesses from various countries.</p>
+                <p>Nylon Partially Oriented Yarn, commonly known as Nylon POY is the primary form of Nylon yarn. It is also known as Nylon Pre-Oriented Yarn. It is the first form of yarn made directly by spinning Nylon Chips. Nylon POY is mainly used for manufacturing textured yarn.</p>
+                <p> Nylon POY can be available in two clusters: Semi Dull & Bright. Dope Dyed technology is used for making colored POY. Nylon POY is mainly available in packed-in cones as per customer requirements.</p>
             </div>
         </div>
         <table class="table">
@@ -141,9 +131,9 @@
 <script>
     const data2 = [
         {
-            lustre: "Semi Dull, Super Bright, Home Bright, Full Dull, Cationic, Optical Bright, etc",
-            endUse: "Textile",
-            supplierOrigin: "China, Chinese Taipei, India, Indonesia"
+            lustre: "Semi Dull, Bright",
+            endUse: "Texturising/Draw Winding/Industrial",
+            supplierOrigin: "China, India, Chinese Taipei."
         },
         // Add more data entries here if needed
     ];
@@ -179,7 +169,7 @@
                 <img src="img/productSec.svg" alt="">
                 <div class="pro-head">
                     <img src="img/icon9.svg" alt="">
-                    <h1>Polyster</h1>
+                    <h1>NDTY</h1>
                     <img src="img/icon3.svg" alt="" id="icon3">
                 </div>
 
@@ -187,14 +177,9 @@
             <div class="mission mis">
 
                 <h1>Service..... <span>that builds Trust</span> </h1>
-                <p>The mission of the Sun Champ Global Trades is to create prosperity by strengthening the
-                    competitiveness of industry, promoting trade and investment, and ensuring fair trade and
-                    compliance with trade laws and agreements.</p>
-                <p>We strive to be a resourceful foreign trade manual for our stakeholders in our collective journey
-                    of transparent and trustworthy international sale transactions.</p>
-                <p>The goal of Sun Champ Global Trades is to establish international business relationship through
-                    facilitating trade opportunities, creating joint ventures and strategic alliances between
-                    international businesses from various countries.</p>
+                <p>Nylon DTY is used for manufacturing hosiery items, fishing nets, and ropes, and high-tenacity nylon DTY is used for producing tire cords. Nylon DTY is available in semi-dull and bright DTY luster. The colour master-batch is mixed with the raw material to make the dope-dyed DTY. </p>
+                <p>Dope-dyed POY yarn can be used to make the Dope Dyed DTY yarn. It is available in an international standard packing of 1.89 kg cone. DTY from China & India is being exported in large quantities to countries like Egypt, Syria, Argentina and several other countries. DTY yarn is normally available in the following deniers and we can offer you the best quality of nylon DTY for all of these specifications.</p>
+
             </div>
         </div>
         <table class="table">
@@ -212,9 +197,9 @@
 <script>
     const data3 = [
         {
-            lustre: "Semi Dull, Super Bright, Home Bright, Full Dull, Cationic, Optical Bright, etc",
-            endUse: "Textile",
-            supplierOrigin: "China, Chinese Taipei, India, Indonesia"
+            lustre: "Bright Triloble, Semi dull, Set Yarn, Full Yarn, Dope Dyed black and colors",
+            endUse: "Knitting/Weaving",
+            supplierOrigin: "China, Chinese Taipei,India."
         },
         // Add more data entries here if needed
     ];
@@ -250,7 +235,7 @@
                 <img src="img/productSec.svg" alt="">
                 <div class="pro-head">
                     <img src="img/icon9.svg" alt="">
-                    <h1>Polyster</h1>
+                    <h1>NFY</h1>
                     <img src="img/icon3.svg" alt="" id="icon3">
                 </div>
 
@@ -258,14 +243,8 @@
             <div class="mission mis">
 
                 <h1>Service..... <span>that builds Trust</span> </h1>
-                <p>The mission of the Sun Champ Global Trades is to create prosperity by strengthening the
-                    competitiveness of industry, promoting trade and investment, and ensuring fair trade and
-                    compliance with trade laws and agreements.</p>
-                <p>We strive to be a resourceful foreign trade manual for our stakeholders in our collective journey
-                    of transparent and trustworthy international sale transactions.</p>
-                <p>The goal of Sun Champ Global Trades is to establish international business relationship through
-                    facilitating trade opportunities, creating joint ventures and strategic alliances between
-                    international businesses from various countries.</p>
+                <p>Nylon filament yarn is a long continuous lustrous fiber, which is extensively used to produce a comprehensive range of textile fabrics such as sarees, draperies, furnishings and upholstery, sportswear, mosquito nets, and also for embroidery.</p>
+                <p>Nylon filament yarn is known for its excellent dyeability, high tensile strength, and elasticity with enhanced abrasion resistance, durability, and toughness. Its properties make it the preferred choice over natural yarn options, such as cotton, silk, and wool.</p>
             </div>
         </div>
         <table class="table">
@@ -283,9 +262,9 @@
 <script>
     const data4 = [
         {
-            lustre: "Semi Dull, Super Bright, Home Bright, Full Dull, Cationic, Optical Bright, etc",
-            endUse: "Textile",
-            supplierOrigin: "China, Chinese Taipei, India, Indonesia"
+            lustre: "Semi dull, Full dull, Bright, Ait textured Yarn",
+            endUse: "Knitting /Weaving",
+            supplierOrigin: "China, Chinese Taipei,India."
         },
         // Add more data entries here if needed
     ];
@@ -311,151 +290,7 @@
     });
 </script>
     </section>
-    <section class="products" id="p5">
-
-
-        <div class="pro-dec">
-        <div class="pro-img">
-                <img src="img/productSec.svg" alt="">
-                <div class="pro-head">
-                    <img src="img/icon9.svg" alt="">
-                    <h1>Polyster</h1>
-                    <img src="img/icon3.svg" alt="" id="icon3">
-                </div>
-
-            </div>
-            <div class="mission mis">
-
-                <h1>Service..... <span>that builds Trust</span> </h1>
-                <p>The mission of the Sun Champ Global Trades is to create prosperity by strengthening the
-                    competitiveness of industry, promoting trade and investment, and ensuring fair trade and
-                    compliance with trade laws and agreements.</p>
-                <p>We strive to be a resourceful foreign trade manual for our stakeholders in our collective journey
-                    of transparent and trustworthy international sale transactions.</p>
-                <p>The goal of Sun Champ Global Trades is to establish international business relationship through
-                    facilitating trade opportunities, creating joint ventures and strategic alliances between
-                    international businesses from various countries.</p>
-            </div>
-        </div>
-        <table class="table">
-    <thead class="gray">
-        <tr>
-            <th id="col-1" scope="col">Lustre</th>
-            <th id="col-2" scope="col">End Use</th>
-            <th id="col-3" scope="col">Supplier Origin</th>
-        </tr>
-    </thead>
-    <tbody id="table-body5">
-    </tbody>
-</table>
-
-<script>
-    const data5 = [
-        {
-            lustre: "Semi Dull, Super Bright, Home Bright, Full Dull, Cationic, Optical Bright, etc",
-            endUse: "Textile",
-            supplierOrigin: "China, Chinese Taipei, India, Indonesia"
-        },
-        // Add more data entries here if needed
-    ];
-
-    const tableBody5 = document.getElementById("table-body5");
-
-    data5.forEach(item => {
-        const row = document.createElement("tr");
-
-        const lustreCell = document.createElement("td");
-        lustreCell.textContent = item.lustre;
-        row.appendChild(lustreCell);
-
-        const endUseCell = document.createElement("td");
-        endUseCell.textContent = item.endUse;
-        row.appendChild(endUseCell);
-
-        const supplierOriginCell = document.createElement("td");
-        supplierOriginCell.textContent = item.supplierOrigin;
-        row.appendChild(supplierOriginCell);
-
-        tableBody5.appendChild(row);
-    });
-</script>
-    </section>
-
-
-    <section class="products" id="p6">
-
-
-        <div class="pro-dec">
-        <div class="pro-img">
-                <img src="img/productSec.svg" alt="">
-                <div class="pro-head">
-                    <img src="img/icon9.svg" alt="">
-                    <h1>Polyster</h1>
-                    <img src="img/icon3.svg" alt="" id="icon3">
-                </div>
-
-            </div>
-            <div class="mission mis">
-
-                <h1>Service..... <span>that builds Trust</span> </h1>
-                <p>The mission of the Sun Champ Global Trades is to create prosperity by strengthening the
-                    competitiveness of industry, promoting trade and investment, and ensuring fair trade and
-                    compliance with trade laws and agreements.</p>
-                <p>We strive to be a resourceful foreign trade manual for our stakeholders in our collective journey
-                    of transparent and trustworthy international sale transactions.</p>
-                <p>The goal of Sun Champ Global Trades is to establish international business relationship through
-                    facilitating trade opportunities, creating joint ventures and strategic alliances between
-                    international businesses from various countries.</p>
-            </div>
-        </div>
-        <table class="table">
-    <thead class="gray">
-        <tr>
-            <th id="col-1" scope="col">Lustre</th>
-            <th id="col-2" scope="col">End Use</th>
-            <th id="col-3" scope="col">Supplier Origin</th>
-        </tr>
-    </thead>
-    <tbody id="table-body6">
-    </tbody>
-</table>
-
-<script>
-    const data6 = [
-        {
-            lustre: "Semi Dull, Super Bright, Home Bright, Full Dull, Cationic, Optical Bright, etc",
-            endUse: "Textile",
-            supplierOrigin: "China, Chinese Taipei, India, Indonesia"
-        },
-        // Add more data entries here if needed
-    ];
-
-    const tableBody6 = document.getElementById("table-body6");
-
-    data6.forEach(item => {
-        const row = document.createElement("tr");
-
-        const lustreCell = document.createElement("td");
-        lustreCell.textContent = item.lustre;
-        row.appendChild(lustreCell);
-
-        const endUseCell = document.createElement("td");
-        endUseCell.textContent = item.endUse;
-        row.appendChild(endUseCell);
-
-        const supplierOriginCell = document.createElement("td");
-        supplierOriginCell.textContent = item.supplierOrigin;
-        row.appendChild(supplierOriginCell);
-
-        tableBody6.appendChild(row);
-    });
-</script>
-    </section>
-
-
-
-
-
+    
 
 
 

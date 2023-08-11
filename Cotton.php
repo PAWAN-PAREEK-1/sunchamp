@@ -35,22 +35,16 @@
                 <img src="img/productSec.svg" alt="">
                 <div class="pro-head">
                     <img src="img/icon9.svg" alt="">
-                    <h1>Polyster</h1>
+                    <h1>Raw Cotton</h1>
                     <img src="img/icon3.svg" alt="" id="icon3">
                 </div>
 
             </div>
             <div class="mission mis">
 
-                <h1>Service..... <span>that builds Trust</span> </h1>
-                <p>The mission of the Sun Champ Global Trades is to create prosperity by strengthening the
-                    competitiveness of industry, promoting trade and investment, and ensuring fair trade and
-                    compliance with trade laws and agreements.</p>
-                <p>We strive to be a resourceful foreign trade manual for our stakeholders in our collective journey
-                    of transparent and trustworthy international sale transactions.</p>
-                <p>The goal of Sun Champ Global Trades is to establish international business relationship through
-                    facilitating trade opportunities, creating joint ventures and strategic alliances between
-                    international businesses from various countries.</p>
+
+               <p>Many people are also unaware that cotton Fibre has a coating of natural waxes that protect it from rain, which ultimately makes it hydrophobic (which is a fancy word for water repellent). This means raw cotton is unsuitable for use in many consumer products that require absorbency, a trait that is critical in many cotton applications.</p>
+                <p>Settling the issue of water repellence vs water absorbency is just one reason that cotton undergoes processing, and as you’ll read further, finishing, so that it can transform to meet end-customer expectations for product performance without losing its natural goodness.</p>
             </div>
         </div>
         <table class="table">
@@ -68,9 +62,9 @@
 <script>
     const data1 = [
         {
-            lustre: "Semi Dull, Super Bright, Home Bright, Full Dull, Cationic, Optical Bright, etc",
-            endUse: "Textile",
-            supplierOrigin: "China, Chinese Taipei, India, Indonesia"
+            lustre: "Raw White",
+            endUse: "Spinning",
+            supplierOrigin: "Egypt, India, Uzbekistan, China."
         },
         // Add more data entries here if needed
     ];
@@ -108,22 +102,16 @@
                 <img src="img/productSec.svg" alt="">
                 <div class="pro-head">
                     <img src="img/icon9.svg" alt="">
-                    <h1>Polyster</h1>
+                    <h1>Cotton Yarn</h1>
                     <img src="img/icon3.svg" alt="" id="icon3">
                 </div>
 
             </div>
             <div class="mission mis">
 
-                <h1>Service..... <span>that builds Trust</span> </h1>
-                <p>The mission of the Sun Champ Global Trades is to create prosperity by strengthening the
-                    competitiveness of industry, promoting trade and investment, and ensuring fair trade and
-                    compliance with trade laws and agreements.</p>
-                <p>We strive to be a resourceful foreign trade manual for our stakeholders in our collective journey
-                    of transparent and trustworthy international sale transactions.</p>
-                <p>The goal of Sun Champ Global Trades is to establish international business relationship through
-                    facilitating trade opportunities, creating joint ventures and strategic alliances between
-                    international businesses from various countries.</p>
+
+                <p>The raw cotton is loosened and cleaned; to remove straw and dried leaves. The cleaned cotton is then fed into a machine.The cotton fibre is combed, straightened, and converted into a rope-like structure called a sliver. The sliver of cotton fibre is converted into yarn by spinning using machines. Cotton yarns are available in Open End and Ring Spun. and at Sun champ global traders, we provide the best cotton yarn in the world. </p>
+                <p>The cotton yarn makes a lightweight, breathable garment that pulls heat away from your skin. They are excellent for making garments worn in hot weather, like T-shirts, light shawls, or caps. Although conventional cotton yarn gives a neutral appearance to the fabric, mercerized cotton yarn can make shiny clothing.</p>
             </div>
         </div>
         <table class="table">
@@ -141,9 +129,9 @@
 <script>
     const data2 = [
         {
-            lustre: "Semi Dull, Super Bright, Home Bright, Full Dull, Cationic, Optical Bright, etc",
-            endUse: "Textile",
-            supplierOrigin: "China, Chinese Taipei, India, Indonesia"
+            lustre: "Raw White",
+            endUse: "Knitting/Weaving",
+            supplierOrigin: "Thailand, India, Vietnam, Indonesia, China"
         },
         // Add more data entries here if needed
     ];
@@ -179,22 +167,17 @@
                 <img src="img/productSec.svg" alt="">
                 <div class="pro-head">
                     <img src="img/icon9.svg" alt="">
-                    <h1>Polyster</h1>
+                    <h1>CSY</h1>
                     <img src="img/icon3.svg" alt="" id="icon3">
                 </div>
 
             </div>
             <div class="mission mis">
 
-                <h1>Service..... <span>that builds Trust</span> </h1>
-                <p>The mission of the Sun Champ Global Trades is to create prosperity by strengthening the
-                    competitiveness of industry, promoting trade and investment, and ensuring fair trade and
-                    compliance with trade laws and agreements.</p>
-                <p>We strive to be a resourceful foreign trade manual for our stakeholders in our collective journey
-                    of transparent and trustworthy international sale transactions.</p>
-                <p>The goal of Sun Champ Global Trades is to establish international business relationship through
-                    facilitating trade opportunities, creating joint ventures and strategic alliances between
-                    international businesses from various countries.</p>
+
+                <p>Core Spun Yarns are made of bare spandex covered with various yarns such as Cotton, Polyester Spun, Nylon, and other Blend Yarns. </p>
+                <p> It usually has single or double covering modes. Nylon-covered yarn and polyester-covered yarn are mainly used in single-covering mode. CSY is mainly used in knitting machines, woven fabric, Denim, seamless undergarments, leggings, sportswear, pantyhose, protective gear, knitted sweater, etc.</p>
+                <p>CSY Drafting the outer covering fibre and spandex yarn through the specified type of nozzle at the same time, after regular pressure by high compressed air and then forming the yarn with regular intermingle points. The fabric knitted by air-covered yarn will have soft and smooth hand feels.</p>
             </div>
         </div>
         <table class="table">
@@ -212,9 +195,9 @@
 <script>
     const data3 = [
         {
-            lustre: "Semi Dull, Super Bright, Home Bright, Full Dull, Cationic, Optical Bright, etc",
-            endUse: "Textile",
-            supplierOrigin: "China, Chinese Taipei, India, Indonesia"
+            lustre: "Raw White, Dobe Dyed Black",
+            endUse: "Knitting/Weaving",
+            supplierOrigin: "China, India"
         },
         // Add more data entries here if needed
     ];
@@ -250,22 +233,17 @@
                 <img src="img/productSec.svg" alt="">
                 <div class="pro-head">
                     <img src="img/icon9.svg" alt="">
-                    <h1>Polyster</h1>
+                    <h1>VSF</h1>
                     <img src="img/icon3.svg" alt="" id="icon3">
                 </div>
 
             </div>
             <div class="mission mis">
 
-                <h1>Service..... <span>that builds Trust</span> </h1>
-                <p>The mission of the Sun Champ Global Trades is to create prosperity by strengthening the
-                    competitiveness of industry, promoting trade and investment, and ensuring fair trade and
-                    compliance with trade laws and agreements.</p>
-                <p>We strive to be a resourceful foreign trade manual for our stakeholders in our collective journey
-                    of transparent and trustworthy international sale transactions.</p>
-                <p>The goal of Sun Champ Global Trades is to establish international business relationship through
-                    facilitating trade opportunities, creating joint ventures and strategic alliances between
-                    international businesses from various countries.</p>
+
+                <p>Viscose Staple Fibre (VSF), a natural, bio-degradable Fibre with characteristics somewhat similar to cotton is obtained from wood pulp or cotton pulp. . Depending upon the intended use, viscose Fibres are made into textile or cord threads, as well as staple Fibre. Fabrics of viscose Fibres are easily dyed and have excellent hygienic properties (hygroscopicity), which is especially important in goods made for popular use.</p>
+                <p>As an extremely versatile and easily blendable Fibre, VSF is widely used in apparel, home textiles, dress material, knitted wear, and non-woven applications.</p>
+                <p>The accessibility of raw materials and the low cost of the chemical reagents, as well as the satisfactory textile properties and broad possibilities for modification, ensure that Viscose Fibres are economical to produce and widely used.</p>
             </div>
         </div>
         <table class="table">
@@ -308,6 +286,7 @@
         row.appendChild(supplierOriginCell);
 
         tableBody4.appendChild(row);
+
     });
 </script>
     </section>
