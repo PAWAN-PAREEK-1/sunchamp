@@ -16,7 +16,7 @@
    ?>
 
     <section class="all-hero">
-        <h1>Products</h1>
+        <h1> Textile Products</h1>
         <img src="img/clipimg2.svg" alt="">
     </section>
     <section class="ourproduct">
