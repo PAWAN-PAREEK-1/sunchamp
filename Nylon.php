@@ -34,7 +34,7 @@
         <div class="pro-img">
                 <img src="img/productSec.svg" alt="">
                 <div class="pro-head">
-                    <img src="img/icon9.svg" alt="">
+                    <img src="img/icon5.svg" alt="">
                     <h1>Nylon</h1>
                     <img src="img/icon3.svg" alt="" id="icon3">
                 </div>
@@ -103,7 +103,7 @@
         <div class="pro-img">
                 <img src="img/productSec.svg" alt="">
                 <div class="pro-head">
-                    <img src="img/icon9.svg" alt="">
+                    <img src="img/icon5.svg" alt="">
                     <h1>NPOY</h1>
                     <img src="img/icon3.svg" alt="" id="icon3">
                 </div>
@@ -168,7 +168,7 @@
         <div class="pro-img">
                 <img src="img/productSec.svg" alt="">
                 <div class="pro-head">
-                    <img src="img/icon9.svg" alt="">
+                    <img src="img/icon5.svg" alt="">
                     <h1>NDTY</h1>
                     <img src="img/icon3.svg" alt="" id="icon3">
                 </div>
@@ -234,7 +234,7 @@
         <div class="pro-img">
                 <img src="img/productSec.svg" alt="">
                 <div class="pro-head">
-                    <img src="img/icon9.svg" alt="">
+                    <img src="img/icon5.svg" alt="">
                     <h1>NFY</h1>
                     <img src="img/icon3.svg" alt="" id="icon3">
                 </div>
@@ -290,7 +290,7 @@
     });
 </script>
     </section>
-    
+
 
 
 

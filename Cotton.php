@@ -34,7 +34,7 @@
         <div class="pro-img">
                 <img src="img/productSec.svg" alt="">
                 <div class="pro-head">
-                    <img src="img/icon9.svg" alt="">
+                    <img src="img/icon6.svg" alt="">
                     <h1>Raw Cotton</h1>
                     <img src="img/icon3.svg" alt="" id="icon3">
                 </div>
@@ -101,7 +101,7 @@
         <div class="pro-img">
                 <img src="img/productSec.svg" alt="">
                 <div class="pro-head">
-                    <img src="img/icon9.svg" alt="">
+                    <img src="img/icon6.svg" alt="">
                     <h1>Cotton Yarn</h1>
                     <img src="img/icon3.svg" alt="" id="icon3">
                 </div>
@@ -166,7 +166,7 @@
         <div class="pro-img">
                 <img src="img/productSec.svg" alt="">
                 <div class="pro-head">
-                    <img src="img/icon9.svg" alt="">
+                    <img src="img/icon6.svg" alt="">
                     <h1>CSY</h1>
                     <img src="img/icon3.svg" alt="" id="icon3">
                 </div>
@@ -232,7 +232,7 @@
         <div class="pro-img">
                 <img src="img/productSec.svg" alt="">
                 <div class="pro-head">
-                    <img src="img/icon9.svg" alt="">
+                    <img src="img/icon6.svg" alt="">
                     <h1>VSF</h1>
                     <img src="img/icon3.svg" alt="" id="icon3">
                 </div>
@@ -258,12 +258,14 @@
     </tbody>
 </table>
 
+
+
 <script>
     const data4 = [
         {
-            lustre: "Semi Dull, Super Bright, Home Bright, Full Dull, Cationic, Optical Bright, etc",
-            endUse: "Textile",
-            supplierOrigin: "China, Chinese Taipei, India, Indonesia"
+            lustre: "White, Black",
+            endUse: "Spinning",
+            supplierOrigin: "China, Chinese Taipei"
         },
         // Add more data entries here if needed
     ];
@@ -286,9 +288,30 @@
         row.appendChild(supplierOriginCell);
 
         tableBody4.appendChild(row);
-
     });
+
+    // Adding a dynamic row
+    const newRow = document.createElement("tr");
+    newRow.className = "dynamic-row";
+
+    const dynamicCell = document.createElement("td");
+    dynamicCell.colSpan = 3;
+    dynamicCell.textContent = "Semidull, Semidull Optical Bright";
+    newRow.appendChild(dynamicCell);
+
+    tableBody4.appendChild(newRow);
+    // Adding a dynamic row
+    const newRow2 = document.createElement("tr");
+    newRow2.className = "dynamic-row";
+
+    const dynamicCell2 = document.createElement("td");
+    dynamicCell2.colSpan = 3;
+    dynamicCell2.textContent = "1.2 d to 1.5 d";
+    newRow2.appendChild(dynamicCell2);
+
+    tableBody4.appendChild(newRow2);
 </script>
+
     </section>
     <section class="products" id="p5">
 
@@ -297,23 +320,17 @@
         <div class="pro-img">
                 <img src="img/productSec.svg" alt="">
                 <div class="pro-head">
-                    <img src="img/icon9.svg" alt="">
-                    <h1>Polyster</h1>
+                    <img src="img/icon6.svg" alt="">
+                    <h1>Viscose Yarns</h1>
                     <img src="img/icon3.svg" alt="" id="icon3">
                 </div>
 
             </div>
             <div class="mission mis">
 
-                <h1>Service..... <span>that builds Trust</span> </h1>
-                <p>The mission of the Sun Champ Global Trades is to create prosperity by strengthening the
-                    competitiveness of industry, promoting trade and investment, and ensuring fair trade and
-                    compliance with trade laws and agreements.</p>
-                <p>We strive to be a resourceful foreign trade manual for our stakeholders in our collective journey
-                    of transparent and trustworthy international sale transactions.</p>
-                <p>The goal of Sun Champ Global Trades is to establish international business relationship through
-                    facilitating trade opportunities, creating joint ventures and strategic alliances between
-                    international businesses from various countries.</p>
+
+                <p>Viscose or rayon is an artificial fibre of natural origin created from the cellulose of wood pulp. Among its qualities, it’s an absorbent material, perfect for cool and breathable fabrics. Enjoy comfortable knit garments, with a silky feel and amazing softness.</p>
+                <p>  This ‘artificial silk’ keeps the body dry, preventing the proliferation of bacteria and fungi, and does not hold static charge.</p>
             </div>
         </div>
         <table class="table">
@@ -331,9 +348,9 @@
 <script>
     const data5 = [
         {
-            lustre: "Semi Dull, Super Bright, Home Bright, Full Dull, Cationic, Optical Bright, etc",
-            endUse: "Textile",
-            supplierOrigin: "China, Chinese Taipei, India, Indonesia"
+            lustre: "RW, Colours",
+            endUse: "Knitting/Weaving",
+            supplierOrigin: "Indonesia, China, India"
         },
         // Add more data entries here if needed
     ];
@@ -356,6 +373,16 @@
         row.appendChild(supplierOriginCell);
 
         tableBody5.appendChild(row);
+
+        const newRow3 = document.createElement("tr");
+    newRow3.className = "dynamic-row";
+
+    const dynamicCell3 = document.createElement("td");
+    dynamicCell3.colSpan = 3;
+    dynamicCell3.textContent = "10s to 50s";
+    newRow3.appendChild(dynamicCell3);
+
+    tableBody5.appendChild(newRow3);
     });
 </script>
     </section>
@@ -368,23 +395,18 @@
         <div class="pro-img">
                 <img src="img/productSec.svg" alt="">
                 <div class="pro-head">
-                    <img src="img/icon9.svg" alt="">
-                    <h1>Polyster</h1>
+                    <img src="img/icon6.svg" alt="">
+                    <h1>Blended Yarn</h1>
                     <img src="img/icon3.svg" alt="" id="icon3">
                 </div>
 
             </div>
             <div class="mission mis">
 
-                <h1>Service..... <span>that builds Trust</span> </h1>
-                <p>The mission of the Sun Champ Global Trades is to create prosperity by strengthening the
-                    competitiveness of industry, promoting trade and investment, and ensuring fair trade and
-                    compliance with trade laws and agreements.</p>
-                <p>We strive to be a resourceful foreign trade manual for our stakeholders in our collective journey
-                    of transparent and trustworthy international sale transactions.</p>
-                <p>The goal of Sun Champ Global Trades is to establish international business relationship through
-                    facilitating trade opportunities, creating joint ventures and strategic alliances between
-                    international businesses from various countries.</p>
+
+                <p>Blended yarn is a yarn that contains a different type of Raw materials blended together like Polyester, Cotton, Viscose, Acrylic in different proportions, The yarn is durable, so blending it with artificial material helps keep the final product in shape and appearance.</p>
+                <p>Blended yarns usually offer the best  i.e., the breathability of wool or cotton, the durability of acrylic or nylon. Blends take dye differently and offer different color effects as well. Fibre blending has for a long time been practiced in textile processing.</p>
+                <p>By mixing fibres of different types to form textile yarns, many advantages are achieved, such as property compensation or reinforcement between fibres, and cost reduction without significant sacrifice of yarn performance.</p>
             </div>
         </div>
         <table class="table">
@@ -402,9 +424,9 @@
 <script>
     const data6 = [
         {
-            lustre: "Semi Dull, Super Bright, Home Bright, Full Dull, Cationic, Optical Bright, etc",
-            endUse: "Textile",
-            supplierOrigin: "China, Chinese Taipei, India, Indonesia"
+            lustre: "RW, Colours",
+            endUse: "Knitting/Weaving",
+            supplierOrigin: "Indonesia, China, India, Vietnam"
         },
         // Add more data entries here if needed
     ];
@@ -427,9 +449,99 @@
         row.appendChild(supplierOriginCell);
 
         tableBody6.appendChild(row);
+
+
+        const newRow3 = document.createElement("tr");
+    newRow3.className = "dynamic-row";
+
+    const dynamicCell3 = document.createElement("td");
+    dynamicCell3.colSpan = 3;
+    dynamicCell3.textContent = "PV, PC, or any other combination and in varying %  of mix";
+    newRow3.appendChild(dynamicCell3);
+
+    tableBody6.appendChild(newRow3);
+
     });
 </script>
     </section>
+
+
+
+    <section class="products" id="p7">
+
+
+<div class="pro-dec">
+<div class="pro-img">
+        <img src="img/productSec.svg" alt="">
+        <div class="pro-head">
+            <img src="img/icon6.svg" alt="">
+            <h1> Spun Yarn </h1>
+            <img src="img/icon3.svg" alt="" id="icon3">
+        </div>
+
+    </div>
+    <div class="mission mis">
+
+
+        <p>Polyester Spun yarn consists of short, staple fibres woven together to create a single yarn to be used in weaving, knitting projects, and clothing manufacturing. Spun yarn is also used in making Sewing thread & embroidery threads.</p>
+        <p>Spun Yarn can be waxed which is used for knitting fabrics or un-waxed mainly used for weaving. PSY is commonly available in both single and double-ply for use in the Textile industry. It can be Raw-white & dope dyed colour as well. Both dope-dyed spun yarn & conventional dyed spun yarn can be used to make fabrics..</p>
+    </div>
+</div>
+<table class="table">
+<thead class="gray">
+<tr>
+    <th id="col-1" scope="col">Lustre</th>
+    <th id="col-2" scope="col">End Use</th>
+    <th id="col-3" scope="col">Supplier Origin</th>
+</tr>
+</thead>
+<tbody id="table-body7">
+</tbody>
+</table>
+
+<script>
+const data7 = [
+{
+    lustre: "Semi Dull, Raw White ",
+    endUse: "Sewing Thread/Weaving",
+    supplierOrigin: "India, China "
+},
+// Add more data entries here if needed
+];
+
+const tableBody7 = document.getElementById("table-body7");
+
+data7.forEach(item => {
+const row = document.createElement("tr");
+
+const lustreCell = document.createElement("td");
+lustreCell.textContent = item.lustre;
+row.appendChild(lustreCell);
+
+const endUseCell = document.createElement("td");
+endUseCell.textContent = item.endUse;
+row.appendChild(endUseCell);
+
+const supplierOriginCell = document.createElement("td");
+supplierOriginCell.textContent = item.supplierOrigin;
+row.appendChild(supplierOriginCell);
+
+tableBody7.appendChild(row);
+
+
+const newRow3 = document.createElement("tr");
+newRow3.className = "dynamic-row";
+
+const dynamicCell3 = document.createElement("td");
+dynamicCell3.colSpan = 3;
+dynamicCell3.textContent = "20s to 80s";
+newRow3.appendChild(dynamicCell3);
+
+tableBody7.appendChild(newRow3);
+
+});
+</script>
+</section>
 
 
 

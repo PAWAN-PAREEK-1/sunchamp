@@ -171,12 +171,12 @@
         <div class="points">
             <div class="point1">
                <a href="./Recycled.php#p1"><h4><img src="img/icon2.svg" alt="">FSC Certified Bamboo Fibers</h4></a>
-               <a href="./Recycled.php#p2"> <h4><img src="img/icon2.svg" alt="">Recycled Polyester Chips for Textile and Film applications <br>The rayon fabrics wholesaler is available.</h4></a>
-               <a href="./Recycled.php#p3"> <h4><img src="img/icon2.svg" alt="">Recycled Polyester Filament Yarns (POY, FDY, DTY)</h4></a>
+               <a href="./Recycled.php#p1"> <h4><img src="img/icon2.svg" alt="">Recycled Polyester Chips for Textile and Film applications <br>The rayon fabrics wholesaler is available.</h4></a>
+               <a href="./Recycled.php#p1"> <h4><img src="img/icon2.svg" alt="">Recycled Polyester Filament Yarns (POY, FDY, DTY)</h4></a>
             </div>
             <div class="point1">
-               <a href="./Recycled.php#p4"> <h4><img src="img/icon2.svg" alt="">Recycled Polyester Fibers</h4></a>
-               <a href="./Recycled.php#p5"> <h4><img src="img/icon2.svg" alt="">Recycled ACY, CSY & DCY</h4></a>
+               <a href="./Recycled.php#p1"> <h4><img src="img/icon2.svg" alt="">Recycled Polyester Fibers</h4></a>
+               <a href="./Recycled.php#p1"> <h4><img src="img/icon2.svg" alt="">Recycled ACY, CSY & DCY</h4></a>
             </div>
 
         </div>
@@ -322,7 +322,7 @@
                <a href="./Specialties.php#p2"> <h4><img src="img/icon2.svg" alt="">Bamboo & Lyocell Fibers And Yarns</h4></a>
             </div>
             <div class="point1">
-               <a href="./Specialties.php#p4"> <h4><img src="img/icon2.svg" alt="">Linen</h4></a>
+               <a href="./Specialties.php#p3"> <h4><img src="img/icon2.svg" alt="">Linen</h4></a>
 
         </div>
     </section>

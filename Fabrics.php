@@ -31,426 +31,81 @@
 
 
         <div class="pro-dec">
-        <div class="pro-img">
+            <div class="pro-img">
                 <img src="img/productSec.svg" alt="">
                 <div class="pro-head">
-                    <img src="img/icon9.svg" alt="">
-                    <h1>Polyster</h1>
+                    <img src="img/icon7.svg" alt="">
+                    <h1>Fabrics</h1>
                     <img src="img/icon3.svg" alt="" id="icon3">
                 </div>
 
             </div>
             <div class="mission mis">
 
-                <h1>Service..... <span>that builds Trust</span> </h1>
-                <p>The mission of the Sun Champ Global Trades is to create prosperity by strengthening the
-                    competitiveness of industry, promoting trade and investment, and ensuring fair trade and
-                    compliance with trade laws and agreements.</p>
-                <p>We strive to be a resourceful foreign trade manual for our stakeholders in our collective journey
-                    of transparent and trustworthy international sale transactions.</p>
-                <p>The goal of Sun Champ Global Trades is to establish international business relationship through
-                    facilitating trade opportunities, creating joint ventures and strategic alliances between
-                    international businesses from various countries.</p>
+
+                <p>Fabrics are made from yarns, which in turn are made from fibres. Fibres are either natural or synthetic. Cotton, wool, silk and jute are some natural fibres, while nylon and polyester are some examples of synthetic fibres. cotton and jute are obtained from plants.</p>
+                <p>The smallest component of a fabric is fiber; fibers are typically spun into yarn, and yarns are used to make fabrics. Fibers are very thin and hair-like structures. The sources of fibers may be natural, synthetic, or both
+                </p>
+                <p>Fabrics are both Knitted and Woven. Knitted fabrics are mostly used in apparel, Socks and Woven fabrics are used in weaving upholstery, denim, and garments.</p>
             </div>
         </div>
         <table class="table">
-    <thead class="gray">
-        <tr>
-            <th id="col-1" scope="col">Lustre</th>
-            <th id="col-2" scope="col">End Use</th>
-            <th id="col-3" scope="col">Supplier Origin</th>
-        </tr>
-    </thead>
-    <tbody id="table-body1">
-    </tbody>
-</table>
+            <thead class="gray">
+                <tr>
+                    <th id="col-1" scope="col">Lustre</th>
+                    <th id="col-2" scope="col">End Use</th>
+                    <th id="col-3" scope="col">Supplier Origin</th>
+                </tr>
+            </thead>
+            <tbody id="table-body1">
+            </tbody>
+        </table>
 
-<script>
-    const data1 = [
-        {
-            lustre: "Semi Dull, Super Bright, Home Bright, Full Dull, Cationic, Optical Bright, etc",
-            endUse: "Textile",
-            supplierOrigin: "China, Chinese Taipei, India, Indonesia"
-        },
-        // Add more data entries here if needed
-    ];
+        <script>
+            const data1 = [{
+                    lustre: "All possible colors and mix of yarns",
+                    endUse: "Knitting/Weaving",
+                    supplierOrigin: "China, India, Chinese Taipei"
+                },
+                // Add more data entries here if needed
+            ];
 
-    const tableBody1 = document.getElementById("table-body1");
+            const tableBody1 = document.getElementById("table-body1");
 
-    data1.forEach(item => {
-        const row = document.createElement("tr");
+            data1.forEach(item => {
+                const row = document.createElement("tr");
 
-        const lustreCell = document.createElement("td");
-        lustreCell.textContent = item.lustre;
-        row.appendChild(lustreCell);
+                const lustreCell = document.createElement("td");
+                lustreCell.textContent = item.lustre;
+                row.appendChild(lustreCell);
 
-        const endUseCell = document.createElement("td");
-        endUseCell.textContent = item.endUse;
-        row.appendChild(endUseCell);
+                const endUseCell = document.createElement("td");
+                endUseCell.textContent = item.endUse;
+                row.appendChild(endUseCell);
 
-        const supplierOriginCell = document.createElement("td");
-        supplierOriginCell.textContent = item.supplierOrigin;
-        row.appendChild(supplierOriginCell);
+                const supplierOriginCell = document.createElement("td");
+                supplierOriginCell.textContent = item.supplierOrigin;
+                row.appendChild(supplierOriginCell);
 
-        tableBody1.appendChild(row);
-    });
-</script>
+                tableBody1.appendChild(row);
+                const newRow3 = document.createElement("tr");
+                newRow3.className = "dynamic-row";
+
+                const dynamicCell3 = document.createElement("td");
+                dynamicCell3.colSpan = 3;
+                dynamicCell3.textContent = "Shirtings, Suitings, Denim, Upholstery, Industrial, Knitted, Dress Materials, Ladies wear, etc.";
+                newRow3.appendChild(dynamicCell3);
+
+                tableBody1.appendChild(newRow3);
+
+
+            });
+        </script>
     </section>
 
 
 
 
-    <section class="products" id="p2">
-
-
-        <div class="pro-dec">
-        <div class="pro-img">
-                <img src="img/productSec.svg" alt="">
-                <div class="pro-head">
-                    <img src="img/icon9.svg" alt="">
-                    <h1>Polyster</h1>
-                    <img src="img/icon3.svg" alt="" id="icon3">
-                </div>
-
-            </div>
-            <div class="mission mis">
-
-                <h1>Service..... <span>that builds Trust</span> </h1>
-                <p>The mission of the Sun Champ Global Trades is to create prosperity by strengthening the
-                    competitiveness of industry, promoting trade and investment, and ensuring fair trade and
-                    compliance with trade laws and agreements.</p>
-                <p>We strive to be a resourceful foreign trade manual for our stakeholders in our collective journey
-                    of transparent and trustworthy international sale transactions.</p>
-                <p>The goal of Sun Champ Global Trades is to establish international business relationship through
-                    facilitating trade opportunities, creating joint ventures and strategic alliances between
-                    international businesses from various countries.</p>
-            </div>
-        </div>
-        <table class="table">
-    <thead class="gray">
-        <tr>
-            <th id="col-1" scope="col">Lustre</th>
-            <th id="col-2" scope="col">End Use</th>
-            <th id="col-3" scope="col">Supplier Origin</th>
-        </tr>
-    </thead>
-    <tbody id="table-body2">
-    </tbody>
-</table>
-
-<script>
-    const data2 = [
-        {
-            lustre: "Semi Dull, Super Bright, Home Bright, Full Dull, Cationic, Optical Bright, etc",
-            endUse: "Textile",
-            supplierOrigin: "China, Chinese Taipei, India, Indonesia"
-        },
-        // Add more data entries here if needed
-    ];
-
-    const tableBody2 = document.getElementById("table-body2");
-
-    data2.forEach(item => {
-        const row = document.createElement("tr");
-
-        const lustreCell = document.createElement("td");
-        lustreCell.textContent = item.lustre;
-        row.appendChild(lustreCell);
-
-        const endUseCell = document.createElement("td");
-        endUseCell.textContent = item.endUse;
-        row.appendChild(endUseCell);
-
-        const supplierOriginCell = document.createElement("td");
-        supplierOriginCell.textContent = item.supplierOrigin;
-        row.appendChild(supplierOriginCell);
-
-        tableBody2.appendChild(row);
-    });
-</script>
-    </section>
-
-
-    <section class="products" id="p3">
-
-
-        <div class="pro-dec">
-        <div class="pro-img">
-                <img src="img/productSec.svg" alt="">
-                <div class="pro-head">
-                    <img src="img/icon9.svg" alt="">
-                    <h1>Polyster</h1>
-                    <img src="img/icon3.svg" alt="" id="icon3">
-                </div>
-
-            </div>
-            <div class="mission mis">
-
-                <h1>Service..... <span>that builds Trust</span> </h1>
-                <p>The mission of the Sun Champ Global Trades is to create prosperity by strengthening the
-                    competitiveness of industry, promoting trade and investment, and ensuring fair trade and
-                    compliance with trade laws and agreements.</p>
-                <p>We strive to be a resourceful foreign trade manual for our stakeholders in our collective journey
-                    of transparent and trustworthy international sale transactions.</p>
-                <p>The goal of Sun Champ Global Trades is to establish international business relationship through
-                    facilitating trade opportunities, creating joint ventures and strategic alliances between
-                    international businesses from various countries.</p>
-            </div>
-        </div>
-        <table class="table">
-    <thead class="gray">
-        <tr>
-            <th id="col-1" scope="col">Lustre</th>
-            <th id="col-2" scope="col">End Use</th>
-            <th id="col-3" scope="col">Supplier Origin</th>
-        </tr>
-    </thead>
-    <tbody id="table-body3">
-    </tbody>
-</table>
-
-<script>
-    const data3 = [
-        {
-            lustre: "Semi Dull, Super Bright, Home Bright, Full Dull, Cationic, Optical Bright, etc",
-            endUse: "Textile",
-            supplierOrigin: "China, Chinese Taipei, India, Indonesia"
-        },
-        // Add more data entries here if needed
-    ];
-
-    const tableBody3 = document.getElementById("table-body3");
-
-    data3.forEach(item => {
-        const row = document.createElement("tr");
-
-        const lustreCell = document.createElement("td");
-        lustreCell.textContent = item.lustre;
-        row.appendChild(lustreCell);
-
-        const endUseCell = document.createElement("td");
-        endUseCell.textContent = item.endUse;
-        row.appendChild(endUseCell);
-
-        const supplierOriginCell = document.createElement("td");
-        supplierOriginCell.textContent = item.supplierOrigin;
-        row.appendChild(supplierOriginCell);
-
-        tableBody3.appendChild(row);
-    });
-</script>
-    </section>
-
-
-    <section class="products" id="p4">
-
-
-        <div class="pro-dec">
-        <div class="pro-img">
-                <img src="img/productSec.svg" alt="">
-                <div class="pro-head">
-                    <img src="img/icon9.svg" alt="">
-                    <h1>Polyster</h1>
-                    <img src="img/icon3.svg" alt="" id="icon3">
-                </div>
-
-            </div>
-            <div class="mission mis">
-
-                <h1>Service..... <span>that builds Trust</span> </h1>
-                <p>The mission of the Sun Champ Global Trades is to create prosperity by strengthening the
-                    competitiveness of industry, promoting trade and investment, and ensuring fair trade and
-                    compliance with trade laws and agreements.</p>
-                <p>We strive to be a resourceful foreign trade manual for our stakeholders in our collective journey
-                    of transparent and trustworthy international sale transactions.</p>
-                <p>The goal of Sun Champ Global Trades is to establish international business relationship through
-                    facilitating trade opportunities, creating joint ventures and strategic alliances between
-                    international businesses from various countries.</p>
-            </div>
-        </div>
-        <table class="table">
-    <thead class="gray">
-        <tr>
-            <th id="col-1" scope="col">Lustre</th>
-            <th id="col-2" scope="col">End Use</th>
-            <th id="col-3" scope="col">Supplier Origin</th>
-        </tr>
-    </thead>
-    <tbody id="table-body4">
-    </tbody>
-</table>
-
-<script>
-    const data4 = [
-        {
-            lustre: "Semi Dull, Super Bright, Home Bright, Full Dull, Cationic, Optical Bright, etc",
-            endUse: "Textile",
-            supplierOrigin: "China, Chinese Taipei, India, Indonesia"
-        },
-        // Add more data entries here if needed
-    ];
-
-    const tableBody4 = document.getElementById("table-body4");
-
-    data4.forEach(item => {
-        const row = document.createElement("tr");
-
-        const lustreCell = document.createElement("td");
-        lustreCell.textContent = item.lustre;
-        row.appendChild(lustreCell);
-
-        const endUseCell = document.createElement("td");
-        endUseCell.textContent = item.endUse;
-        row.appendChild(endUseCell);
-
-        const supplierOriginCell = document.createElement("td");
-        supplierOriginCell.textContent = item.supplierOrigin;
-        row.appendChild(supplierOriginCell);
-
-        tableBody4.appendChild(row);
-    });
-</script>
-    </section>
-    <section class="products" id="p5">
-
-
-        <div class="pro-dec">
-        <div class="pro-img">
-                <img src="img/productSec.svg" alt="">
-                <div class="pro-head">
-                    <img src="img/icon9.svg" alt="">
-                    <h1>Polyster</h1>
-                    <img src="img/icon3.svg" alt="" id="icon3">
-                </div>
-
-            </div>
-            <div class="mission mis">
-
-                <h1>Service..... <span>that builds Trust</span> </h1>
-                <p>The mission of the Sun Champ Global Trades is to create prosperity by strengthening the
-                    competitiveness of industry, promoting trade and investment, and ensuring fair trade and
-                    compliance with trade laws and agreements.</p>
-                <p>We strive to be a resourceful foreign trade manual for our stakeholders in our collective journey
-                    of transparent and trustworthy international sale transactions.</p>
-                <p>The goal of Sun Champ Global Trades is to establish international business relationship through
-                    facilitating trade opportunities, creating joint ventures and strategic alliances between
-                    international businesses from various countries.</p>
-            </div>
-        </div>
-        <table class="table">
-    <thead class="gray">
-        <tr>
-            <th id="col-1" scope="col">Lustre</th>
-            <th id="col-2" scope="col">End Use</th>
-            <th id="col-3" scope="col">Supplier Origin</th>
-        </tr>
-    </thead>
-    <tbody id="table-body5">
-    </tbody>
-</table>
-
-<script>
-    const data5 = [
-        {
-            lustre: "Semi Dull, Super Bright, Home Bright, Full Dull, Cationic, Optical Bright, etc",
-            endUse: "Textile",
-            supplierOrigin: "China, Chinese Taipei, India, Indonesia"
-        },
-        // Add more data entries here if needed
-    ];
-
-    const tableBody5 = document.getElementById("table-body5");
-
-    data5.forEach(item => {
-        const row = document.createElement("tr");
-
-        const lustreCell = document.createElement("td");
-        lustreCell.textContent = item.lustre;
-        row.appendChild(lustreCell);
-
-        const endUseCell = document.createElement("td");
-        endUseCell.textContent = item.endUse;
-        row.appendChild(endUseCell);
-
-        const supplierOriginCell = document.createElement("td");
-        supplierOriginCell.textContent = item.supplierOrigin;
-        row.appendChild(supplierOriginCell);
-
-        tableBody5.appendChild(row);
-    });
-</script>
-    </section>
-
-
-    <section class="products" id="p6">
-
-
-        <div class="pro-dec">
-        <div class="pro-img">
-                <img src="img/productSec.svg" alt="">
-                <div class="pro-head">
-                    <img src="img/icon9.svg" alt="">
-                    <h1>Polyster</h1>
-                    <img src="img/icon3.svg" alt="" id="icon3">
-                </div>
-
-            </div>
-            <div class="mission mis">
-
-                <h1>Service..... <span>that builds Trust</span> </h1>
-                <p>The mission of the Sun Champ Global Trades is to create prosperity by strengthening the
-                    competitiveness of industry, promoting trade and investment, and ensuring fair trade and
-                    compliance with trade laws and agreements.</p>
-                <p>We strive to be a resourceful foreign trade manual for our stakeholders in our collective journey
-                    of transparent and trustworthy international sale transactions.</p>
-                <p>The goal of Sun Champ Global Trades is to establish international business relationship through
-                    facilitating trade opportunities, creating joint ventures and strategic alliances between
-                    international businesses from various countries.</p>
-            </div>
-        </div>
-        <table class="table">
-    <thead class="gray">
-        <tr>
-            <th id="col-1" scope="col">Lustre</th>
-            <th id="col-2" scope="col">End Use</th>
-            <th id="col-3" scope="col">Supplier Origin</th>
-        </tr>
-    </thead>
-    <tbody id="table-body6">
-    </tbody>
-</table>
-
-<script>
-    const data6 = [
-        {
-            lustre: "Semi Dull, Super Bright, Home Bright, Full Dull, Cationic, Optical Bright, etc",
-            endUse: "Textile",
-            supplierOrigin: "China, Chinese Taipei, India, Indonesia"
-        },
-        // Add more data entries here if needed
-    ];
-
-    const tableBody6 = document.getElementById("table-body6");
-
-    data6.forEach(item => {
-        const row = document.createElement("tr");
-
-        const lustreCell = document.createElement("td");
-        lustreCell.textContent = item.lustre;
-        row.appendChild(lustreCell);
-
-        const endUseCell = document.createElement("td");
-        endUseCell.textContent = item.endUse;
-        row.appendChild(endUseCell);
-
-        const supplierOriginCell = document.createElement("td");
-        supplierOriginCell.textContent = item.supplierOrigin;
-        row.appendChild(supplierOriginCell);
-
-        tableBody6.appendChild(row);
-    });
-</script>
-    </section>
 
 
 

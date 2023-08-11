@@ -1406,7 +1406,7 @@ form button {
     padding-bottom: 1.8rem;
 }
 
-.mission p {
+.mission p ,.para2 {
     text-align: left;
     color: #7F7F7F;
     font-family: Poppins;
@@ -2133,9 +2133,15 @@ line-height: normal;
 .mission{
     width: 100%;
 }
-.mission p{
+.mission p ,.para2{
 font-size: 0.8125rem;
 line-height: normal;
+}
+.para span{
+    font-size: 1rem !important;
+}
+.para {
+    font-size: 1rem !important;
 }
 .our-mission{
     gap: 4.3rem;
@@ -2261,6 +2267,13 @@ line-height: normal;
 .table{
     margin-top: 0rem !important;
 }
+.para2{
+    padding-inline:0 !important ;
+
+}
+#para2{
+    padding-top: 0 !important;
+}
 
 
 
@@ -2358,4 +2371,23 @@ line-height: normal;
 .point1{
     display: flex;
     flex-direction: column;
+}
+.dynamic-row{
+    text-align: center ;
+    border-top: 1px solid #ccc;
+}
+.para{
+    padding-bottom: 5px !important;
+    margin-bottom: 0.2rem !important;
+}
+.para span{
+    font-size: 25px ;
+    font-weight: 800 ;
+}
+.para2{
+    padding-inline:4rem ;
+
+}
+#para2{
+    padding-top: 4rem;
 }
