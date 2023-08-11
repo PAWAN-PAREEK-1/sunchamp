@@ -24,7 +24,7 @@
                 <li><a href="index.php" <?php if (basename($_SERVER['PHP_SELF']) == 'index.php') echo 'class="active"'; ?>>HOME</a></li>
                 <li><a href="about.php" <?php if (basename($_SERVER['PHP_SELF']) == 'about.php') echo 'class="active"'; ?>>ABOUT US</a></li>
                 <li><a href="product.php" <?php if (basename($_SERVER['PHP_SELF']) == 'product.php') echo 'class="active"'; ?>>TEXTILE PRODUCTS</a></li>
-                <li><a href="chemical.php" <?php if (basename($_SERVER['PHP_SELF']) == 'chemical.php') echo 'class="active"'; ?>>Chemical Products</a></li>
+                <li><a href="chemical.php" <?php if (basename($_SERVER['PHP_SELF']) == 'chemical.php') echo 'class="active"'; ?>> CHEMICAL PRODUCTS</a></li>
                 <li><a href="blog.php" <?php if (basename($_SERVER['PHP_SELF']) == 'blog.php') echo 'class="active"'; ?>>NEWS / BLOGS</a></li>
 
             </ul>

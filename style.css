@@ -2391,3 +2391,8 @@ line-height: normal;
 #para2{
     padding-top: 4rem;
 }
+.para3{
+    padding-top: 4rem;
+    padding-left: 2rem;
+    font-family: poppins;
+}
