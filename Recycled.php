@@ -74,21 +74,26 @@
             </div>
             <div class="mission mis">
 
-
-                <p>Recycled yarn is created through the process of recovering articles from PET plastic for reuse or recovering its raw materials for production. Recycled polyester is just as good as virgin polyester but takes less resources to make - Recycled polyester is almost the same as virgin polyester in terms of quality, but its production requires 59 percent less energy compared to virgin polyester.</p>
-                <p>Recycled polyester, often called rPet, is made from recycled plastic bottles. It is a great way to divert plastic from our landfills. The production of recycled polyester requires far fewer resources than that of new fibers and generates fewer CO2 emissions.</p>
+                    <!-- <h1>About Our <span>Recycled Textile </span>  Products</h1> -->
+                <p>The process of recovering PET plastic products for reuse or recovering its raw materials for production results in the creation of yarn.</p>
+                <p>Although it uses fewer resources to produce, recycled polyester is just as good as virgin polyester. In terms of quality, recycled polyester is almost on par with virgin polyester, but it uses 59 percent less energy to produce it. Recycled plastic bottles are used to create recycled polyester, also known as rPet. It is a fantastic way to keep plastic out of the landfill. Recycled polyester is manufactured using substantially fewer resources and generating lower CO2 emissions compared to newly produced polyester.</p>
 
             </div>
         </div>
 
 
-        <p class="para2" id="para2">Fabric, made from recycled plastic doesn't mean that it is stiff and uncomfortable. The fabric is just as soft and resilient as non-recycled polyesters. Recycled polyester, often called rPet, is made from recycled plastic bottles. It is a great way to divert plastic from our landfills. The production of recycled polyester requires far fewer resources than that of new fibers and generates fewer CO2 emissions.</p>
-        <p class="para2">Between 45% and 70%</p>
-        <p class="para2">less CO2 emissions generated during rPet production compared to virgin polyester</p>
-        <p class="para2">60% less energy</p>
-        <p class="para2">Is required to produce rPet compared to virgin polyester</p>
-        <p class="para2">There are 2 ways to recycle polyester: For mechanical recycling, plastic is melted to make new yarn. This process can only be done a few times before the fiber loses its quality. Chemical recycling involves breaking down plastic molecules and reforming them into yarn. This process maintains the quality of the original fiber and allows the material to be recycled infinitely, but it is more expensive.</p>
-        <p class="para2">We source from Mills producing Recycled products with all required certificates like GRS, Transaction Certificates, etc.</p>
+        <p class="para2" id="para2"> <i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i>Fabric that is made from recycled plastic need not be uncomfortable or stiff. The fabric is equally supple and durable as non-recycled materials.</p>
+        <p class="para2"><i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i>Fabric that is made from recycled plastic need not be uncomfortable or stiff.</p>
+        <p class="para2"><i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i>The fabric is just as supple and durable as polyester that has not been recycled.</p>
+        <p class="para2"><i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i>Recycled plastic bottles are used to create recycled polyester, also known as rPet.</p>
+        <p class="para2"><i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i>It is a fantastic way to keep plastic out of the landfill.</p>
+        <p class="para2"><i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i>Recycled polyester is created with far fewer resources and CO2 emissions in comparison to newly produced polyester.</p>
+        <p class="para2"><i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i>rPet production produces between 45% and 70% fewer CO2 emissions than virgin polyester does.</p>
+        <p class="para2"> <i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i>When compared to virgin polyester, the production of rPet requires 60% less energy.</p>
+        <p class="para2"><i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i>Polyester can be recycled in 2 different ways: To create new yarn for mechanical recycling, plastic is melted. The process can only be repeated so many times before the fibre starts to degrade.</p>
+        <p class="para2"><i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i>The plastic molecules are broken down and transformed into yarn through chemical recycling. Although this method is more expensive, it preserves the integrity of the original fibre and makes the material infinitely recyclable.</p>
+        <p class="para2"><i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i>We purchase from mills that produce recycled goods and have all necessary certifications, such as GRS and transaction certificates.
+        </p>
     </section>
 
 

@@ -760,8 +760,21 @@
             <p>
                 The high-tenacity yarn is ideal for use in the production of commercial fabrics, carpets, and tarpaulin and can be knitted or woven.
                 </p>
+
           </div>
+
         </div>
+        <!-- <p class="para2" id="para2">The High Tenacity Yarn filaments should ideally have a cross-section with 5 to 8 vertices, forming a star shape.</p> -->
+        <!-- <div class="points para2">
+            <div class="point1">
+               <a href="./Specialties.php#p1"><h4><img src="img/icon2.svg" alt="">Spandex Yarn</h4></a>
+               <a href="./Specialties.php#p2"> <h4><img src="img/icon2.svg" alt="">Bamboo & Lyocell Fibers And Yarns</h4></a>
+            </div>
+            <div class="point1">
+               <a href="./Specialties.php#p3"> <h4><img src="img/icon2.svg" alt="">Linen</h4></a>
+
+        </div> -->
+
         <table class="table">
           <thead class="gray">
             <tr>

@@ -1426,6 +1426,7 @@ form button {
     padding-bottom: 1.2rem;
 }
 
+
 .vision {
     gap: 17rem;
 }
@@ -2398,9 +2399,11 @@ line-height: normal;
     font-size: 25px ;
     font-weight: 800 ;
 }
-.para2{
-    padding-inline:4rem ;
-
+.para2 {
+	padding-inline: 4rem;
+	display: flex;
+	align-items: center;
+	gap: 1.25rem;
 }
 #para2{
     padding-top: 4rem;
