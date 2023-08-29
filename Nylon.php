@@ -75,10 +75,8 @@
             <div class="mission mis">
 
                 <h1>The <span>No.1 Nylon chips</span>  manufacturer in India</h1>
-                <p>Nylon chips and fibers are the main raw material for making fiber nylon chips and engineering plastic-grade nylon chips.Nylon chips are downstream products of CPL which include fiber-grade nylon chips and engineering plastic-grade nylon chips. CPDC produces nylon chips from CPL through vertical integration.
-                </p>
-                <p>Nylon6 and Nylon66 chips are used for producing Nylon filament Yarn as well as Engineering Plastics.The usage of Nylon6 Chips in the compounding industry is very high. It can be compounded with many other polymers or even fibers. Nylon 6 is synthesized by polymerization of Caprolactam.
-                    </p>
+                <p>Nylon Chips and fibers are the main raw material for making fiber nylon chips and engineering plastic-grade nylon chips. Nylon chips, such as fiber-grade and engineering plastic-grade nylon chips, are downstream products of CPL. Vertical integration allows CPDC to produce nylon chips from CPL. </p>
+                <p>Nylon filament yarn and engineering plastics are both made using Nylon6 and Nylon66 chips. Nylon6 Chips are widely used in the compounding sector. It can combine with numerous other polymers, even fibres.</p>
             </div>
         </div>
         <table class="table">
@@ -145,7 +143,7 @@
 
                 <h1>Service..... <span>that builds Trust</span> </h1>
                 <p>Nylon Partially Oriented Yarn, commonly known as Nylon POY is the primary form of Nylon yarn. It is also known as Nylon Pre-Oriented Yarn. It is the first form of yarn made directly by spinning Nylon Chips. Nylon POY is mainly used for manufacturing textured yarn.</p>
-                <p> Nylon POY can be available in two clusters: Semi Dull & Bright. Dope Dyed technology is used for making colored POY. Nylon POY is mainly available in packed-in cones as per customer requirements.</p>
+                <p> For nylon POY, there are two lustre options: bright and semi-bright. The production of colored POY uses dope dye technology. To satisfy customer needs, nylon POY is typically provided in cone packaging.</p>
             </div>
         </div>
         <table class="table">
@@ -163,9 +161,9 @@
 <script>
     const data2 = [
         {
-            lustre: "Semi Dull, Bright",
-            endUse: "Texturising/Draw Winding/Industrial",
-            supplierOrigin: "China, India, Chinese Taipei."
+            lustre: "Semi Dull, Bright ",
+            endUse: "Texturising / Draw Winding / Industrial",
+            supplierOrigin: "China,  India, Chinese Taipei"
         },
         // Add more data entries here if needed
     ];
@@ -188,6 +186,16 @@
         row.appendChild(supplierOriginCell);
 
         tableBody2.appendChild(row);
+
+
+        const newRow3 = document.createElement("tr");
+          newRow3.className = "dynamic-row";
+          const dynamicCell3 = document.createElement("td");
+          dynamicCell3.colSpan = 3;
+          dynamicCell3.textContent = "30 d to 600 d";
+          newRow3.appendChild(dynamicCell3);
+
+          tableBody2.appendChild(newRow3);
     });
 </script>
     </section>
@@ -209,11 +217,14 @@
             <div class="mission mis">
 
                 <h1>Service..... <span>that builds Trust</span> </h1>
-                <p>Nylon DTY is used for manufacturing hosiery items, fishing nets, and ropes, and high-tenacity nylon DTY is used for producing tire cords. Nylon DTY is available in semi-dull and bright DTY luster. The colour master-batch is mixed with the raw material to make the dope-dyed DTY. </p>
-                <p>Dope-dyed POY yarn can be used to make the Dope Dyed DTY yarn. It is available in an international standard packing of 1.89 kg cone. DTY from China & India is being exported in large quantities to countries like Egypt, Syria, Argentina and several other countries. DTY yarn is normally available in the following deniers and we can offer you the best quality of nylon DTY for all of these specifications.</p>
+                <p>Nylon DTY is used for manufacturing hosiery items, fishing nets, and ropes, and high-tenacity nylon DTY is used for producing tire cords. Nylon DTY is available in semi-dull and bright DTY luster. The colour master-batch is mixed with the raw material to make the dope-dyed DTY.High-tensile nylon DTY is used to make tyre cords, while nylon DTY is used to make hosiery, fishing nets and ropes. Both a semi-dull and bright DTY luster are available in nylon. To create the dope-dyed DTY, colour master batch is combined with the raw material. </p>
+
 
             </div>
         </div>
+        <p class="para2" id="para2">
+            The dope dyed DTY yarn can be produced using dope dyed POY yarn. It is offered in 1.89 kg cones of international standard packaging. DTY from China and India is exported in significant numbers to nations like Egypt, Syria, Argentina, and a number of others. The following deniers of DTY yarn are typically offered, and we can provide you with the highest quality nylon DTY for all of these requirements
+            </p>
         <table class="table">
     <thead class="gray">
         <tr>
@@ -229,9 +240,9 @@
 <script>
     const data3 = [
         {
-            lustre: "Bright Triloble, Semi dull, Set Yarn, Full Yarn, Dope Dyed black and colors",
+            lustre: "Bright Triloble, Semi Dull, Set Yarn, Full Yarn, Dope Dyed Black and Colours",
             endUse: "Knitting/Weaving",
-            supplierOrigin: "China, Chinese Taipei,India."
+            supplierOrigin: "China, Chinese Taipei, India "
         },
         // Add more data entries here if needed
     ];
@@ -254,6 +265,15 @@
         row.appendChild(supplierOriginCell);
 
         tableBody3.appendChild(row);
+
+        const newRow3 = document.createElement("tr");
+          newRow3.className = "dynamic-row";
+          const dynamicCell3 = document.createElement("td");
+          dynamicCell3.colSpan = 3;
+          dynamicCell3.textContent = "20 d to 600 d, NIM, SIM, HIM etc.";
+          newRow3.appendChild(dynamicCell3);
+
+          tableBody3.appendChild(newRow3);
     });
 </script>
     </section>
@@ -275,8 +295,8 @@
             <div class="mission mis">
 
                 <h1>Service..... <span>that builds Trust</span> </h1>
-                <p>Nylon filament yarn is a long continuous lustrous fiber, which is extensively used to produce a comprehensive range of textile fabrics such as sarees, draperies, furnishings and upholstery, sportswear, mosquito nets, and also for embroidery.</p>
-                <p>Nylon filament yarn is known for its excellent dyeability, high tensile strength, and elasticity with enhanced abrasion resistance, durability, and toughness. Its properties make it the preferred choice over natural yarn options, such as cotton, silk, and wool.</p>
+                <p>Nylon filament yarn is a long continuous lustrous fibre that is broadly utilized for producing textile fabrics such as sarees, draperies, furnishings and upholstery, sportswear, mosquito nets, and embroidery.</p>
+                <p>The high tensile strength, elasticity, and superior abrasion resistance, durability, and toughness of nylon filament yarn are well known. </p>
             </div>
         </div>
         <table class="table">
@@ -294,7 +314,7 @@
 <script>
     const data4 = [
         {
-            lustre: "Semi dull, Full dull, Bright, Ait textured Yarn",
+            lustre: " Semi Dull, Full Dull, Bright, Air Textured Yarn",
             endUse: "Knitting /Weaving",
             supplierOrigin: "China, Chinese Taipei,India."
         },
@@ -319,6 +339,14 @@
         row.appendChild(supplierOriginCell);
 
         tableBody4.appendChild(row);
+        const newRow3 = document.createElement("tr");
+          newRow3.className = "dynamic-row";
+          const dynamicCell3 = document.createElement("td");
+          dynamicCell3.colSpan = 3;
+          dynamicCell3.textContent = "20 d to 450 d";
+          newRow3.appendChild(dynamicCell3);
+
+          tableBody4.appendChild(newRow3);
     });
 </script>
     </section>
