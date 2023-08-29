@@ -75,10 +75,12 @@
             <div class="mission mis">
 
 
-               <p>Many people are also unaware that cotton Fibre has a coating of natural waxes that protect it from rain, which ultimately makes it hydrophobic (which is a fancy word for water repellent). This means raw cotton is unsuitable for use in many consumer products that require absorbency, a trait that is critical in many cotton applications.</p>
-                <p>Settling the issue of water repellence vs water absorbency is just one reason that cotton undergoes processing, and as you’ll read further, finishing, so that it can transform to meet end-customer expectations for product performance without losing its natural goodness.</p>
+               <p>Raw cotton is a natural fibre that is mostly used in the textile sector for the manufacture of variety fabrics.</p>
+                <p>Raw cotton is initially delivered in tightly packed bales, and over time, these bales go through a number of processes before undergoing a drastic transformation. Although raw cotton does contain fibre, due to the method of harvesting cotton, it also contains small plant fragments and field trash (non-lint or foreign matter), both of which must be thoroughly removed.</p>
+           <p>A lot of people don't know that cotton fibre has a natural wax coating on it to keep it dry in the rain, which makes it hydrophobic (a fancy word for water repellent). </p>
             </div>
         </div>
+        <p class="para2" id="para2"><i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i>This means that raw cotton cannot be used in many consumer products that call for absorption.</p>
         <table class="table">
     <thead class="gray">
         <tr>
@@ -142,8 +144,9 @@
             <div class="mission mis">
 
 
-                <p>The raw cotton is loosened and cleaned; to remove straw and dried leaves. The cleaned cotton is then fed into a machine.The cotton fibre is combed, straightened, and converted into a rope-like structure called a sliver. The sliver of cotton fibre is converted into yarn by spinning using machines. Cotton yarns are available in Open End and Ring Spun. and at Sun champ global traders, we provide the best cotton yarn in the world. </p>
-                <p>The cotton yarn makes a lightweight, breathable garment that pulls heat away from your skin. They are excellent for making garments worn in hot weather, like T-shirts, light shawls, or caps. Although conventional cotton yarn gives a neutral appearance to the fabric, mercerized cotton yarn can make shiny clothing.</p>
+                <p>Raw cotton is loosened and cleaned; To remove straw and dry leaves. The cleaned cotton is fed into the machine. The cotton fiber is combed, straightened, and slivered into a rope-like structure. </p>
+                <p>Through the use of machines, the cotton fibre sliver is spun into yarn. A lightweight, breathable garment made of cotton yarn wicks heat away from your skin. In hot weather wear like T-shirts, light shawls, and hats.</p>
+            <p>Mercerized cotton yarn can be used to create shiny clothing, whereas conventional cotton yarn gives fabrics a neutral appearance. Both Open End and Ring Spun cotton yarns are available.</p>
             </div>
         </div>
         <table class="table">
@@ -186,6 +189,17 @@
         row.appendChild(supplierOriginCell);
 
         tableBody2.appendChild(row);
+
+
+        const newRow3 = document.createElement("tr");
+          newRow3.className = "dynamic-row";
+          const dynamicCell3 = document.createElement("td");
+          dynamicCell3.colSpan = 3;
+          dynamicCell3.textContent =
+            "Carded, Combed, Combed Compact, OE, BCI, Organic - 5 count to 160 count";
+          newRow3.appendChild(dynamicCell3);
+
+          tableBody2.appendChild(newRow3);
     });
 </script>
     </section>
@@ -207,11 +221,18 @@
             <div class="mission mis">
 
 
-                <p>Core Spun Yarns are made of bare spandex covered with various yarns such as Cotton, Polyester Spun, Nylon, and other Blend Yarns. </p>
-                <p> It usually has single or double covering modes. Nylon-covered yarn and polyester-covered yarn are mainly used in single-covering mode. CSY is mainly used in knitting machines, woven fabric, Denim, seamless undergarments, leggings, sportswear, pantyhose, protective gear, knitted sweater, etc.</p>
-                <p>CSY Drafting the outer covering fibre and spandex yarn through the specified type of nozzle at the same time, after regular pressure by high compressed air and then forming the yarn with regular intermingle points. The fabric knitted by air-covered yarn will have soft and smooth hand feels.</p>
+                <p>The base material for Core Spun Yarns is bare spandex, which is then covered with a variety of yarns like Cotton, Polyester Spun, Nylon, and other Blend Yarns.</p>
+                <p>Knitting machines, woven fabrics, Denim, seamless undergarments, leggings, sportswear, pantyhose, protective gear, and knitted sweaters are just a few of the products that use CSY.</p>
+                <p>CSY Drafting the spandex yarn and outer covering fibre through a specific type of nozzle simultaneously, applying regular pressure with highly compressed air afterward, and forming the yarn with regular intersection points.</p>
             </div>
         </div>
+
+
+        <p class="para2 " id="para2">
+Single or double covering modes are typically available.
+</p>
+<p class="para2">The two most common single-covering modes are nylon-covered yarn and polyester-covered yarn.</p>
+<p class="para2">The fabric created by air-covered yarn will feel smooth and soft to the touch.</p>
         <table class="table">
     <thead class="gray">
         <tr>
@@ -252,6 +273,16 @@
         row.appendChild(supplierOriginCell);
 
         tableBody3.appendChild(row);
+
+        const newRow3 = document.createElement("tr");
+          newRow3.className = "dynamic-row";
+          const dynamicCell3 = document.createElement("td");
+          dynamicCell3.colSpan = 3;
+          dynamicCell3.textContent =
+            "Cotton/Spun/Blend + Spandex (can be manufactured to specific requirement)";
+          newRow3.appendChild(dynamicCell3);
+
+          tableBody3.appendChild(newRow3);
     });
 </script>
     </section>
@@ -273,11 +304,16 @@
             <div class="mission mis">
 
 
-                <p>Viscose Staple Fibre (VSF), a natural, bio-degradable Fibre with characteristics somewhat similar to cotton is obtained from wood pulp or cotton pulp. . Depending upon the intended use, viscose Fibres are made into textile or cord threads, as well as staple Fibre. Fabrics of viscose Fibres are easily dyed and have excellent hygienic properties (hygroscopicity), which is especially important in goods made for popular use.</p>
-                <p>As an extremely versatile and easily blendable Fibre, VSF is widely used in apparel, home textiles, dress material, knitted wear, and non-woven applications.</p>
-                <p>The accessibility of raw materials and the low cost of the chemical reagents, as well as the satisfactory textile properties and broad possibilities for modification, ensure that Viscose Fibres are economical to produce and widely used.</p>
+                <p>Viscose Staple Fibre (VSF), a natural, biodegradable fibre with qualities somewhat resembling cotton, is produced from wood pulp or cotton pulp. </p>
+                <p>VSF is used extensively in apparel, home textiles, dress material, knitted wear, and non-woven applications because it is a very adaptable and simple to blend fibre.  </p>
+                <p>Viscose fibres can be converted into staple fibre, textile or cord threads, or both, depending on the end use. </p>
+                <p>Fabrics made of viscose fibres are simple to dye and have excellent hygienic qualities (hygroscopicity), which is crucial in products intended for general use. </p>
+
+
+
             </div>
         </div>
+        <p class="para2" id="para2">Viscose Fibres are inexpensive to produce and widely used because of the availability of raw materials, the low cost of chemical reagents, satisfactory textile properties, and a wide range of modification options.</p>
         <table class="table">
     <thead class="gray">
         <tr>
@@ -342,6 +378,7 @@
     newRow2.appendChild(dynamicCell2);
 
     tableBody4.appendChild(newRow2);
+
 </script>
 
     </section>
@@ -361,8 +398,8 @@
             <div class="mission mis">
 
 
-                <p>Viscose or rayon is an artificial fibre of natural origin created from the cellulose of wood pulp. Among its qualities, it’s an absorbent material, perfect for cool and breathable fabrics. Enjoy comfortable knit garments, with a silky feel and amazing softness.</p>
-                <p>  This ‘artificial silk’ keeps the body dry, preventing the proliferation of bacteria and fungi, and does not hold static charge.</p>
+                <p>A synthetic fibre of natural origin made from the cellulose in wood pulp is called viscose or rayon. It has a variety of advantages, including being an absorbent substance ideal for breathable, cool fabrics. Enjoy silky-soft, cosy knitwear that feels comfortable to wear.</p>
+                <p> This "artificial silk" keeps the body dry, inhibiting the growth of bacteria and fungi, and does not retain static electricity.</p>
             </div>
         </div>
         <table class="table">
@@ -436,9 +473,9 @@
             <div class="mission mis">
 
 
-                <p>Blended yarn is a yarn that contains a different type of Raw materials blended together like Polyester, Cotton, Viscose, Acrylic in different proportions, The yarn is durable, so blending it with artificial material helps keep the final product in shape and appearance.</p>
-                <p>Blended yarns usually offer the best  i.e., the breathability of wool or cotton, the durability of acrylic or nylon. Blends take dye differently and offer different color effects as well. Fibre blending has for a long time been practiced in textile processing.</p>
-                <p>By mixing fibres of different types to form textile yarns, many advantages are achieved, such as property compensation or reinforcement between fibres, and cost reduction without significant sacrifice of yarn performance.</p>
+                <p>Blended yarn is made from a number of raw materials such as polyester, cotton, viscose and acrylic, mixed together in different amounts. Since yarn is strong, mixing it with synthetic materials helps in keeping the finished product in good shape and appearance. </p>
+                <p>The best of several worlds, such as the breathability of wool or cotton and the durability of acrylic or nylon, are typically offered by blended yarns. Blends offer a variety of color effects and have varying responses to dye. </p>
+                <p>Fibre blending has been used in textile processing for a very long time. Numerous benefits can be obtained by combining fibres of various types to create textile yarns, such as property compensation or reinforcement between fibres, cost reduction without significantly sacrificing yarn performance..</p>
             </div>
         </div>
         <table class="table">
@@ -515,8 +552,8 @@
     <div class="mission mis">
 
 
-        <p>Polyester Spun yarn consists of short, staple fibres woven together to create a single yarn to be used in weaving, knitting projects, and clothing manufacturing. Spun yarn is also used in making Sewing thread & embroidery threads.</p>
-        <p>Spun Yarn can be waxed which is used for knitting fabrics or un-waxed mainly used for weaving. PSY is commonly available in both single and double-ply for use in the Textile industry. It can be Raw-white & dope dyed colour as well. Both dope-dyed spun yarn & conventional dyed spun yarn can be used to make fabrics..</p>
+        <p>Polyester For use in weaving, knitting, and the production of clothing, spun yarn is composed of short, staple fibres that are woven together into a single yarn. Sewing and embroidery threads can both be made from spun yarn. </p>
+        <p>Spun yarn comes in two different waxes: unwaxed for weaving and waxed for knitting fabrics. In the textile industry, PSY is frequently used and is readily available in both single and double-ply. It is also possible for it to be raw-white and drug-dyed. Fabrics can be made using both dope-dyed and conventionally dyed spun yarn.</p>
     </div>
 </div>
 <table class="table">
