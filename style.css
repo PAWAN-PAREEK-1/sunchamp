@@ -1495,6 +1495,9 @@ form button {
     margin-block: 2rem;
     padding-inline: 6.25rem;
 }
+.lastp{
+    margin-bottom: 6.25rem;
+}
 
 
 
@@ -1710,6 +1713,9 @@ background: url(<path-to-image>), lightgray -738.041px 0px / 191.764% 127.867% n
 }
 .header03 h3{
     display: none;
+}
+.lastp{
+    margin-bottom: 0 !important;
 }
 
 

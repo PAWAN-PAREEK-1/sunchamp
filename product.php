@@ -339,7 +339,7 @@
 
 
 
-    <section class="products p1" id="p6">
+    <section class="products p1 lastp" id="p6" >
 
         <div class="pro-dec">
             <div class="pro-img">

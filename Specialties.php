@@ -231,7 +231,7 @@
       </script>
     </section>
 
-    <section class="products" id="p3">
+    <section class="products lastp" id="p3">
       <div class="pro-dec">
         <div class="pro-img">
           <img src="img/productSec.svg" alt="" />
