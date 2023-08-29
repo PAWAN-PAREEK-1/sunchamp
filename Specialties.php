@@ -40,28 +40,18 @@
         </div>
         <div class="mission mis">
           <p>
-            Spandex, Lycra, or elastane is a synthetic fibre known for its
-            exceptional elasticity. It is a polyether-polyurea copolymer that
-            was invented in 1958 by chemist Joseph Shivers at DuPont's Benger
-            Laboratory in Waynesboro, Virginia. The generic name "spandex",
-            which is an anagram of the word "expands", is the preferred name in
-            North America.
+            A synthetic fibre called spandex, lycra, or elastane is renowned for its exceptional elasticity. Joseph Shivers, a chemist at DuPont's Benger Laboratory in Waynesboro, Virginia, invented the polyether-polyurea copolymer in 1958. The preferred name in North America is "spandex," which is an anagram of the word "expands."
           </p>
+
           <p>
-            Spandex is a synthetic fabric that is prized for its elasticity. It
-            is the most critical component in the manufacturing of denim/
-            sportswear/apparel.
-          </p>
-          <p>
-            Rise in demand for spandex fibres from various industries such as
-            automotive, healthcare, and transportation, growing use of spandex
-            as an alternative to natural and synthetic rubber in industrial
-            applications, increasing healthcare investments in various regions,
-            and rise in the affluent population are the main factors that boost
-            the spandex fibres market growth.
+            The rise in demand for spandex fibres from various industries such as automotive, healthcare, and transportation, as well as the growing use of spandex as an alternative to natural and synthetic rubber in industrial applications, rising healthcare investments in various regions, and an increase in the affluent population, are the primary factors driving the spandex fibres market growth.
           </p>
         </div>
       </div>
+      <p class="para2" id="para2">
+        The elastic quality of spandex makes it a popular synthetic fabric. The most important ingredient in the production of apparel, sportswear, and denim is this one.
+
+      </p>
       <table class="table">
         <thead class="gray">
           <tr>
@@ -127,45 +117,33 @@
         </div>
         <div class="mission mis">
           <p>
-            Bamboo fibre is a kind of cellulose fibre made of 100% bamboo.
-            Advantages of Bamboo are :
+            Bamboo fibre is a type of cellulose fibre made entirely of bamboo. Bamboo has the following advantages, Bactericidal properties Biodegradable and green Breathable and refreshing. Bamboo can grow up to 3 feet in a single night. Because it is a rapidly growing renewable resource, it can replace cotton, wood, and other materials.
           </p>
-          <p class="para">
+          <!-- <p class="para">
             <span>1. Naturally anti-bacterial</span>
           </p>
           <p class="para"><span>2. Green & Biodegradable</span></p>
-          <p class="para"><span>3. Breathable and Cool</span></p>
+          <p class="para"><span>3. Breathable and Cool</span></p> -->
 
           <p>
-            Bamboo can grow as much as 3 feet overnight. Because this is a
-            fast-growing renewable resource it can replace cotton, wood etc.
-            Bamboo fibre is a biodegradable textile material. It can be 100%
-            biodegraded in soil by microorganisms and sunshine. The
-            decomposition process doesn't cause any pollution environment.
+            Bamboo fibre is a biodegradable textile fibre. It can be completely biodegraded in soil by microorganisms and sunlight. The decomposition process is eco-friendly and does not harm the environment.
           </p>
         </div>
       </div>
       <p class="para2" id="para2">
-        Because the cross-section of the bamboo fibre is filled with various
-        micro-gaps and micro-holes, it has much better moisture absorption and
-        ventilation. With this unparalleled micro-structure, bamboo fibre
-        apparel can absorb and evaporate humans sweat in a split second.
+        The bamboo fibre has much better moisture absorption and ventilation because the cross-section is filled with various micro-gaps and micro-holes.
       </p>
       <p class="para2">
-        According to authoritative testing figures, apparel made from bamboo
-        fibres is 1-2 degrees lower than normal apparel in hot summer. Lyocell
-        bamboo fibre is a Solvent Humidity Modulus bamboo fibre, during which
-        there is no chemical reaction, wastewater and gas, and harmful chemical
-        residues, therefore it is real environment-friendly green fibre.
+        Bamboo fibre apparel, thanks to its unrivaled microstructure, can absorb and evaporate human sweat in a fraction of a second. According to authoritative testing results, bamboo fibre clothing is 1-2 degrees cooler than regular clothing in hot summer.
       </p>
       <p class="para2">
-        IT IS THE BEST SOLUTION FOR THE FTC CLAIM FROM USA, as this lyocell
-        bamboo fibre is not viscose at all and it is the real GREEN fibre
-        compared with normal bamboo fibre. In the bamboo cellulose, the unique
-        gene “Bamboo Quinone” has natural functions of sterilization,
-        bacteriostatic, anti-mite, and anti-odor. Lyocell Bamboo has been sent
-        to the world's authoritative fibre testing organization Nowadays, the
-        fibre has passed the anti-bacterial test.
+        Lyocell bamboo fibre is a Solvent Humidity Modulus bamboo fibre that has no chemical reaction, wastewater and gas, or harmful chemical residues, making it a true environmentally friendly green fibre.
+      </p>
+      <p class="para2">
+        IT IS THE BEST SOLUTION FOR THE FTC CLAIM FROM THE USA, because lyocell bamboo fibre is not viscose at all and is the true GREEN fibre when compared to regular bamboo fibre.
+      </p>
+      <p class="para2">
+        The unique gene "Bamboo Quinone" in bamboo cellulose has natural sterilization, bacteriostatic, anti-mite, and anti-odor functions. Lyocell Bamboo was sent to the world's most reputable fibre testing organization, and it has now passed the anti-bacterial test.
       </p>
       <table class="table">
         <thead class="gray">
@@ -232,20 +210,12 @@
         <div class="mission mis">
           <p>The No. Line Manufacturer In India</p>
           <p>
-            Linen is very strong, absorbent, and dries faster than cotton.
-            Because of these properties, linen is comfortable to wear in hot
-            weather and is valued for use in garments. It also has other
-            distinctive characteristics, notably its tendency to wrinkle.
+            Linen takes the lead over cotton due to its heightened durability, absorbent properties, and accelerated drying rate. Its proclivity to wrinkle is another distinguishing feature.
           </p>
           <p>
-            Textiles in a linen weave texture, even when made of cotton, hemp,
-            or other non-flax fibres, are also loosely referred to as "linen".
-          </p>
+            Linen fabric is famous for use in clothing and is comfortable to wear in hot weather. Textiles with a linen weave texture are called "linen" even if they are made of cotton, hemp, or other non-flax fibres.  </p>
           <p>
-            Garments made of linen are desirable in hot and humid climates.
-            Unlike cotton, which tends to retain moisture for a significant
-            period of time, linen dries quickly, which helps reduce heat
-            retention in overly warm conditions.
+            Linen garments are preferred in hot and humid climates. Unlike cotton, which retains moisture for an extended period of time, linen dries quickly, which helps reduce heat retention in excessively hot conditions.
           </p>
         </div>
       </div>
