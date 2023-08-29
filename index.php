@@ -305,7 +305,7 @@
           <div class="blog">
             <a href="">
               <div class="recent-post">
-                <img src="img/newsjpg.png" alt="Post Image" />
+                <img src="img/blog1.svg" alt="Post Image" />
                 <div class="post-content news-detail">
                   <p>July 10, 2023</p>
                   <p>Textilegence Magazine & Digital Platform</p>
@@ -315,7 +315,7 @@
             <hr />
             <a href="">
               <div class="recent-post">
-                <img src="img/news1.png" alt="Post Image" />
+                <img src="img/blog2.svg" alt="Post Image" />
                 <div class="post-content news-detail">
                   <p>July 9, 2023</p>
                   <p>Nulla vitae elit libero, a pharetra augue.</p>
@@ -325,7 +325,7 @@
             <hr />
             <a href="">
               <div class="recent-post">
-                <img src="img/newsjpg.png" alt="Post Image" />
+                <img src="img/blog3.svg " alt="Post Image" />
                 <div class="post-content news-detail">
                   <p>July 10, 2023</p>
                   <p>Textilegence Magazine & Digital Platform</p>

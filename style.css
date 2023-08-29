@@ -63,15 +63,14 @@ font-style: normal;
 }
 
 nav {
-    display: flex;
-    justify-content: space-around;
-    padding-block: 2.2rem;
-    align-items: center;
-    position: relative;
-    padding-left: 368px;
-
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	position: relative;
+	padding-left: 368px;
+	padding-bottom: 2.50rem;
+	padding-top: 2rem;
 }
-
 .manus ul {
     list-style-type: none;
     display: inline-flex;
@@ -162,7 +161,7 @@ nav {
 .logo {
     position: absolute;
     top: 30px;
-    left: 125px;
+    left: 6.25rem;
     z-index: 1;
     border: 2px solid white;
     background: white;
@@ -607,7 +606,7 @@ input:focus {
 .testi001 {
     display: flex;
     justify-content: end;
-    margin-right: 169px;
+    margin-right: 6.25rem;
     position: absolute;
     top: 62px;
 }
@@ -663,6 +662,10 @@ input:focus {
     left: 226px;
     border: 8px solid white;
     border-radius: 14px;
+    width: 100%;
+}
+.img2 img{
+    width: 100%;
 }
 
 
@@ -680,7 +683,8 @@ input:focus {
 
 
 .main-container {
-    background-image: url(img/hero.svg);
+    /* background-image: ; */
+    background: linear-gradient(91deg, rgba(0, 96, 170, 0.52) 0%, rgba(0, 96, 170, 0.09) 100%),url(img/hero.svg);
 
     z-index: -1;
     margin-top: -8px;
@@ -720,10 +724,10 @@ input:focus {
     text-transform: capitalize;
 }
 
-.main-container h3,
+/* .main-container h3,
 .main-container h1 {
     padding-bottom: 25px;
-}
+} */
 
 .indexhero {
     margin-top: 25px;
@@ -752,7 +756,7 @@ input:focus {
 .specelity-testi {
     display: flex;
     gap: 2rem;
-    margin: 4.375rem 0 4.25rem 0;
+    margin: 4.375rem 0 6.25rem 0;
 }
 
 .spbox {
@@ -806,7 +810,7 @@ input:focus {
 
 .aboutus {
     background-image: url(img/abousecbg.svg);
-    padding: 4.37rem 7.5rem;
+    padding: 6.2537rem 7.5rem;
     display: flex;
     gap: 3.12rem;
     align-items: center;
@@ -922,8 +926,8 @@ input:focus {
 
 .ourproduct {
     background-image: url(img/ourprohero.svg);
-    padding: 4.37rem 7.5rem;
-    margin-top: 6rem;
+    padding: 4.37rem 6.25rem;
+    margin-top: 6.44rem;
 }
 
 .ourproduct h3 {
@@ -1039,11 +1043,12 @@ input:focus {
 
 .wp {
     background: none;
+    padding-block: 0 !important;
 }
 
 .wp-main {
     display: flex;
-    margin-block: 4.3rem;
+    margin-block: 4.3rem 6.25rem
 
 }
 
@@ -1109,7 +1114,7 @@ input:focus {
 }
 
 .news-blogs {
-    padding: 4.37rem 7.5rem;
+    padding: 6.25rem 7.5rem;
 
 }
 
@@ -1200,7 +1205,7 @@ input:focus {
     display: flex;
     justify-content: space-between;
     gap: 4.125rem;
-    margin-block: 5.5rem;
+    margin-block: 4.5rem 0;
 }
 
 #second-head {
@@ -1245,6 +1250,8 @@ input:focus {
     background-repeat: no-repeat;
     background-size: cover;
     backdrop-filter: opacity(0.1);
+    max-width: 1500px;
+    margin: auto;
 }
 
 .box22{
@@ -1375,7 +1382,7 @@ form button {
 
 .our-mission {
     display: flex;
-    padding: 7rem 7.5rem;
+    padding: 6.25rem 7.5rem;
     align-items: center;
     gap: 7.3rem;
 
@@ -1499,10 +1506,12 @@ form button {
 
 
 .news-blog-hero {
-    padding: 4.37rem 7.5rem;
-    text-align: center;
+	padding: 4.37rem 7.5rem;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
 }
-
 
 .news-blog-hero h3 {
     color: #333;
@@ -1526,7 +1535,7 @@ form button {
 
 .news2 {
     display: flex;
-    gap: 1.3rem;
+    gap: 1.9rem;
 }
 
 .news0101 {
@@ -1560,6 +1569,9 @@ form button {
     position: absolute;
      top: 26px;
     left: 26px;
+}
+.news-img img{
+    width: 100%;
 }
 .h11{
     padding: 5px 20px;
@@ -1676,6 +1688,8 @@ background: #F2F2F2;
 }
 .box img{
     height: 100%;
+    border-radius: 1.875rem  1.87rem 0 0;
+background: url(<path-to-image>), lightgray -738.041px 0px / 191.764% 127.867% no-repeat;
 }
 
 
