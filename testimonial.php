@@ -44,9 +44,7 @@
                         <img src="img/ratinh.svg" alt="">
                     </div>
                 </div>
-                <p>I realized after I sent in my order that I adordered a larger quantity than I needed. I emailedand
-                    received a quick response, adjustment to my order and a refund. Product was shipped out in a timely
-                    manner.</p>
+                <p>Upon placing my order, I realized I had purchased more than required. Upon reaching out via email, I received a swift response. They efficiently corrected my order, processed a refund, and expedited the product shipment. Their prompt and responsive service truly stands out</p>
                 <div class="circles">
                     <div class="circle"></div>
                     <div class="circle"></div>
@@ -58,22 +56,22 @@
                         {
                             name: 'Talan Rhiel Madsen',
                             image: 'img/tesiimg.svg',
-                            text: 'I realized after I sent in my order that I adordered a larger quantity than I needed. I emailedand received a quick response, adjustment to my order and a refund. Product was shipped out in a timely manner.'
+                            text: 'Upon placing my order, I realized I had purchased more than required. Upon reaching out via email, I received a swift response. They efficiently corrected my order, processed a refund, and expedited the product shipment. Their prompt and responsive service truly stands out'
                         },
                         {
                             name: 'Talan Rhiel ',
                             image: 'img/testiemail.svg',
-                            text: 'we realized after I sent in my order that I adordered a larger quantity than I needed. I emailedand received a quick response, adjustment to my order and a refund. Product was shipped out in a timely manner.'
+                            text: 'Upon placing my order, I realized I had purchased more than required. Upon reaching out via email, I received a swift response. They efficiently corrected my order, processed a refund, and expedited the product shipment. Their prompt and responsive service truly stands out'
                         },
                         {
                             name: 'Talan Madsen',
                             image: 'img/tesiimg.svg',
-                            text: 'I rea I sent in my order that I adordered a larger quantity than I needed. I emailedand received a quick response, adjustment to my order and a refund. Product was shipped out in a timely manner.'
+                            text: 'Upon placing my order, I realized I had purchased more than required. Upon reaching out via email, I received a swift response. They efficiently corrected my order, processed a refund, and expedited the product shipment. Their prompt and responsive service truly stands out'
                         },
                         {
                             name: 'Talan Rhiel Madsen',
                             image: 'img/tesiimg.svg',
-                            text: 'In my order that I adordered a larger quantity than I needed. I emailedand received a quick response, adjustment to my order and a refund. Product was shipped out in a timely manner.'
+                            text: 'Upon placing my order, I realized I had purchased more than required. Upon reaching out via email, I received a swift response. They efficiently corrected my order, processed a refund, and expedited the product shipment. Their prompt and responsive service truly stands out'
                         },
                         // ... add more reviews here
                     ];

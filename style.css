@@ -1427,7 +1427,7 @@ form button {
 }
 
 .vision {
-    gap: 15rem;
+    gap: 17rem;
 }
 
 
@@ -1490,7 +1490,7 @@ form button {
     display: flex;
     justify-content: space-between;
     /* gap: 6rem; */
-    width: 80%;
+    /* width: 80%; */
     margin-block: 2rem;
     padding-inline: 6.25rem;
 }

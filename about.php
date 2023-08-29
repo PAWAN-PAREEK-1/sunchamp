@@ -74,27 +74,16 @@
             </p>
           </div>
           <p>
-            We are a Leading supplier of Textile & Chemical Products in India,
-            with a strong presence in global markets including India, China,
-            Bangladesh, Egypt, Thailand, Indonesia, Vietnam, Europe, and North
-            America.
+            Sun Champ Global Traders, The best Polyester manufacturer in India, We are a leading exporter of Textile and chemical Products from Surat, India. We have established a wide range of contacts and reputations in India, China, Bangladesh, Egypt, Thailand, Indonesia, Vietnam, Europe, and North America's international market.
           </p>
           <h4>
-            <img src="img/icon2.svg" alt="" />Our name and strength arise from
-            our skilled staff's 15+ years of global market expertise, ensuring
-            customer satisfaction and Trust through our tagline, 'Service...
-            that builds Trust'.
+            <img src="img/icon2.svg" alt="" />India has a long-standing tradition of textile manufacturing and is known for its beautiful fabrics.
           </h4>
           <h4>
-            <img src="img/icon2.svg" alt="" />Our Professionals are
-            strategically navigating international trade in supplier/buyer host
-            countries, adeptly responsive to cultural nuances and cost-effective
-            practices.
+            <img src="img/icon2.svg" alt="" />From traditional materials like silk, cotton, and wool to more modern options like polyester and nylon, Indian manufacturers offer a diverse range of choices.
           </h4>
           <h4>
-            <img src="img/icon2.svg" alt="" />Built upon India's strong textile
-            tradition, we proudly serve a diverse clientele, Texturizers,
-            Weavers, Spinning Mills, Traders, and textile-related players.
+            <img src="img/icon2.svg" alt="" />Skilled artisans and manufacturers in India take great pride in creating fabrics that are both stunning and of high quality.
           </h4>
         </div>
       </section>
@@ -120,6 +109,8 @@
               By providing clients to potential customers or partners, we want
               to increase productivity while saving time and money.
             </p>
+            <p>As a superior foreign trade partner we are always a helping hand to all our international partners</p>
+            <p>We offer comprehensive guidance and support for transparent and dependable international sales transactions. </p>
           </div>
           <div class="clipimg">
             <div class="img1">
@@ -145,20 +136,15 @@
                 We've focused on <span>improving </span> our office infrastructure.
             </h1>
             <p>
-              We aim to be The best Nylon chips manufacturer in India providing
-              services for sustainable textile products and practices. We have
-              offices and a qualified workforce in all trading nations to
-              guarantee first-rate service quality.
+              We aim to be The best Nylon chips manufacturer in India providing services for sustainable textile products and practices.
             </p>
             <p>
-              As the No.1 Polyester Suppliers in India, We play a crucial role
-              in building trust between buyers and sellers, acting as a bridge
-              for trustworthy relationships.
+              We have offices and a qualified workforce in all trading nations to guarantee first-rate service quality.
             </p>
             <p>
-              Everything we do at Sun Champ Global Trades is based on trust. It
-              is a value that directs us in all aspects of our company.
+              As the No.1 Polyester Suppliers in India, We play a crucial role in building trust between buyers and sellers, acting as a bridge for trustworthy relationships.
             </p>
+            <P>Everything we do at Sun Champ Global Trades is based on trust. It is a value that directs us in all aspects of our company.</P>
           </div>
         </div>
       </section>

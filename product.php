@@ -168,12 +168,20 @@
                <a href="./Polyster.php#p1"><h4><img src="img/icon2.svg" alt="">Polyester Chips - Textile Grade</h4></a>
                <a href="./Polyster.php#p2"> <h4><img src="img/icon2.svg" alt="">Polyester Chips - Bottle Grade</h4></a>
                <a href="./Polyster.php#p3"> <h4><img src="img/icon2.svg" alt="">Polyester Chips - Film Grade:</h4></a>
+               <a href="./Polyster.php#p10"> <h4><img src="img/icon2.svg" alt="">High Tenacity Yarn</h4></a>
             </div>
             <div class="point1">
                <a href="./Polyster.php#p4"> <h4><img src="img/icon2.svg" alt="">Partially Oriented Yarn (POY)</h4></a>
                <a href="./Polyster.php#p5"> <h4><img src="img/icon2.svg" alt="">Textured Yarns (DTY)</h4></a>
+               <a href="./Polyster.php#p6"> <h4><img src="img/icon2.svg" alt="">Filament Yarn - Fully Drawn Yarn (FDY)</h4></a>
 
             </div>
+            <div class="point1">
+              <a href="./Polyster.php#p7"> <h4><img src="img/icon2.svg" alt="">Air Covered Yarn (ACY)</h4></a>
+              <a href="./Polyster.php#p8"> <h4><img src="img/icon2.svg" alt="">Polyester Staple Fiber (PSF)</h4></a>
+              <a href="./Polyster.php#p9"> <h4><img src="img/icon2.svg" alt="">Solid And Hollow Fibers</h4></a>
+
+           </div>
 
         </div>
     </section>
@@ -207,10 +215,12 @@
                <a href="./Recycled.php#p1"><h4><img src="img/icon2.svg" alt="">FSC Certified Bamboo Fibers</h4></a>
                <a href="./Recycled.php#p1"> <h4><img src="img/icon2.svg" alt="">Recycled Polyester Chips for Textile and Film applications <br>The rayon fabrics wholesaler is available.</h4></a>
                <a href="./Recycled.php#p1"> <h4><img src="img/icon2.svg" alt="">Recycled Polyester Filament Yarns (POY, FDY, DTY)</h4></a>
+               <a href="./Recycled.php#p1"> <h4><img src="img/icon2.svg" alt="">Recycled Spandex Yarns</h4></a>
             </div>
             <div class="point1">
                <a href="./Recycled.php#p1"> <h4><img src="img/icon2.svg" alt="">Recycled Polyester Fibers</h4></a>
                <a href="./Recycled.php#p1"> <h4><img src="img/icon2.svg" alt="">Recycled ACY, CSY & DCY</h4></a>
+               <a href="./Recycled.php#p1"> <h4><img src="img/icon2.svg" alt="">Recycled Polyester Spun Yarns</h4></a>
             </div>
 
         </div>
