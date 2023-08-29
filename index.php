@@ -17,6 +17,14 @@
    ?>
 
     <section class="main">
+      <div class="whatsapp-button">
+        <a class="whatsapp-icon" href="https://api.whatsapp.com/send?phone=1234567890" target="_blank" rel="noopener noreferrer">
+          <i class="fa-brands fa-whatsapp fa-2xl" style="color: #fff;"></i>
+        </a>
+      </div>
+
+
+
       <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fa-solid fa-arrow-up fa-2xl" style="color: #ed3237;"></i></button>
 
 
