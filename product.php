@@ -15,6 +15,40 @@
     include "header.php";
    ?>
 
+
+   <div class="whatsapp-button">
+    <a class="whatsapp-icon" href="https://api.whatsapp.com/send?phone=1234567890" target="_blank" rel="noopener noreferrer">
+      <i class="fa-brands fa-whatsapp fa-2xl" style="color: #fff;"></i>
+    </a>
+  </div>
+
+
+
+  <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fa-solid fa-arrow-up fa-2xl" style="color: #ed3237;"></i></button>
+
+
+
+  <script>
+  // Get the button
+  let mybutton = document.getElementById("myBtn");
+
+  // When the user scrolls down 20px from the top of the document, show the button
+  window.onscroll = function() {scrollFunction()};
+
+  function scrollFunction() {
+    if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+      mybutton.style.display = "block";
+    } else {
+      mybutton.style.display = "none";
+    }
+  }
+
+  // When the user clicks on the button, scroll to the top of the document
+  function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+  }
+  </script>
     <section class="all-hero">
         <h1> Textile Products</h1>
         <img src="img/clipimg2.svg" alt="">
