@@ -250,7 +250,7 @@
 
             <img src="img/wp2.svg" alt="" />
             <h2>Exportation Globally</h2>
-            <p>Global exports are transactions in which goods and services are traded.</p>
+            <p>Global exports are transactions in which goods and...</p>
           </div>
           <div class="wp-box">
             <hr id="r2" />
@@ -258,14 +258,14 @@
 
             <img src="img/wp3.svg" alt="" />
             <h2>Digital Shop Available</h2>
-            <p>It manages company possessions and online transactions.</p>
+            <p>It manages company possessions and online transactions</p>
           </div>
           <div class="wp-box">
             <hr id="l3" />
 
             <img src="img/wp4.svg" alt="" />
             <h2>Great Client Support</h2>
-            <p>Customer service can help in making cost-effective actions.</p>
+            <p>Customer service can help in making cost-effective</p>
           </div>
         </div>
       </section>
