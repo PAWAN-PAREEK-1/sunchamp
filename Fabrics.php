@@ -75,10 +75,11 @@
             <div class="mission mis">
 
 
-                <p>Fabrics are made from yarns, which in turn are made from fibres. Fibres are either natural or synthetic. Cotton, wool, silk and jute are some natural fibres, while nylon and polyester are some examples of synthetic fibres. cotton and jute are obtained from plants.</p>
-                <p>The smallest component of a fabric is fiber; fibers are typically spun into yarn, and yarns are used to make fabrics. Fibers are very thin and hair-like structures. The sources of fibers may be natural, synthetic, or both
-                </p>
-                <p>Fabrics are both Knitted and Woven. Knitted fabrics are mostly used in apparel, Socks and Woven fabrics are used in weaving upholstery, denim, and garments.</p>
+                <p>Fabrics are created using yarn, which is created using fibres. Fibres can be synthetic or natural. Natural fibres include things like cotton, wool, silk, and jute, while synthetic fibres like nylon and polyester are examples. Plants provide fibres like jute and cotton.</p>
+                <p>
+ Fibre, the smallest part of a fabric, is usually spun into yarn, which is then used to create fabrics. The very thin, hair-like structures are known as fibres. Fibres can come from natural, synthetic, or a combination of sources.
+</p>
+                <p>There are knit and woven fabrics.  The majority of fabrics used in apparel, socks, and clothing are knit. Upholstery, denim, and clothing are woven from woven materials.</p>
             </div>
         </div>
         <table class="table">
