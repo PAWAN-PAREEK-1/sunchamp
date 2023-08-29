@@ -75,16 +75,15 @@
             <div class="mission mis">
 
 
-                <p>The chemical fibre business, the light industry, the electronics industry, the building industry, and various other areas all employ PTA as a key organic raw material. PET is created using more than 90% of the PTA produced worldwide. </p>
-                <p> About 75% of PTA produced is used to make polyester fibre in the textile industry, 20% to make bottle-grade polyester mainly used in packing & beverages, and 5% To produce film-grade polyester, which is used to make packaging material, films, and magnetic tapes, and 5% to make bottle-grade polyester, which is mostly used in packaging and drinks.</p>
+                <p>The chemical fibre business, the light industry, the electronics industry, the building industry, and various other areas all employ PTA as a key organic raw material. PET is created using more than 90% of the PTA produced worldwide. About 75% of PTA produced is used to make polyester fibre in the textile industry, 20% to make bottle-grade polyester mainly used in packing & beverages, and 5% To produce film-grade polyester, which is used to make packaging material, films, and magnetic tapes, and 5% to make bottle-grade polyester, which is mostly used in packaging and drinks.</p>
             </div>
         </div>
         <h1 class="para3">Applications</h1>
 
 
-        <p class="para2" id="para2">Polyester fibres based on PTA provide easy fabric care, both alone and in blends with natural and other synthetic fibres. Polyester films are used widely in audio video recording tapes, data storage tapes, photographic films, labels, and other sheet materials requiring both dimensional stability and toughness.</p>
-                <p class="para2">PTA derivatives, polyethylene terephthalate (PET) has become the primary container resin for applications such as carbonated beverage bottles, while other poly terephthalates provide dimensional stability, good heat resistance, and durability for engineering applications.</p>
-                <p class="para2">For powder and water-soluble coatings, PTA is a crucial essential ingredient for low molecular weight saturated polyesters.</p>
+        <p class="para2" id="para2">Polyester fibres based on PTA provide easy fabric care, both alone and in blends with natural and other synthetic fibres. Among PTA derivatives, polyethylene terephthalate (PET) has emerged as the predominant material for containers like carbonated beverage bottles.
+ </p>
+                <p class="para2">For powder and water-soluble coatings, PTA is a crucial essential ingredient for low molecular weight saturated polyesters..</p>
     </section>
 
 
@@ -130,7 +129,8 @@
             <div class="mission mis">
 
 
-                <p>High-Density Polyethylene is a petroleum-based polyethylene thermoplastic. HDPE is frequently recycled and transformed into plastic or composite timber. The Type 2 plastic HDPE is frequently used to create packages for detergents, bleaches, shampoos, conditioners, milk, motor oil, and soap.</p>
+                <p>High-Density Polyethylene is a petroleum-based polyethylene thermoplastic. HDPE is frequently recycled and transformed into plastic or composite timber. Type 2 plastic HDPE is frequently used to create packages for detergents, bleaches, shampoos, conditioners, milk, motor oil, and soap.
+</p>
             </div>
         </div>
 
@@ -154,7 +154,7 @@
 
 
                 <p>Polyvinyl chloride (PVC) is a synthetic thermoplastic material produced by polymerizing vinyl chloride. The qualities are determined by the plasticizer used. Hosepipes, insulation, shoes, and clothing are all examples of flexible shapes. For moulded items, rigid PVC is employed.
-Polyvinyl chloride (PVC) is among the most frequently used polymers in the world. Due to its adaptability, PVC is widely utilised in a variety of industrial, technical, and daily applications, including as the construction, transportation, packaging, electrical/electronic, and healthcare industries.
+Polyvinyl chloride (PVC) is among the most frequently used polymers in the world. PVC finds extensive use in a range of industrial, technical, and everyday applications due to its versatility. This includes sectors such as construction, transportation, packaging, electronics, and healthcare.
 </p>
             </div>
         </div>
