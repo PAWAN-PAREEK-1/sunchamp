@@ -135,10 +135,10 @@
             <img src="img/icon2.svg" alt="" />India has a long-standing tradition of textile manufacturing and is known for its beautiful fabrics.
           </h4>
           <h4>
-            <img src="img/icon2.svg" alt="" />From traditional materials like silk, cotton, and wool to more modern options like polyester and nylon, Indian manufacturers offer a diverse range of choices.
+            <img src="img/icon2.svg" alt="" />From traditional materials like silk, cotton, and wool to more modern options like polyester and nylon, Indian traders  offer a diverse range of choices.
           </h4>
           <h4>
-            <img src="img/icon2.svg" alt="" />Skilled artisans and manufacturers in India take great pride in creating fabrics that are both stunning and of high quality.
+            <img src="img/icon2.svg" alt="" />Skilled artisans and traders  in India take great pride in creating fabrics that are both stunning and of high quality.
           </h4>
         </div>
       </section>

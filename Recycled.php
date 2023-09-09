@@ -74,7 +74,7 @@
             </div>
             <div class="mission mis">
 
-                    <!-- <h1>About Our <span>Recycled Textile </span>  Products</h1> -->
+                    <!-- <h1>Sunchamp Global Traders, the  No.1 <span>Recycled textile products </span> trader in Gujarat.</h1> -->
                 <p>The process of recovering PET plastic products for reuse or recovering its raw materials for production results in the creation of yarn.</p>
                 <p>Although it uses fewer resources to produce, recycled polyester is just as good as virgin polyester. In terms of quality, recycled polyester is almost on par with virgin polyester, but it uses 59 percent less energy to produce it. Recycled plastic bottles are used to create recycled polyester, also known as rPet. It is a fantastic way to keep plastic out of the landfill. Recycled polyester is manufactured using substantially fewer resources and generating lower CO2 emissions compared to newly produced polyester.</p>
 

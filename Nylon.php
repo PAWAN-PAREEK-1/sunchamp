@@ -74,7 +74,7 @@
             </div>
             <div class="mission mis">
 
-                <h1>The <span>No.1 Nylon chips</span>  manufacturer in India</h1>
+                <h1>The <span>Best Nylon chips</span>  traders  in India</h1>
                 <p>Nylon Chips and fibers are the main raw material for making fiber nylon chips and engineering plastic-grade nylon chips. Nylon chips, such as fiber-grade and engineering plastic-grade nylon chips, are downstream products of CPL. Vertical integration allows CPDC to produce nylon chips from CPL. </p>
                 <p>Nylon filament yarn and engineering plastics are both made using Nylon6 and Nylon66 chips. Nylon6 Chips are widely used in the compounding sector. It can combine with numerous other polymers, even fibres.</p>
             </div>

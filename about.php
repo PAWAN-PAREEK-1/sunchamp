@@ -74,16 +74,16 @@
             </p>
           </div>
           <p>
-            Sun Champ Global Traders, The best Polyester manufacturer in India, We are a leading exporter of Textile and chemical Products from Surat, India. We have established a wide range of contacts and reputations in India, China, Bangladesh, Egypt, Thailand, Indonesia, Vietnam, Europe, and North America's international market.
+            Sun Champ Global Traders, The best Polyester Trader in India, We are a leading exporter of Textile and chemical Products from Surat, India. We have established a wide range of contacts and reputations in India, China, Bangladesh, Egypt, Thailand, Indonesia, Vietnam, Europe, and North America's international market.
           </p>
           <h4>
             <img src="img/icon2.svg" alt="" />India has a long-standing tradition of textile manufacturing and is known for its beautiful fabrics.
           </h4>
           <h4>
-            <img src="img/icon2.svg" alt="" />From traditional materials like silk, cotton, and wool to more modern options like polyester and nylon, Indian manufacturers offer a diverse range of choices.
+            <img src="img/icon2.svg" alt="" />From traditional materials like silk, cotton, and wool to more modern options like polyester and nylon, Indian Merchants  offer a diverse range of choices.
           </h4>
           <h4>
-            <img src="img/icon2.svg" alt="" />Skilled artisans and manufacturers in India take great pride in creating fabrics that are both stunning and of high quality.
+            <img src="img/icon2.svg" alt="" />Skilled artisans and Traders  in India take great pride in creating fabrics that are both stunning and of high quality.
           </h4>
         </div>
       </section>
@@ -92,7 +92,7 @@
         <div class="our-mission">
           <div class="mission">
             <h3>Our Mission</h3>
-            <h1>No.1 Polyester <span>yarn manufacturer</span> in India</h1>
+            <h1>No.1 Polyester <span>yarn trader  </span> in India</h1>
             <p>
               Our goal at Sun Champ Global Trades is to promote economic growth
               by improving market competitiveness, enabling trade and
@@ -136,7 +136,7 @@
                 We've focused on <span>improving </span> our office infrastructure.
             </h1>
             <p>
-              We aim to be The best Nylon chips manufacturer in India providing services for sustainable textile products and practices.
+              We aim to be The best Nylon chips trader  in India providing services for sustainable textile products and practices.
             </p>
             <p>
               We have offices and a qualified workforce in all trading nations to guarantee first-rate service quality.

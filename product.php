@@ -281,8 +281,8 @@
 
                 <h1>Service..... <span>that builds Trust</span> </h1>
                 <p>The cotton yarns we provide are made using the most up-to-date spinning equipment to satisfy your particular needs for quality. One of the most famous and frequently used types of yarn internationally is Indian cotton yarn. </p>
-                <p>As The Best Blended Yarn manufacturers in Surat. We prioritize the careful selection of yarn to perfectly match its desired purpose, Ensuring your best value when you buy from us.</p>
-                <p>Sun champ global traders, is a 100% Pure Cotton Yarn manufacturer in India. Our yarns can be used to make a variety of products, including knitted fabric, woven fabric, towels, denim, carpet, socks, and twine.</p>
+                <p>As The Best Blended Yarn traders  in Surat. We prioritize the careful selection of yarn to perfectly match its desired purpose, Ensuring your best value when you buy from us.</p>
+                <p>Sun champ global traders, is a 100% Pure Cotton Yarn traders  in India. Our yarns can be used to make a variety of products, including knitted fabric, woven fabric, towels, denim, carpet, socks, and twine.</p>
             </div>
         </div>
 
