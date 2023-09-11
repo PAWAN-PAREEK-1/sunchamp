@@ -77,7 +77,7 @@
               </div>
               <p>
                 We, Sun Champ Global Traders The Top recycled polyester fiber
-                manufacturer in India...
+                Trader in India...
               </p>
               <a href="product.php#p2"> <h4>READ MORE &nbsp;&nbsp;+</h4></a>
               <img src="img/icon3.svg" alt="" id="our-ser-img" />
@@ -202,7 +202,7 @@
             <div class="mission mis">
 
                 <h1>Service..... <span>that builds Trust</span> </h1>
-                <p>We, Sun Champ Global Traders The Top recycled polyester fiber manufacturer in India, always focus on creating high-quality textile goods from The best Recycled Polyester Fiber and exporting them. </p>
+                <p>We, Sun Champ Global Traders The Top recycled polyester fiber Trader in India, always focus on creating high-quality textile goods from The best Recycled Polyester Fiber and exporting them. </p>
                 <p>We like making environmentally friendly products that help create a better future.
                     Our recycled polyester chips are in great demand from customers in several countries because of their long life, flexibility, and positive environmental impacts.
                     </p>
@@ -330,7 +330,7 @@
 
         <div class="points">
             <div class="point1">
-               <a href="./Fabrics.php#p1"><h4><img src="img/icon2.svg" alt="">Leading Knitted and Woven Fabric manufacturer in India</h4></a>
+               <a href="./Fabrics.php#p1"><h4><img src="img/icon2.svg" alt="">Leading Knitted and Woven Fabric Trader in India</h4></a>
              </div>
 
 

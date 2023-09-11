@@ -129,7 +129,7 @@
             </p>
           </div>
           <p>
-            Sun Champ Global Traders, The best Polyester manufacturer in India, We are a leading exporter of Textile and chemical Products from Surat, India. We have established a wide range of contacts and reputations in India, China, Bangladesh, Egypt, Thailand, Indonesia, Vietnam, Europe, and North America's international market.
+            Sun Champ Global Traders, The best Polyester Trader in India, We are a leading exporter of Textile and chemical Products from Surat, India. We have established a wide range of contacts and reputations in India, China, Bangladesh, Egypt, Thailand, Indonesia, Vietnam, Europe, and North America's international market.
           </p>
           <h4>
             <img src="img/icon2.svg" alt="" />India has a long-standing tradition of textile manufacturing and is known for its beautiful fabrics.
@@ -167,7 +167,7 @@
               </div>
               <p>
                 We, Sun Champ Global Traders The Top recycled polyester fiber
-                manufacturer in India...
+                Trader in India...
               </p>
               <a href="product.php#p2"> <h4>READ MORE &nbsp;&nbsp;+</h4></a>
               <img src="img/icon3.svg" alt="" id="our-ser-img" />

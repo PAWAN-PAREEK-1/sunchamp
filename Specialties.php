@@ -242,7 +242,7 @@
           </div>
         </div>
         <div class="mission mis">
-          <p>The No. Line Manufacturer In India</p>
+          <p>The No. Line Trader In India</p>
           <p>
             Linen takes the lead over cotton due to its heightened durability, absorbent properties, and accelerated drying rate. Its proclivity to wrinkle is another distinguishing feature.
           </p>
