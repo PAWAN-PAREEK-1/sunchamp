@@ -437,8 +437,9 @@ input:focus {
 
 .footer2 {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     padding: 20px;
+    padding-inline: 120px;
 }
 
 .footerlinks a {
@@ -691,7 +692,7 @@ input:focus {
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    padding: 150px 120px;
+    padding: 150px 100px;
 }
 
 .main-container h3 {
@@ -1431,6 +1432,11 @@ form button {
     gap: 17rem;
 }
 
+.aboutus02{
+padding-bottom:0 ;
+background: none;
+}
+
 
 /*
 =====================================================about page end here */
@@ -1484,7 +1490,8 @@ form button {
 
 .pro-dec {
     display: flex;
-    justify-content: space-evenly;
+    /* justify-content: space-evenly; */
+    gap: 2.5rem;
 }
 
 .points {

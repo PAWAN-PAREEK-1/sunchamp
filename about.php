@@ -54,7 +54,7 @@
         <img src="img/clipimg2.svg" alt="" />
       </section>
 
-      <section class="aboutus">
+      <section class="aboutus aboutus02">
         <div class="aboutus01">
           <img src="img/aboutusimg.svg" alt="" />
           <div class="aboutus0101">
