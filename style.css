@@ -1423,7 +1423,7 @@ form button {
     font-weight: 400;
     line-height: normal;
     letter-spacing: 0.036px;
-    text-transform: uppercase;
+    text-transform: capitalize;
     padding-bottom: 1.2rem;
 }
 

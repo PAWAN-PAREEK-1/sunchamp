@@ -44,7 +44,7 @@
                         <img src="img/ratinh.svg" alt="">
                     </div>
                 </div>
-                <p>Upon placing my order, I realized I had purchased more than required. Upon reaching out via email, I received a swift response. They efficiently corrected my order, processed a refund, and expedited the product shipment. Their prompt and responsive service truly stands out</p>
+                <p>Upon placing my order, I realized I had purchased more than required. Upon reaching out via email, I received a swift response. They efficiently corrected my order, processed a refund, and expedited the product shipment. Their prompt and responsive service truly stands out    </p>
                 <div class="circles">
                     <div class="circle"></div>
                     <div class="circle"></div>
