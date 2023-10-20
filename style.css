@@ -842,7 +842,7 @@ input:focus {
     /* padding-top: 2.6rem; */
 }
 
-.aboutus02 p {
+.aboutus02 p,.about-con p {
     color: #707070;
     font-family: Poppins;
     font-size: 18px;
@@ -920,6 +920,11 @@ input:focus {
     /* 162.5% */
     text-transform: capitalize;
     padding-bottom: .8rem;
+}
+
+.about-con{
+    padding-inline:  7.5rem;
+    margin-top: 2rem;
 }
 
 
@@ -1876,11 +1881,18 @@ gap: 131px;
 .aboutus0201 #aboutP {
 	font-size: 0.875rem;
 }
-.aboutus02 p ,.aboutus02 h4, .points h4{
+.aboutus02 p ,.aboutus02 h4, .points h4, .about-con p{
 	font-size: 0.81rem;
 	line-height: normal;
 
 
+}
+.about-sec{
+    margin-top: 25px;
+}
+.about-con{
+    padding-inline:0.94rem ;
+    margin-top: 0rem;
 }
 .aboutus02 {
 	padding-block: 0rem;
@@ -1987,6 +1999,7 @@ height: 7.5rem;
 .testicontact {
 	padding-inline: 0.94rem;
     gap: 1.425rem;
+    margin-top: 3rem;
 
 }
 .testicontact h3{
@@ -2409,7 +2422,7 @@ line-height: normal;
     margin-bottom: 0.2rem !important;
 }
 .para span{
-    font-size: 25px ;
+    font-size: 18px ;
     font-weight: 800 ;
 }
 .para2 {
@@ -2475,4 +2488,9 @@ line-height: normal;
   .whatsapp-icon img {
     width: 100%;
     height: auto;
+  }
+
+  .para21{
+    padding-inline: 0;
+    padding-bottom: 0 !important;
   }

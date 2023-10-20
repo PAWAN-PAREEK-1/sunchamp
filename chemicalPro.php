@@ -24,37 +24,39 @@
 
     <div class="whatsapp-button">
         <a class="whatsapp-icon" href="https://api.whatsapp.com/send?phone=1234567890" target="_blank" rel="noopener noreferrer">
-          <i class="fa-brands fa-whatsapp fa-2xl" style="color: #fff;"></i>
+            <i class="fa-brands fa-whatsapp fa-2xl" style="color: #fff;"></i>
         </a>
-      </div>
+    </div>
 
 
 
-      <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fa-solid fa-arrow-up fa-2xl" style="color: #ed3237;"></i></button>
+    <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fa-solid fa-arrow-up fa-2xl" style="color: #ed3237;"></i></button>
 
 
 
-      <script>
-      // Get the button
-      let mybutton = document.getElementById("myBtn");
+    <script>
+        // Get the button
+        let mybutton = document.getElementById("myBtn");
 
-      // When the user scrolls down 20px from the top of the document, show the button
-      window.onscroll = function() {scrollFunction()};
+        // When the user scrolls down 20px from the top of the document, show the button
+        window.onscroll = function() {
+            scrollFunction()
+        };
 
-      function scrollFunction() {
-        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-          mybutton.style.display = "block";
-        } else {
-          mybutton.style.display = "none";
+        function scrollFunction() {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                mybutton.style.display = "block";
+            } else {
+                mybutton.style.display = "none";
+            }
         }
-      }
 
-      // When the user clicks on the button, scroll to the top of the document
-      function topFunction() {
-        document.body.scrollTop = 0;
-        document.documentElement.scrollTop = 0;
-      }
-      </script>
+        // When the user clicks on the button, scroll to the top of the document
+        function topFunction() {
+            document.body.scrollTop = 0;
+            document.documentElement.scrollTop = 0;
+        }
+    </script>
 
 
 
@@ -75,15 +77,24 @@
             <div class="mission mis">
 
 
-                <p>The chemical fibre business, the light industry, the electronics industry, the building industry, and various other areas all employ PTA as a key organic raw material. PET is created using more than 90% of the PTA produced worldwide. About 75% of PTA produced is used to make polyester fibre in the textile industry, 20% to make bottle-grade polyester mainly used in packing & beverages, and 5% To produce film-grade polyester, which is used to make packaging material, films, and magnetic tapes, and 5% to make bottle-grade polyester, which is mostly used in packaging and drinks.</p>
+                <p>PTA is a significant organic raw material that is used globally in the chemical fibre industry, the
+                    light industry, the electronics industry, the construction industry, and other fields. PET
+                    production is the primary use of over 90 percent of the world's PTA. About 75% of PTA
+                    produced is used to make polyester fibre in the textile industry, 20% to make bottle-grade
+                    polyester predominantly used in packing and beverages, and 5% to make film-grade polyester,
+                    with the associated products used as packaging material, films and magnetic tapes.</p>
             </div>
         </div>
         <h1 class="para3">Applications</h1>
 
 
-        <p class="para2" id="para2">Polyester fibres based on PTA provide easy fabric care, both alone and in blends with natural and other synthetic fibres. Among PTA derivatives, polyethylene terephthalate (PET) has emerged as the predominant material for containers like carbonated beverage bottles.
- </p>
-                <p class="para2">For powder and water-soluble coatings, PTA is a crucial essential ingredient for low molecular weight saturated polyesters..</p>
+        <p class="para2 " id="para2"><i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i> PTA-based polyester fibres make it easy to care for fabric, both alone and in
+            blends with natural and other synthetic fibers. Among PTA derivatives,
+            polyethylene terephthalate (PET) has emerged as the predominant material
+            for containers like carbonated beverage bottles.
+        </p>
+        <p class="para2 "><i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i> PTA is an essential ingredient for low molecular weight saturated polyesters usedin
+            powder and water-soluble coatings</p>
     </section>
 
 
@@ -105,8 +116,12 @@
             <div class="mission mis">
 
 
-                <p>Polypropylene or polypropylene (PP Chips) is a thermoplastic polymer that is used for a wide variety of applications which includes the manufacturing of plastic parts, different kinds of reusable containers, thermal pants and shirts made for Military, Laboratory Equipment, Loudspeakers, Automotive components and polymer Banknotes.</p>
-                <p>Sun Champ Global Traders, We provide one of the best PP Chips in India. Which are generally available as Homopolymer, Impact Co-polymer and Random Co-polymer.</p>
+                <p>Polypropylene, also known as PP or PP Chips, stands as a thermoplastic polymer with a
+                    diverse range of applications that incorporate the manufacturing of plastic parts, different
+                    kinds of reusable containers, thermal pants and shirts made for the Military, Laboratory
+                    Equipment, Loudspeakers, Automotive components and polymer Banknotes.</p>
+                <p>The Sun Champ Global Trades offers one of the top PP chips in the world, which are
+                    usually available in Homopolymer, Impact Co-polymer, and Random Co-polymer.</p>
             </div>
         </div>
 
@@ -129,8 +144,12 @@
             <div class="mission mis">
 
 
-                <p>High-Density Polyethylene is a petroleum-based polyethylene thermoplastic. HDPE is frequently recycled and transformed into plastic or composite timber. Type 2 plastic HDPE is frequently used to create packages for detergents, bleaches, shampoos, conditioners, milk, motor oil, and soap.
-</p>
+                <p>High-density Polyethylene is a thermoplastic polyethylene that is derived from
+                    petroleum. HDPE is a common material that is recycled and transformed into plastic or
+                    composite timber.
+                </p>
+                <p>Creating packages for detergents, bleaches, shampoos, conditioners, milk, motor oil, and
+                    soap is frequently done with Type 2 plastic HDPE.</p>
             </div>
         </div>
 
@@ -153,9 +172,14 @@
             <div class="mission mis">
 
 
-                <p>Polyvinyl chloride (PVC) is a synthetic thermoplastic material produced by polymerizing vinyl chloride. The qualities are determined by the plasticizer used. Hosepipes, insulation, shoes, and clothing are all examples of flexible shapes. For moulded items, rigid PVC is employed.
-Polyvinyl chloride (PVC) is among the most frequently used polymers in the world. PVC finds extensive use in a range of industrial, technical, and everyday applications due to its versatility. This includes sectors such as construction, transportation, packaging, electronics, and healthcare.
-</p>
+                <p>Polyvinyl chloride (PVC) is a thermoplastic material made by polymerizing vinyl chloride. The
+                    quality is determined by the plasticizer used. Hosepipes, insulation, shoes, and clothing are
+                    all flexible shapes. For items that are molded, rigid PVC is used.
+                </p>
+                <p>Polyvinyl chloride (PVC) is a polymer that is widely used around the world. Due to its
+                    versatility is used extensively in a wide range of industrial, technical, and everyday
+                    applications. Construction, transportation, packaging, electronics, and healthcare are
+                    among the sectors that fall under this category.</p>
             </div>
         </div>
 

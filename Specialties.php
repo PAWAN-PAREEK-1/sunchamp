@@ -28,28 +28,35 @@
       <img src="img/clipimg2.svg" alt="" />
     </section>
 
-
     <div class="whatsapp-button">
-        <a class="whatsapp-icon" href="https://api.whatsapp.com/send?phone=1234567890" target="_blank" rel="noopener noreferrer">
-          <i class="fa-brands fa-whatsapp fa-2xl" style="color: #fff;"></i>
-        </a>
-      </div>
+      <a
+        class="whatsapp-icon"
+        href="https://api.whatsapp.com/send?phone=1234567890"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <i class="fa-brands fa-whatsapp fa-2xl" style="color: #fff"></i>
+      </a>
+    </div>
 
+    <button onclick="topFunction()" id="myBtn" title="Go to top">
+      <i class="fa-solid fa-arrow-up fa-2xl" style="color: #ed3237"></i>
+    </button>
 
-
-      <button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fa-solid fa-arrow-up fa-2xl" style="color: #ed3237;"></i></button>
-
-
-
-      <script>
+    <script>
       // Get the button
       let mybutton = document.getElementById("myBtn");
 
       // When the user scrolls down 20px from the top of the document, show the button
-      window.onscroll = function() {scrollFunction()};
+      window.onscroll = function () {
+        scrollFunction();
+      };
 
       function scrollFunction() {
-        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        if (
+          document.body.scrollTop > 20 ||
+          document.documentElement.scrollTop > 20
+        ) {
           mybutton.style.display = "block";
         } else {
           mybutton.style.display = "none";
@@ -61,7 +68,7 @@
         document.body.scrollTop = 0;
         document.documentElement.scrollTop = 0;
       }
-      </script>
+    </script>
     <section class="products" id="p1">
       <div class="pro-dec">
         <div class="pro-img">
@@ -74,18 +81,29 @@
         </div>
         <div class="mission mis">
           <p>
-            A synthetic fibre called spandex, lycra, or elastane is renowned for its exceptional elasticity. Joseph Shivers, a chemist at DuPont's Benger Laboratory in Waynesboro, Virginia, invented the polyether-polyurea copolymer in 1958. The preferred name in North America is "spandex," which is an anagram of the word "expands."
+            A synthetic fibre called spandex, lycra, or elastane is renowned for
+            its exceptional elasticity. Joseph Shivers, a chemist at DuPont's
+            Benger Laboratory in Waynesboro, Virginia, invented the
+            polyether-polyurea copolymer in 1958. The preferred name in North
+            America is "spandex," which is an anagram of the word "expands."
           </p>
 
           <p>
-            The rise in demand for spandex fibres from various industries such as automotive, healthcare, and transportation, as well as the growing use of spandex as an alternative to natural and synthetic rubber in industrial applications, rising healthcare investments in various regions, and an increase in the affluent population, are the primary factors driving the spandex fibres market growth.
+            The rise in demand for spandex fibres from various industries such
+            as automotive, healthcare, and transportation, as well as the
+            growing use of spandex as an alternative to natural and synthetic
+            rubber in industrial applications, rising healthcare investments in
+            various regions, and an increase in the affluent population, are the
+            primary factors driving the spandex fibres market growth.
+          </p>
+          <p>
+            The elastic quality of spandex makes it a popular synthetic fabric.
+            The most important ingredient in the production of apparel,
+            sportswear, and denim is this one.
           </p>
         </div>
       </div>
-      <p class="para2" id="para2">
-        The elastic quality of spandex makes it a popular synthetic fabric. The most important ingredient in the production of apparel, sportswear, and denim is this one.
 
-      </p>
       <table class="table">
         <thead class="gray">
           <tr>
@@ -151,34 +169,43 @@
         </div>
         <div class="mission mis">
           <p>
-            Bamboo fibre is a type of cellulose fibre made entirely of bamboo. Bamboo has the following advantages, Bactericidal properties Biodegradable and green Breathable and refreshing. Bamboo can grow up to 3 feet in a single night. Because it is a rapidly growing renewable resource, it can replace cotton, wood, and other materials.
+            Bamboo fibre is categorized cellulose fiber which is completely made
+            of bamboo.
           </p>
-          <!-- <p class="para">
+          <p class="para">
             <span>1. Naturally anti-bacterial</span>
           </p>
           <p class="para"><span>2. Green & Biodegradable</span></p>
-          <p class="para"><span>3. Breathable and Cool</span></p> -->
+          <p class="para"><span>3. Breathable and Cool</span></p>
 
-          <p>
-            Bamboo fibre is a biodegradable textile fibre. It can be completely biodegraded in soil by microorganisms and sunlight. The decomposition process is eco-friendly and does not harm the environment.
+          <p style="margin-top: 15px">
+            Bamboo quite fast and sometimes as fast as grow 3 feet in a one
+            night. Therefore due to characteristic rapidly growing Bamboo can
+            substitute cotton, wood, and other materials, partially or fully.
+          </p>
+          <p class="para2 para21">
+            <i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237"></i>
+            Bamboo fibre is a biodegradable. Microorganisms and sunbeams can
+            biodegrade it completely in oil. Therefore, Considered as Green Yarn
+            though few contest on slightly higher water intake.
           </p>
         </div>
       </div>
       <p class="para2" id="para2">
-        The bamboo fibre has much better moisture absorption and ventilation because the cross-section is filled with various micro-gaps and micro-holes.
+        <i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237"></i>
+        Bamboo yarn is better in moisture absorption and better wicking property
+        gives it a edge as summer fabric and Towel applications. Wicking
+        property can lead to 1-2 degrees more cooler than even cotton.
       </p>
+
       <p class="para2">
-        Bamboo fibre apparel, thanks to its unrivaled microstructure, can absorb and evaporate human sweat in a fraction of a second. According to authoritative testing results, bamboo fibre clothing is 1-2 degrees cooler than regular clothing in hot summer.
+        <i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237"></i>The
+        unique gene "Bamboo Ǫuinone" in bamboo cellulose makes it’s natural
+        sterilized, Bacteriostatic, anti-mite, and anti-odor functions. Lyocell
+        Bamboo was sent to the most reputable fiber testing organization in the
+        world, and it has passed the anti- bacterial test
       </p>
-      <p class="para2">
-        Lyocell bamboo fibre is a Solvent Humidity Modulus bamboo fibre that has no chemical reaction, wastewater and gas, or harmful chemical residues, making it a true environmentally friendly green fibre.
-      </p>
-      <p class="para2">
-        IT IS THE BEST SOLUTION FOR THE FTC CLAIM FROM THE USA, because lyocell bamboo fibre is not viscose at all and is the true GREEN fibre when compared to regular bamboo fibre.
-      </p>
-      <p class="para2">
-        The unique gene "Bamboo Quinone" in bamboo cellulose has natural sterilization, bacteriostatic, anti-mite, and anti-odor functions. Lyocell Bamboo was sent to the world's most reputable fibre testing organization, and it has now passed the anti-bacterial test.
-      </p>
+
       <table class="table">
         <thead class="gray">
           <tr>
@@ -242,14 +269,20 @@
           </div>
         </div>
         <div class="mission mis">
-          <p>The No. Line Trader In India</p>
           <p>
-            Linen takes the lead over cotton due to its heightened durability, absorbent properties, and accelerated drying rate. Its proclivity to wrinkle is another distinguishing feature.
+            Linen is superior to cotton in terms of its increased durability,
+            absorbent properties, and accelerated drying rate. Another
+            characteristic that distinguishes it is its tendency to wrinkle.
           </p>
           <p>
-            Linen fabric is famous for use in clothing and is comfortable to wear in hot weather. Textiles with a linen weave texture are called "linen" even if they are made of cotton, hemp, or other non-flax fibres.  </p>
+            Linen is superior to cotton in terms of its increased durability,
+            absorbent properties, and accelerated drying rate. Another
+            characteristic that distinguishes it is its tendency to wrinkle.
+          </p>
           <p>
-            Linen garments are preferred in hot and humid climates. Unlike cotton, which retains moisture for an extended period of time, linen dries quickly, which helps reduce heat retention in excessively hot conditions.
+            In hot and humid climates, linen garments are preferred. While
+            cotton retains moisture for a long time, linen dries quickly, which
+            helps to reduce heat retention in extremely hot conditions.
           </p>
         </div>
       </div>

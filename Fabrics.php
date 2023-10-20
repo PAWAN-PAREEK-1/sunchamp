@@ -81,7 +81,9 @@
                 <p>
                     Fibre, the smallest part of a fabric, is usually spun into yarn, which is then used to create fabrics. The very thin, hair-like structures are known as fibres. Fibres can come from natural, synthetic, or a combination of sources.
                 </p>
-                <p>There are knit and woven fabrics. The majority of fabrics used in apparel, socks, and clothing are knit. Upholstery, denim, and clothing are woven from woven materials.</p>
+                <p>Knitting and woven fabrics are both available. Knitting is the predominant fabric used in
+                    apparel, socks, and clothing. Upholstery, denim, and clothing are woven from woven
+                    materials.</p>
             </div>
         </div>
         <table class="table">

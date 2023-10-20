@@ -75,9 +75,13 @@
             <div class="mission mis">
 
                 <h1>Service..... <span>that builds Trust</span> </h1>
-                <p>At Sun Champ Global Traders, We offer a wide range of the best chemical products, including PET, and PPT Chips, which are examples of multiple petrochemicals and We are exporting  the best quality chemical products in India.</p>
-                <p>Our firm actively works in the quick supply and trade of chemical products, and preserving strong connections with our clients and suppliers continues to be the top priority for us.</p>
-                <p>Today's world's contribution to boosting productivity, building sustainability, and raising our quality of life is one of the initial pillars of the advances that we observe.</p>
+                <p>We at Sun Champ Global Traders, We offer a wide range of the best chemical products,
+                    including PET, and PPT Chips, which are examples of multiple petrochemicals, We are
+                    exporting the best quality chemical products all over the world.</p>
+                <p>Our firm is active in supplying and trading chemical products quickly, and we prioritize
+                    preserving strong connections with our clients and suppliers.</p>
+                <p>Today's world's contribution to boosting productivity, building sustainability, and
+                    improving our quality of life is a key pillar of the progress we observe.</p>
             </div>
         </div>
 

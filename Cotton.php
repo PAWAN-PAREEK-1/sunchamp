@@ -94,16 +94,17 @@
             which must be thoroughly removed.
           </p>
           <p>
-            A lot of people don't know that cotton fibre has a natural wax
-            coating on it to keep it dry in the rain, which makes it hydrophobic
-            (a fancy word for water repellent).
+            Many people don't know that cotton fibre has a natural wax coating
+            on it to keep it dry in the rain, which makesit hydrophobic (a fancy
+            word for waterrepellent).
           </p>
         </div>
       </div>
       <p class="para2" id="para2">
-        <i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237"></i>This
-        means that raw cotton cannot be used in many consumer products that call
-        for absorption.
+        <i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237"></i>
+        Therefore, raw cotton cannot be used in a wide range of consumer
+        products with absorption characteristics which are essential for many
+        textile applications.
       </p>
       <table class="table">
         <thead class="gray">
@@ -165,16 +166,17 @@
             combed, straightened, and slivered into a rope-like structure.
           </p>
           <p>
-            Through the use of machines, the cotton fibre sliver is spun into
-            yarn. A lightweight, breathable garment made of cotton yarn wicks
-            heat away from your skin. In hot weather wear like T-shirts, light
-            shawls, and hats.
+            The silver of the cotton fibres is transformed to yarn through
+            spinning using machines. This is a soft breathable textile that
+            blocks your skin's heat. They're perfect for garments like Tshirts,
+            soft shawls and caps that can be worn in hot weather
           </p>
           <p>
-            Mercerized cotton yarn can be used to create shiny clothing, whereas
-            conventional cotton yarn gives fabrics a neutral appearance. Both
-            Open End and Ring Spun cotton yarns are available.
+            In order to create shiny clothing, it is possible to use mercerized
+            cotton fibres, whereas conventional cotton fibres give fabrics a
+            neutral appearance.
           </p>
+          <p>Both Open End and Ring Spun cotton yarns are obtainable</p>
         </div>
       </div>
       <table class="table">
@@ -241,36 +243,41 @@
           </div>
         </div>
         <div class="mission mis">
-          <p>
-            The base material for Core Spun Yarns is bare spandex, which is then
-            covered with a variety of yarns like Cotton, Polyester Spun, Nylon,
-            and other Blend Yarns.
+          <p style="font-weight: bold">
+            The Core Spun Yarns, with different types of yarns including Cotton,
+            Polyester, Nylon and others blends, are made from pure spandex
           </p>
-          <p>
-            Knitting machines, woven fabrics, Denim, seamless undergarments,
+          <p class="para2 para21">
+            <i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237"></i
+            >The recovery of PET plastic products for reuse or recovery of their
+            raw materials for production results in the production of fibres.
+          </p>
+          <p class="para2 para21">
+            <i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237"></i>
+            The two most common single-covering modes are nylon-covered yarn and
+            polyester-covered yarn.
+          </p>
+          <p class="para2 para21">
+            <i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237"></i
+            >Knitting machines, woven fabrics, Denim, seamless undergarments,
             leggings, sportswear, pantyhose, protective gear, and knitted
-            sweaters are just a few of the products that use CSY.
+            sweaters etc are predominantly utilize in CSY
           </p>
-          <p>
-            CSY Drafting the spandex yarn and outer covering fibre through a
+          <p class="para2 para21">
+            <i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237"></i
+            >CSY Drafting the spandex yarn and outer covering fibre through a
             specific type of nozzle simultaneously, applying regular pressure
             with highly compressed air afterward, and forming the yarn with
-            regular intersection points.
+            regularintersection points.
+          </p>
+          <p class="para2 para21">
+            <i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237"></i
+            >The fabric knitted with air covered yarn will have a soft and
+            smooth hand feels.
           </p>
         </div>
       </div>
 
-      <p class="para2" id="para2">
-        Single or double covering modes are typically available.
-      </p>
-      <p class="para2">
-        The two most common single-covering modes are nylon-covered yarn and
-        polyester-covered yarn.
-      </p>
-      <p class="para2">
-        The fabric created by air-covered yarn will feel smooth and soft to the
-        touch.
-      </p>
       <table class="table">
         <thead class="gray">
           <tr>
@@ -335,33 +342,43 @@
           </div>
         </div>
         <div class="mission mis">
-          <p>
+          <p class="para2 para21">
+            <i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237"></i>
             Viscose Staple Fibre (VSF), a natural, biodegradable fibre with
             qualities somewhat resembling cotton, is produced from wood pulp or
-            cotton pulp.
+            cotton pulp
           </p>
-          <p>
+          <p class="para2 para21">
+            <i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237"></i>
             VSF is used extensively in apparel, home textiles, dress material,
-            knitted wear, and non-woven applications because it is a very
-            adaptable and simple to blend fibre.
+            knitted wear, and nonwoven applications because itis very adaptable
+            and simple to blend fibre
           </p>
-          <p>
-            Viscose fibres can be converted into staple fibre, textile or cord
+          <p class="para2 para21">
+            <i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237"></i
+            >Viscose fibres can be converted into staple fibre, textile or cord
             threads, or both, depending on the end use.
           </p>
-          <p>
-            Fabrics made of viscose fibres are simple to dye and have excellent
-            hygienic qualities (hygroscopicity), which is crucial in products
-            intended for general use.
+          <p class="para2 para21">
+            <i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237"></i
+            >Viscose fibres can be converted into staple fibre, textile or cord
+            threads, or both, depending on the end use.
+          </p>
+          <p class="para2 para21">
+            <i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237"></i>
+            Viscose Fibres are inexpensive to produce and widely used because of
+            the availability of raw materials, the low cost of chemical
+            reagents, satisfactory textile properties, and a wide range of
+            modification options.
           </p>
         </div>
       </div>
-      <p class="para2" id="para2">
+      <!-- <p class="para2" id="para2">
         Viscose Fibres are inexpensive to produce and widely used because of the
         availability of raw materials, the low cost of chemical reagents,
         satisfactory textile properties, and a wide range of modification
         options.
-      </p>
+      </p> -->
       <table class="table">
         <thead class="gray">
           <tr>
@@ -438,14 +455,14 @@
         <div class="mission mis">
           <p>
             A synthetic fibre of natural origin made from the cellulose in wood
-            pulp is called viscose or rayon. It has a variety of advantages,
-            including being an absorbent substance ideal for breathable, cool
-            fabrics. Enjoy silky-soft, cosy knitwear that feels comfortable to
-            wear.
+            pulp is termed as Viscose or Rayon. This substance offers a range of
+            advantages including being an absorbing material that is ideal for
+            breathable, cold fabrics. Enjoy silky-soft, knitwear that feels
+            comfortable to wear.
           </p>
           <p>
             This "artificial silk" keeps the body dry, inhibiting the growth of
-            bacteria and fungi, and does not retain static electricity.
+            bacteria and fungi, and does not retain static charge.
           </p>
         </div>
       </div>

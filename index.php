@@ -69,7 +69,7 @@
 
       <section class="specelity">
         <div class="spheading">
-          <h1>We Give <span>Top Production </span> From Every Angle</h1>
+          <h1>From <span>every angle</span> , we're giving the best</h1>
         </div>
 
         <div class="specelity-testi">
@@ -80,7 +80,8 @@
             </div>
             <hr />
             <p>
-              To improve your production, choose from our extensive collection of fabrics and textile materials.
+              We Create a world class Supplier and Customer experience. With higher productivity levels, the focus is to achieve high growth consistently
+
             </p>
             <img src="img/spdesign.svg" alt="" id="spdesign" />
           </div>
@@ -91,7 +92,8 @@
             </div>
             <hr />
             <p>
-              Starting with basic threads and venturing into the world of style, our yarns actively shape the future of textiles.
+              We are one of the most admired and trusted for services rendered in bring Supplier and
+              Buyer together
             </p>
             <img src="img/spdesign.svg" alt="" id="spdesign" />
           </div>
@@ -102,7 +104,8 @@
             </div>
             <hr />
             <p>
-              We don't just produce yarn; we create an emotion, culture, and passion in our products
+              Being environmentally consious, we actively push Recycled and Green Yarns, specifically at
+              the high end to allow continuous upgradation and innovation.
             </p>
             <img src="img/spdesign.svg" alt="" id="spdesign" />
           </div>
