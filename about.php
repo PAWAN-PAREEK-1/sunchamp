@@ -64,8 +64,7 @@
         <div class="aboutus02">
           <h3>About Us</h3>
           <h1>
-            Let’s <span>Build Something </span> Build Something Creative
-            together
+          Your Trust, <span>Our Priority</span>  Unwavering Service That Speaks for Itself
           </h1>
           <div class="aboutus0201">
             <img src="img/icon1.svg" alt="" />
@@ -119,7 +118,7 @@
     <section class="mission-vision">
       <div class="our-mission">
         <div class="mission">
-          <h3>Our Mission</h3>
+          <h1>Our Mission</h1>
           <!-- <h1>No.1 Polyester <span>yarn trader </span> in India</h1> -->
           <p>
             The mission of The Sun Champ Global Trades is to create a scenario which is mutually
@@ -160,10 +159,10 @@
           </div>
         </div>
         <div class="mission">
-          <h3>Our Vision</h3>
-          <h1>
+          <h1>Our Vision</h1>
+          <!-- <h1>
             We've focused on <span>improving </span> our office infrastructure.
-          </h1>
+          </h1> -->
           <p>
           To be an industry leader in the provision of services for eco-friendly textilepractices and
 products.

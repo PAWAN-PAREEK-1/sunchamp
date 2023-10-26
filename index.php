@@ -122,8 +122,7 @@
         <div class="aboutus02">
           <h3>About Us</h3>
           <h1>
-            Let’s <span>Build Something </span> Build Something Creative
-            together
+            Your Trust, <span>Our Priority</span> Unwavering Service That Speaks for Itself
           </h1>
           <div class="aboutus0201">
             <img src="img/icon1.svg" alt="" />

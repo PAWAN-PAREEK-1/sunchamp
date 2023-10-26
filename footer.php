@@ -21,6 +21,7 @@
             </div>
         </div>
     </div>
+
     <div class="column quick-links">
         <h3>Quick Links</h3>
         <ul>
@@ -28,11 +29,11 @@
             <li><a href="about.php">About Us</a></li>
             <li><a href="product.php">Textile Products </a></li>
             <li><a href="chemical.php">Chemical Products</a></li>
-            <li><a href="blog.php">News / Blogs</a></li>
             <li><a href="contact.php">Contact Us</a></li>
 
         </ul>
     </div>
+
     <div class="column post">
         <h3>Recent Posts</h3>
         <div class="recent-post">
@@ -52,15 +53,17 @@
         </div>
         <a href=""><h4 style="padding-top:25px;">VIEW ALL RECENT POST</h4></a>
     </div>
+
+
+
     </div>
     <hr >
     <div class="footer2">
 
        <h3> &copy;Copyrights 2023 All Rights Reserved by Sun Champ Global Trades</h3>
             <div class="footerlinks">
-                <a href="#">Terms & Condition</a>
-                <a href="#">Careers</a>
-                <a href="#">Privacy Policy</a>
+                <a href="https://vermilliontech.in/">Developed by VERMILLION TECH</a>
+
             </div>
     </div>
 

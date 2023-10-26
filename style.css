@@ -468,6 +468,11 @@ input:focus {
     text-decoration: none;
 
 }
+.footerlinks a:hover{
+    color: red;
+}
+
+
 
 
 
