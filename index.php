@@ -253,7 +253,8 @@
 
             <img src="img/wp2.svg" alt="" />
             <h2>Exportation Globally</h2>
-            <p>Global exports are transactions in which goods and...</p>
+            <p>
+              Global trade goods and services exchanged worldwide.</p>
           </div>
           <div class="wp-box">
             <hr id="r2" />

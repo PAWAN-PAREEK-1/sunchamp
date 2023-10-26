@@ -1,7 +1,7 @@
 <header>
     <div class="header01">
         <div class="header02">
-            <h3>Welcome to Sun Champ Global Trades !</h3>
+            <h3>Welcome to Sun Champ Global Trades </h3>
         </div>
         <div class="header03">
             <h3 style="padding-top:.19rem ;">Follow Us On:</h3>

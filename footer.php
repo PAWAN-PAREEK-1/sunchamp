@@ -27,7 +27,8 @@
         <ul>
             <li><a href="index.php">Home</a></li>
             <li><a href="about.php">About Us</a></li>
-            <li><a href="product.php">Products</a></li>
+            <li><a href="product.php">Textile Products </a></li>
+            <li><a href="chemical.php">Chemical Products</a></li>
             <li><a href="blog.php">News / Blogs</a></li>
 
         </ul>

@@ -1,4 +1,4 @@
-<section class="testimonial">
+<!-- <section class="testimonial">
     <div class="testi">
         <div class="testi1">
             <div class="testi-1">
@@ -104,4 +104,4 @@
     <div class="img2">
         <img src="img/clip3.svg" alt="">
     </div>
-</section> -->
+</section> --> -->
