@@ -80,7 +80,7 @@
             </div>
             <hr />
             <p>
-              We Create a world class Supplier and Customer experience. With higher productivity levels, the focus is to achieve high growth consistently
+              We Create a world class Supplier and Customer experience. With higher productivity levels, the focus is to achieve high growth consistently.
 
             </p>
             <img src="img/spdesign.svg" alt="" id="spdesign" />
@@ -93,7 +93,7 @@
             <hr />
             <p>
               We are one of the most admired and trusted for services rendered in bring Supplier and
-              Buyer together
+              Buyer together.
             </p>
             <img src="img/spdesign.svg" alt="" id="spdesign" />
           </div>
@@ -274,11 +274,9 @@
         </div>
       </section>
 
-      <?php
-        include "testimonial.php";
-       ?>
+  
 
-      <section class="news-blogs">
+      <!-- <section class="news-blogs">
         <div class="news">
           <div class="newsheading">
             <h4>Latest News & Blog</h4>
@@ -351,7 +349,7 @@
             </div>
           </a>
         </div>
-      </section>
+      </section> -->
 
       <section class="contact-index" id="contactus">
         <div class="box">

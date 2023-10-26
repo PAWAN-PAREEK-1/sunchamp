@@ -12,13 +12,12 @@
         <div class="contact-row">
             <div class="contact-info">
                 <h3><img src="img/call.svg" alt="">CONTACT US</h3>
-                <p>info@example.com</p>
-                <p id="phone"> +1 123-456-7890</p>
+                <p>info@sunchamp.com</p>
+                <p id="phone">(+91) 261 3500914/915</p>
             </div>
             <div class="contact-info contact04">
                 <h3><img src="img/address.svg" alt="">ADDRESS</h3>
-                <p>4789 Melmorn Street,Zakila Ton
-                    Mashintron Town 4789 Melmorn Street,Zakila  </p>
+                <p>B / 511-12, SNS Atria, Besides Happy Excellencia, Vesu, SURAT - 395007, Gujarat, INDIA  </p>
             </div>
         </div>
     </div>
@@ -30,6 +29,7 @@
             <li><a href="product.php">Textile Products </a></li>
             <li><a href="chemical.php">Chemical Products</a></li>
             <li><a href="blog.php">News / Blogs</a></li>
+            <li><a href="contact.php">Contact Us</a></li>
 
         </ul>
     </div>

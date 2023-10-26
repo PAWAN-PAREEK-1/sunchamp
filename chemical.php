@@ -75,7 +75,7 @@
             <div class="mission mis">
 
                 <h1>Service..... <span>that builds Trust</span> </h1>
-                <p>We at Sun Champ Global Traders, We offer a wide range of the best chemical products,
+                <p>We at Sun Champ Global Trades (Sun Champ), We offer a wide range of the best chemical products,
                     including PET, and PPT Chips, which are examples of multiple petrochemicals, We are
                     exporting the best quality chemical products all over the world.</p>
                 <p>Our firm is active in supplying and trading chemical products quickly, and we prioritize

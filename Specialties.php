@@ -81,26 +81,24 @@
         </div>
         <div class="mission mis">
           <p>
-            A synthetic fibre called spandex, lycra, or elastane is renowned for
-            its exceptional elasticity. Joseph Shivers, a chemist at DuPont's
-            Benger Laboratory in Waynesboro, Virginia, invented the
-            polyether-polyurea copolymer in 1958. The preferred name in North
-            America is "spandex," which is an anagram of the word "expands."
+            A synthetic fibre called spandex, lycra, or elastane is renowned for its exceptional
+elasticity. Joseph Shivers, a chemist at DuPont's Benger Laboratory in Waynesboro, Virginia,
+invented the polyether-polyurea copolymer in 1958. The preferred name in North America
+is "spandex," which is an anagram ofthe word "expands."
+
+          </p>
+          <p>
+            The elastic properties of spandex make it a popular synthetic fabric. The key
+component in the production of denim, sportswear, and apparel.
+          </p>
+          <p>
+            The rise in demand for spandex fibres from various industries such as automotive,
+healthcare, and transportation, as well as the growing use of spandex as an alternative to
+natural and synthetic rubber in industrial applications, rising healthcare investments in
+various regions, and an increase in the affluent population are the primary factors that
+raise the spandex fibres market growth.
           </p>
 
-          <p>
-            The rise in demand for spandex fibres from various industries such
-            as automotive, healthcare, and transportation, as well as the
-            growing use of spandex as an alternative to natural and synthetic
-            rubber in industrial applications, rising healthcare investments in
-            various regions, and an increase in the affluent population, are the
-            primary factors driving the spandex fibres market growth.
-          </p>
-          <p>
-            The elastic quality of spandex makes it a popular synthetic fabric.
-            The most important ingredient in the production of apparel,
-            sportswear, and denim is this one.
-          </p>
         </div>
       </div>
 
@@ -171,6 +169,9 @@
           <p>
             Bamboo fibre is categorized cellulose fiber which is completely made
             of bamboo.
+          </p>
+          <p style="font-weight: bold;">
+            Advantages of Bamboo Fibres and Yarns are :
           </p>
           <p class="para">
             <span>1. Naturally anti-bacterial</span>
@@ -275,9 +276,8 @@
             characteristic that distinguishes it is its tendency to wrinkle.
           </p>
           <p>
-            Linen is superior to cotton in terms of its increased durability,
-            absorbent properties, and accelerated drying rate. Another
-            characteristic that distinguishes it is its tendency to wrinkle.
+            Linen is a term used to describe textiles that have a linen weave texture, even if they're
+            made of cotton, hemp, or other non-flax fibers. 
           </p>
           <p>
             In hot and humid climates, linen garments are preferred. While

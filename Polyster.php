@@ -221,7 +221,7 @@
         </p>
         <p>
           The Film Polyester chips are frequently found in Super Bright and
-          Additive (Silica) varieties. Because the film is made to a very thin
+          Additive (Silica) varieties. The film is made to a very thin
           specification and even the smallest mistake in the raw materials can
           harm the film quality, film-grade PET chips have excellent clarity.
         </p>
@@ -678,7 +678,8 @@
         <p>
           A polyester resin melt can be extracted through an arc-shaped spinning slit to create hollow polyester fibres. </p>
         <p>The thin, hollow strand of polyester from which hollow fibre is made gives that name. The hollow center holds air, which contributes to the lofty duvet filling. Due to the high tog rating of hollow fibre bedding, you can get incredibly warm bedding without using a heavy duvet. </p>
-        <p>Conjugates, Non-Conjugates, with and without Silicon are all available in hollow fibre.</p>
+        <p>Conjugates, Non-Conjugates, with and without Silicon are all available in hollow fibre. The
+main applicationsinclude fiberfill, filtering, padding, etc.</p>
       </div>
     </div>
     <table class="table">
@@ -745,14 +746,14 @@
       <div class="mission mis">
         <p>
           The High Tenacity Yarn filaments should ideally have a cross-section with 5 to 8 vertices, forming a
-          starshape.
+          star shape.
 
         </p>
         <p class="para2 para21" id=""><i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i>60 to 85 cN/tex of force pertex</p>
         <p class="para2 para21"><i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i>15%–35% elongation at break</p>
         <p class="para2 para21"><i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i>shrinkage of 4% to 10% in hot air</p>
         <p class="para2 para21"><i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i>250–400 CN/tex of stretch recovery</p>
-        <p class="para2 para21"><i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i>250–400 CN/tex of stretch recovery</p>
+        <p class="para2 para21"><i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i>Typical, Low or Super Low Shrinkage is available</p>
         <p>
           High-tenacity yarn possesses the capacity to endure intensely hot environments, which can
           challenge the capabilities ofstandard multifilament fibersto their breaking limit.

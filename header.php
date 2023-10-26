@@ -5,11 +5,11 @@
         </div>
         <div class="header03">
             <h3 style="padding-top:.19rem ;">Follow Us On:</h3>
-            <a href=""> <img src="img/facebook.svg" alt=""></a>
-            <a href=""><img src="img/twitter.svg" alt=""></a>
-            <a href=""><img src="img/link.svg" alt=""></a>
-            <a href="">
-                <img src="img/insta.svg" alt=""></a>
+            <!-- <a href=""> <img src="img/facebook.svg" alt=""></a>
+            <a href=""><img src="img/twitter.svg" alt=""></a> -->
+            <a href="https://in.linkedin.com/company/sun-champ-global-trades"><img src="img/link.svg" alt=""></a>
+            <!-- <a href="">
+                <img src="img/insta.svg" alt=""></a> -->
         </div>
 
     </div>
@@ -43,7 +43,7 @@
 
 
         <div class="contactbtn headcontact">
-            <a id="contactbtn01" href="#contactus">Contact Us </a>
+            <a id="contactbtn01" href="contact.php">Contact Us </a>
             <img src="img/skip.svg" alt="" id="contactbtnimg">
         </div>
 

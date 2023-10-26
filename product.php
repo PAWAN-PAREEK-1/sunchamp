@@ -177,10 +177,8 @@
           effective export and distribution of our highest quality polyester chips to a large number of
           countries, so that textile customers are guaranteed the best products possible in order to
           produce their textiles.</p>
-        <p>The top polyester exporters worldwide, Our advanced production facilities allow for
-          effective export and distribution of our highest quality polyester chips to a large number of
-          countries, so that textile customers are guaranteed the best products possible in order to
-          produce their textiles.</p>
+        <p>Our dedication to the highest quality and client satisfaction has made us one of the trusted
+suppliers in the world.</p>
       </div>
     </div>
 
@@ -243,7 +241,7 @@
       <div class="mission mis">
 
         <h1>Service..... <span>that builds Trust</span> </h1>
-        <p> We at Sun Champ Global Traders, The Top recycled polyester fiber trader, always focus on creating
+        <p> We at Sun Champ Global Trades (Sun Champ), The Top recycled polyester fiber trader, always focus on creating
           high-quality textile goods from the best Recycled Polyester Fiber and exporting them. We value the
           creation of environmentally friendly products that contribute to a better future. </p>
         <p> Due to their long life, reliability and positive environmental effects, our recycled polyester chips are
@@ -259,9 +257,9 @@
         <a href="./Recycled.php#p1">
           <h4><img src="img/icon2.svg" alt="">FSC Certified Bamboo Fibers</h4>
         </a>
-        <a href="./Recycled.php#p1">
+        <!-- <a href="./Recycled.php#p1">
           <h4><img src="img/icon2.svg" alt="">Recycled Polyester Chips for Textile and Film applications <br>The rayon fabrics wholesaler is available.</h4>
-        </a>
+        </a> -->
         <a href="./Recycled.php#p1">
           <h4><img src="img/icon2.svg" alt="">Recycled Polyester Filament Yarns (POY, FDY, DTY)</h4>
         </a>
@@ -452,8 +450,10 @@
           astonishment with our elegant clothes.
         </p>
         <p>Enter a world of textiles, where creativity and ingenuity can be seen in every piece. </p>
-        <p>Enter a world of textiles, where creativity and ingenuity can be seen in every piece. </p>
-      </div>
+        <p>Our Top Spandex yarn, well-known for its outstanding stretch and recovery capabilities, is widely
+utilized in a variety of sectors, including lingerie, and medicals, it provides comfort and flexibility
+to improve performance and fit.</p>
+         </div>
     </div>
 
     <div class="points">

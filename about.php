@@ -176,8 +176,9 @@ uncompromising quality standardsin Service.
           </p>
           <p>
           Act as a key catalyst in the course of a Trustworthy relationship between Buyerand Seller.
-Trust is derived as a core value imperative to all aspects of Sun Champ GlobalTrades.
+
           </p>
+          <p>Trust is derived as a core value imperative to all aspects of Sun Champ Global Trades.</p>
           <P>To promote a culture that values quality by offering the most affordable option to all types of
 customers, including industries, in order to relieve financial strain on our customers while
 maintaining A++ quality.
