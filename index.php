@@ -61,7 +61,7 @@
             Our business partners will discover our honesty as we help them achieve their desired results.
           </p>
           <div class="contactbtn indexhero">
-            <a id="contactbtn01" href="#contactus">Contact Us </a>
+            <a id="contactbtn01" href="contact.php">Contact Us </a>
             <img src="img/skip.svg" alt="" id="contactbtnimg" />
           </div>
         </div>
@@ -122,7 +122,7 @@
         <div class="aboutus02">
           <h3>About Us</h3>
           <h1>
-            Your Trust, <span>Our Priority</span> Unwavering Service That Speaks for Itself
+            Your Trust, <span>Our Priority</span> <br>  Unwavering Service That Speaks for Itself
           </h1>
           <div class="aboutus0201">
             <img src="img/icon1.svg" alt="" />
