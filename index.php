@@ -18,7 +18,7 @@
 
     <section class="main">
       <div class="whatsapp-button">
-        <a class="whatsapp-icon" href="https://api.whatsapp.com/send?phone=1234567890" target="_blank" rel="noopener noreferrer">
+        <a class="whatsapp-icon" href="https://api.whatsapp.com/send?phone=+919712885500" target="_blank" rel="noopener noreferrer">
           <i class="fa-brands fa-whatsapp fa-2xl" style="color: #fff;"></i>
         </a>
       </div>
@@ -132,16 +132,16 @@
             </p>
           </div>
           <p>
-            Sun Champ Global Traders, The best Polyester Trader in India, We are a leading exporter of Textile and chemical Products from Surat, India. We have established a wide range of contacts and reputations in India, China, Bangladesh, Egypt, Thailand, Indonesia, Vietnam, Europe, and North America's international market.
+            Sun Champ Global Trades, We are a leading exporter of Textile and chemical Products from Surat, India. We have established a wide range of contacts and reputations in India, China, Bangladesh, Egypt, Thailand, Indonesia, Vietnam, Europe, and North America's international market.
           </p>
           <h4>
             <img src="img/icon2.svg" alt="" />India has a long-standing tradition of textile manufacturing and is known for its beautiful fabrics.
           </h4>
           <h4>
-            <img src="img/icon2.svg" alt="" />From traditional materials like silk, cotton, and wool to more modern options like polyester and nylon, Indian traders  offer a diverse range of choices.
+            <img src="img/icon2.svg" alt="" />From traditional materials like silk, cotton, and wool to more modern options like polyester and nylon, We  offer a diverse range of choices.
           </h4>
           <h4>
-            <img src="img/icon2.svg" alt="" />Skilled artisans and traders  in India take great pride in creating fabrics that are both stunning and of high quality.
+            <img src="img/icon2.svg" alt="" />Skilled artisans  in India take great pride in creating fabrics that are both stunning and of high quality.
           </h4>
         </div>
       </section>
@@ -274,7 +274,7 @@
         </div>
       </section>
 
-  
+
 
       <!-- <section class="news-blogs">
         <div class="news">

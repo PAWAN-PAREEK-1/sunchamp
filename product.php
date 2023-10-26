@@ -16,11 +16,11 @@
   ?>
 
 
-  <div class="whatsapp-button">
-    <a class="whatsapp-icon" href="https://api.whatsapp.com/send?phone=1234567890" target="_blank" rel="noopener noreferrer">
-      <i class="fa-brands fa-whatsapp fa-2xl" style="color: #fff;"></i>
-    </a>
-  </div>
+<div class="whatsapp-button">
+      <a class="whatsapp-icon" href="https://api.whatsapp.com/send?phone=+919712885500" target="_blank" rel="noopener noreferrer">
+        <i class="fa-brands fa-whatsapp fa-2xl" style="color: #fff;"></i>
+      </a>
+    </div>
 
 
 

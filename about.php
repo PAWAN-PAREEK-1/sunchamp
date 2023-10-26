@@ -15,7 +15,7 @@
   ?>
   <section class="about-main">
     <div class="whatsapp-button">
-      <a class="whatsapp-icon" href="https://api.whatsapp.com/send?phone=1234567890" target="_blank" rel="noopener noreferrer">
+      <a class="whatsapp-icon" href="https://api.whatsapp.com/send?phone=+919712885500" target="_blank" rel="noopener noreferrer">
         <i class="fa-brands fa-whatsapp fa-2xl" style="color: #fff;"></i>
       </a>
     </div>
@@ -91,8 +91,7 @@
           <p>Our Sales Network Office is strategically located in key regions, including India, Bangladesh,
             Canada, Thailand, and the UAE, and we maintain associate offices in numerous other nations such
             as China, Egypt, Turkey, and more.</p>
-          <p>We're servicing a wide range of customers, from textile producers, weavers, and spinning
-            mill operators to traders in the textile industry. We established very good relationships in
+          <p>We're servicing a wide range of customers, from textile producers, weavers, and spinning mill operators in the textile industry. We established very good relationships in
             several countries with well-known manufacturers.</p>
         </div>
       </section>
@@ -121,7 +120,7 @@
       <div class="our-mission">
         <div class="mission">
           <h3>Our Mission</h3>
-          <h1>No.1 Polyester <span>yarn trader </span> in India</h1>
+          <!-- <h1>No.1 Polyester <span>yarn trader </span> in India</h1> -->
           <p>
             The mission of The Sun Champ Global Trades is to create a scenario which is mutually
             beneficial for Supplier and Buyer, Create synergy between them and try to give inputs to
