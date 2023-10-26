@@ -827,9 +827,7 @@ main applicationsinclude fiberfill, filtering, padding, etc.</p>
     </script>
   </section>
 
-  <?php
-  include "testimonial.php";
-  ?>
+
   <?php
   include "footer.php";
   ?>

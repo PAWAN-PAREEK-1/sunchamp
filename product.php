@@ -481,9 +481,7 @@ to improve performance and fit.</p>
 
 
 
-  <?php
-  include "testimonial.php";
-  ?>
+
   <?php
   include "footer.php";
   ?>

@@ -64,17 +64,28 @@ font-style: normal;
 
 nav {
 	display: flex;
-	justify-content: space-around;
+	justify-content: space-between;
 	align-items: center;
 	position: relative;
-	padding-left: 368px;
+	padding-left: 712px;
 	padding-bottom: 2.50rem;
 	padding-top: 2rem;
+    padding-right: 6.25rem;
 }
 .manus ul {
     list-style-type: none;
     display: inline-flex;
     gap: 1.875rem;
+}
+.tagline{
+    color: rgba(255, 255, 255, 0.95);
+    font-family: Poppins;
+    font-size:15.5px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+    padding-right: 153px;
 }
 
 /* nav a {

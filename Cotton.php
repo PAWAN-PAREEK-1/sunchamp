@@ -682,9 +682,6 @@
   </section>
 
   <?php
-    include "testimonial.php";
-    ?>
-  <?php
     include "footer.php";
     ?>
   <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"

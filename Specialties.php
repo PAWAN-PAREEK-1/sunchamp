@@ -277,7 +277,7 @@ raise the spandex fibres market growth.
           </p>
           <p>
             Linen is a term used to describe textiles that have a linen weave texture, even if they're
-            made of cotton, hemp, or other non-flax fibers. 
+            made of cotton, hemp, or other non-flax fibers.
           </p>
           <p>
             In hot and humid climates, linen garments are preferred. While
@@ -339,9 +339,6 @@ raise the spandex fibres market growth.
       </script>
     </section>
 
-    <?php
-    include "testimonial.php";
-    ?>
     <?php
     include "footer.php";
     ?>

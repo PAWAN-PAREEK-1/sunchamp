@@ -3,6 +3,9 @@
         <div class="header02">
             <h3>Welcome to Sun Champ Global Trades </h3>
         </div>
+        <div class="tagline">
+          <h2>"Service..... that builds Trust"</h2>
+        </div>
         <div class="header03">
             <h3 style="padding-top:.19rem ;">Follow Us On:</h3>
             <!-- <a href=""> <img src="img/facebook.svg" alt=""></a>
@@ -25,7 +28,7 @@
                 <li><a href="about.php" <?php if (basename($_SERVER['PHP_SELF']) == 'about.php') echo 'class="active"'; ?>>ABOUT US</a></li>
                 <li><a href="product.php" <?php if (basename($_SERVER['PHP_SELF']) == 'product.php') echo 'class="active"'; ?>>TEXTILE PRODUCTS</a></li>
                 <li><a href="chemical.php" <?php if (basename($_SERVER['PHP_SELF']) == 'chemical.php') echo 'class="active"'; ?>> CHEMICAL PRODUCTS</a></li>
-                <li><a href="blog.php" <?php if (basename($_SERVER['PHP_SELF']) == 'blog.php') echo 'class="active"'; ?>>NEWS / BLOGS</a></li>
+
 
             </ul>
 
