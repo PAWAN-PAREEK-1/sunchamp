@@ -161,7 +161,7 @@
         <div class="mission">
           <h3>Our Vision</h3>
           <h1>
-          Nurturing Trust,<span>Delivering Win-Win</span>  Solutions, Worldwide Access.
+          Nurturing Trust, <span>Delivering Win-Win</span>  Solutions, Worldwide Access.
           </h1>
           <p>
           To be an industry leader in the provision of services for eco-friendly textilepractices and

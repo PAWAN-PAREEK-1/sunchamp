@@ -456,7 +456,7 @@ input:focus {
     padding-inline: 120px;
 }
 
-.footerlinks a {
+.footerlinks a ,.footerlinks  span{
     color: rgba(255, 255, 255, 0.65);
 
     font-family: Poppins;
@@ -468,9 +468,14 @@ input:focus {
     text-decoration: none;
 
 }
-.footerlinks a:hover{
+.footerlinks  span{
+    margin: 0;
+}
+
+.footerlinks a:hover span {
     color: red;
 }
+
 
 
 

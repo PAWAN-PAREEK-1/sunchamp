@@ -62,7 +62,7 @@
 
        <h3> &copy;Copyrights 2023 All Rights Reserved by Sun Champ Global Trades</h3>
             <div class="footerlinks">
-                <a href="https://vermilliontech.in/">Developed by VERMILLION TECH</a>
+                <a href="https://vermilliontech.in/">Developed by <span>VERMILLION TECH</span> </a>
 
             </div>
     </div>
