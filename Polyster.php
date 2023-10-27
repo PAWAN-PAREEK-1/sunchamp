@@ -70,7 +70,7 @@
       </div>
       <div class="mission mis">
         <!-- <h1>We are the best <span>Polyester </span> Chips suppliers in India </h1> -->
-        <p>We're the best supplier of polyester chips.</p>
+        <p>We're the best Exporter of polyester chips.</p>
         <p>
           The pet is produced by the polymerization of Monoethylene glycol with pure
           terephthalic acid. Terephthalate Polyethylene Pet has a large range of uses.
@@ -91,7 +91,7 @@
         <tr>
           <th id="col-1" scope="col">Lustre</th>
           <th id="col-2" scope="col">End Use</th>
-          <th id="col-3" scope="col">Supplier Origin</th>
+          <th id="col-3" scope="col">Exporter Origin</th>
         </tr>
       </thead>
       <tbody id="table-body1"></tbody>
@@ -161,7 +161,7 @@
         <tr>
           <th id="col-1" scope="col">Lustre</th>
           <th id="col-2" scope="col">End Use</th>
-          <th id="col-3" scope="col">Supplier Origin</th>
+          <th id="col-3" scope="col">Exporter Origin</th>
         </tr>
       </thead>
       <tbody id="table-body2"></tbody>
@@ -232,7 +232,7 @@
         <tr>
           <th id="col-1" scope="col">Lustre</th>
           <th id="col-2" scope="col">End Use</th>
-          <th id="col-3" scope="col">Supplier Origin</th>
+          <th id="col-3" scope="col">Exporter Origin</th>
         </tr>
       </thead>
       <tbody id="table-body3"></tbody>
@@ -272,7 +272,7 @@
   <section class="products" id="p4">
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="https://www.apexthreads.com/img/products/pdt_aydl_002.jpg" alt="" class="pimage" />
+        <img src="https://www.apexthreads.com/img/products/pdt_aydl_002.jpg" alt="" class="pimage"  id="pimagepoy"/>
         <div class="pro-head">
           <img src="img/icon9.svg" alt="" />
           <h1>POY</h1>
@@ -302,7 +302,7 @@
         <tr>
           <th id="col-1" scope="col">Lustre</th>
           <th id="col-2" scope="col">End Use</th>
-          <th id="col-3" scope="col">Supplier Origin</th>
+          <th id="col-3" scope="col">Exporter Origin</th>
         </tr>
       </thead>
       <tbody id="table-body4"></tbody>
@@ -382,7 +382,7 @@
         <tr>
           <th id="col-1" scope="col">Lustre</th>
           <th id="col-2" scope="col">End Use</th>
-          <th id="col-3" scope="col">Supplier Origin</th>
+          <th id="col-3" scope="col">Exporter Origin</th>
         </tr>
       </thead>
       <tbody id="table-body5"></tbody>
@@ -458,7 +458,7 @@
         <tr>
           <th id="col-1" scope="col">Lustre</th>
           <th id="col-2" scope="col">End Use</th>
-          <th id="col-3" scope="col">Supplier Origin</th>
+          <th id="col-3" scope="col">Exporter Origin</th>
         </tr>
       </thead>
       <tbody id="table-body6"></tbody>
@@ -537,7 +537,7 @@
         <tr>
           <th id="col-1" scope="col">Lustre</th>
           <th id="col-2" scope="col">End Use</th>
-          <th id="col-3" scope="col">Supplier Origin</th>
+          <th id="col-3" scope="col">Exporter Origin</th>
         </tr>
       </thead>
       <tbody id="table-body7"></tbody>
@@ -615,7 +615,7 @@
         <tr>
           <th id="col-1" scope="col">Lustre</th>
           <th id="col-2" scope="col">End Use</th>
-          <th id="col-3" scope="col">Supplier Origin</th>
+          <th id="col-3" scope="col">Exporter Origin</th>
         </tr>
       </thead>
       <tbody id="table-body8"></tbody>
@@ -687,7 +687,7 @@ main applicationsinclude fiberfill, filtering, padding, etc.</p>
         <tr>
           <th id="col-1" scope="col">Lustre</th>
           <th id="col-2" scope="col">End Use</th>
-          <th id="col-3" scope="col">Supplier Origin</th>
+          <th id="col-3" scope="col">Exporter Origin</th>
         </tr>
       </thead>
       <tbody id="table-body9"></tbody>
@@ -736,7 +736,7 @@ main applicationsinclude fiberfill, filtering, padding, etc.</p>
   <section class="products lastp" id="p10">
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="https://www.apexthreads.com/img/products/pdt_aydl_002.jpg" alt="" class="pimage " id="pimagepoy"/>
+        <img src="img/High Tenacity Yarn.svg" alt="" class="pimage " />
         <div class="pro-head">
           <img src="img/icon9.svg" alt="" />
           <h1>High Tenacity</h1>
@@ -781,7 +781,7 @@ main applicationsinclude fiberfill, filtering, padding, etc.</p>
         <tr>
           <th id="col-1" scope="col">Lustre</th>
           <th id="col-2" scope="col">End Use</th>
-          <th id="col-3" scope="col">Supplier Origin</th>
+          <th id="col-3" scope="col">Exporter Origin</th>
         </tr>
       </thead>
       <tbody id="table-body10"></tbody>

@@ -80,7 +80,7 @@
             </div>
             <hr />
             <p>
-              We Create a world class Supplier and Customer experience. With higher productivity levels, the focus is to achieve high growth consistently.
+              We Create a world class Customer experience. With higher productivity levels, the focus is to achieve high growth consistently.
 
             </p>
             <img src="img/spdesign.svg" alt="" id="spdesign" />
@@ -92,8 +92,8 @@
             </div>
             <hr />
             <p>
-              We are one of the most admired and trusted for services rendered in bring Supplier and
-              Buyer together.
+              We are one of the most admired and trusted for services rendered in bring
+              Buyer .
             </p>
             <img src="img/spdesign.svg" alt="" id="spdesign" />
           </div>
@@ -156,7 +156,7 @@
                 <h1>Polyster</h1>
               </div>
               <p>
-                Sun Champ Global Traders is The best Polyester supplier in
+                Sun Champ Global Trades is The best Polyester Exporter in
                 Surat, India. Our business...
               </p>
               <a href="product.php#p1"> <h4>READ MORE &nbsp;&nbsp;+</h4></a>
@@ -168,8 +168,8 @@
                 <h1>Recycled</h1>
               </div>
               <p>
-                We, Sun Champ Global Traders The Top recycled polyester fiber
-                Trader in India...
+                We, Sun Champ Global Trades The Top recycled polyester fiber
+                Trades in India...
               </p>
               <a href="product.php#p2"> <h4>READ MORE &nbsp;&nbsp;+</h4></a>
               <img src="img/icon3.svg" alt="" id="our-ser-img" />

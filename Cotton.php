@@ -100,7 +100,7 @@
         <tr>
           <th id="col-1" scope="col">Lustre</th>
           <th id="col-2" scope="col">End Use</th>
-          <th id="col-3" scope="col">Supplier Origin</th>
+          <th id="col-3" scope="col">Exporter Origin</th>
         </tr>
       </thead>
       <tbody id="table-body1"></tbody>
@@ -173,7 +173,7 @@
         <tr>
           <th id="col-1" scope="col">Lustre</th>
           <th id="col-2" scope="col">End Use</th>
-          <th id="col-3" scope="col">Supplier Origin</th>
+          <th id="col-3" scope="col">Exporter Origin</th>
         </tr>
       </thead>
       <tbody id="table-body2"></tbody>
@@ -280,7 +280,7 @@
         <tr>
           <th id="col-1" scope="col">Lustre</th>
           <th id="col-2" scope="col">End Use</th>
-          <th id="col-3" scope="col">Supplier Origin</th>
+          <th id="col-3" scope="col">Exporter Origin</th>
         </tr>
       </thead>
       <tbody id="table-body3"></tbody>
@@ -380,7 +380,7 @@
         <tr>
           <th id="col-1" scope="col">Lustre</th>
           <th id="col-2" scope="col">End Use</th>
-          <th id="col-3" scope="col">Supplier Origin</th>
+          <th id="col-3" scope="col">Exporter Origin</th>
         </tr>
       </thead>
       <tbody id="table-body4"></tbody>
@@ -467,7 +467,7 @@
         <tr>
           <th id="col-1" scope="col">Lustre</th>
           <th id="col-2" scope="col">End Use</th>
-          <th id="col-3" scope="col">Supplier Origin</th>
+          <th id="col-3" scope="col">Exporter Origin</th>
         </tr>
       </thead>
       <tbody id="table-body5"></tbody>
@@ -552,7 +552,7 @@
         <tr>
           <th id="col-1" scope="col">Lustre</th>
           <th id="col-2" scope="col">End Use</th>
-          <th id="col-3" scope="col">Supplier Origin</th>
+          <th id="col-3" scope="col">Exporter Origin</th>
         </tr>
       </thead>
       <tbody id="table-body6"></tbody>
@@ -633,7 +633,7 @@
         <tr>
           <th id="col-1" scope="col">Lustre</th>
           <th id="col-2" scope="col">End Use</th>
-          <th id="col-3" scope="col">Supplier Origin</th>
+          <th id="col-3" scope="col">Exporter Origin</th>
         </tr>
       </thead>
       <tbody id="table-body7"></tbody>

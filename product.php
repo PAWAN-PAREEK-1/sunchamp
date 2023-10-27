@@ -66,7 +66,7 @@
             <h1>Polyster</h1>
           </div>
           <p>
-            Sun Champ Global Traders is The best Polyester supplier in
+            Sun Champ Global Trades is The best Polyester exporter in
             Surat, India. Our business...
           </p>
           <a href="product.php#p1">
@@ -80,8 +80,8 @@
             <h1>Recycled</h1>
           </div>
           <p>
-            We, Sun Champ Global Traders The Top recycled polyester fiber
-            Trader in India...
+            We, Sun Champ Global Trades The Top recycled polyester fiber
+            Trades in India...
           </p>
           <a href="product.php#p2">
             <h4>READ MORE &nbsp;&nbsp;+</h4>
@@ -171,14 +171,14 @@
       <div class="mission mis">
 
         <h1>Service..... <span>that builds Trust</span> </h1>
-        <p>Sun Champ Global Traders is the best polyester supplier. Our company is specialized in
+        <p>Sun Champ Global Trades is the best polyester exporter. Our company is specialized in
           producing high quality polyester chips, a major raw material for the textile industry.</p>
         <p>The top polyester exporters worldwide, Our advanced production facilities allow for
           effective export and distribution of our highest quality polyester chips to a large number of
           countries, so that textile customers are guaranteed the best products possible in order to
           produce their textiles.</p>
         <p>Our dedication to the highest quality and client satisfaction has made us one of the trusted
-suppliers in the world.</p>
+exporter in the world.</p>
       </div>
     </div>
 
@@ -241,13 +241,13 @@ suppliers in the world.</p>
       <div class="mission mis">
 
         <h1>Service..... <span>that builds Trust</span> </h1>
-        <p> We at Sun Champ Global Trades (Sun Champ), The Top recycled polyester fiber trader, always focus on creating
+        <p> We at Sun Champ Global Trades (Sun Champ), The Top recycled polyester fiber importer, always focus on creating
           high-quality textile goods from the best Recycled Polyester Fiber and exporting them. We value the
           creation of environmentally friendly products that contribute to a better future. </p>
         <p> Due to their long life, reliability and positive environmental effects, our recycled polyester chips are
           increasingly sought after by customers in a number of countries
         </p>
-        <p>Our Supplier Mill Partners are also continuously developing and moving towards social and
+        <p>Our  Mill Partners are also continuously developing and moving towards social and
           environmental responsibility, hence we are updating our Recycled products on a regular basis.</p>
       </div>
     </div>
@@ -348,10 +348,10 @@ suppliers in the world.</p>
         <p>In order to meet your specific quality needs, the cotton yarns which we offer use the most recent and
           efficient spinning machines. </p>
         <p>Indian cotton yarn is one of the most famous and widely used types of yarn in the world. In the
-          world's best Blended Yarn traders.</p>
+          world's best Blended Yarn importer.</p>
         <p>To ensure that you receive the best price on your order from us, we carefully select yarns which
           are perfectly matched for their intended purpose. </p>
-        <p>Sun Champ Global Trade is a global trader of 100% pure cotton yarn. A variety of products, including
+        <p>Sun Champ Global Trade is a global importer of 100% pure cotton yarn. A variety of products, including
           knitted fabrics, woven fabrics, towels, denims and carpets, can be made with our yarns.
         </p>
       </div>
@@ -409,7 +409,7 @@ suppliers in the world.</p>
         <p>For the creation of premium quality materials that meet the requirements of different industry sectors,
           including fashion, home furnishing, automotive and more, fabric producers make use of modern
           technology and skills.</p>
-        <p>The world's leading trader of knitted and woven fabrics. </p>
+        <p>The world's leading importer of knitted and woven fabrics. </p>
         <p>For fabric with special characteristics and properties we use a variety of materials, for example cotton, silk,
           wool, polyester as well as more.
         </p>
@@ -443,7 +443,7 @@ suppliers in the world.</p>
       </div>
       <div class="mission mis">
 
-        <h1>The Best textile materials <span>trader and exporter</span> in the world</h1>
+        <h1>The Best textile materials <span>importer and exporter</span> in the world</h1>
         <p>Welcome to our textile industry, where attractive Bamboo & Lyocell fiber yarns, Spandex & Lyocell fibres,
           and Linens are produced in perfect harmony with the latest technology and time innovate techniques. You
           will be dazzled by the intricate patterns and ingenious designs, which leave you in a state of complete

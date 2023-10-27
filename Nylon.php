@@ -76,7 +76,7 @@
             </div>
             <div class="mission mis">
 
-                <h1>The <span>Best Nylon chips</span> traders in India</h1>
+                <h1>The <span>Best Nylon chips</span> trades in India</h1>
                 <p>Nylon Chips and fibers are the main raw material for making fiber nylon chips and engineering plastic-grade nylon chips. Nylon chips, such as fiber-grade and engineering plastic-grade nylon chips, are downstream products of CPL. Vertical integration allows CPDC to produce nylon chips from CPL. </p>
                 <p>Nylon filament yarn and engineering plastics are both made using Nylon6 and Nylon66 chips.
                     Nylon6 Chips are widely used in the compounding sector. It can combine with numerous other
@@ -88,7 +88,7 @@
                 <tr>
                     <th id="col-1" scope="col">Lustre</th>
                     <th id="col-2" scope="col">End Use</th>
-                    <th id="col-3" scope="col">Supplier Origin</th>
+                    <th id="col-3" scope="col">Exporter Origin</th>
                 </tr>
             </thead>
             <tbody id="table-body1">
@@ -160,7 +160,7 @@
                 <tr>
                     <th id="col-1" scope="col">Lustre</th>
                     <th id="col-2" scope="col">End Use</th>
-                    <th id="col-3" scope="col">Supplier Origin</th>
+                    <th id="col-3" scope="col">Exporter Origin</th>
                 </tr>
             </thead>
             <tbody id="table-body2">
@@ -241,7 +241,7 @@
                 <tr>
                     <th id="col-1" scope="col">Lustre</th>
                     <th id="col-2" scope="col">End Use</th>
-                    <th id="col-3" scope="col">Supplier Origin</th>
+                    <th id="col-3" scope="col">Exporter Origin</th>
                 </tr>
             </thead>
             <tbody id="table-body3">
@@ -315,7 +315,7 @@
                 <tr>
                     <th id="col-1" scope="col">Lustre</th>
                     <th id="col-2" scope="col">End Use</th>
-                    <th id="col-3" scope="col">Supplier Origin</th>
+                    <th id="col-3" scope="col">Exporter Origin</th>
                 </tr>
             </thead>
             <tbody id="table-body4">

@@ -109,7 +109,7 @@
           International Market (15+ years) and good knowledge of serving customers globally to
           their satisfaction, building trust factor. Therefore, our tagline is "Service that builds Trust"</p>
         <p>Sun Champ Global Trades is a coalition of professionals based in the host countries of
-          Suppliers / Buyers with a strategic approach to International Trade, as best demonstrated by
+          Exporter/ Importer with a strategic approach to International Trade, as best demonstrated by
           our responsiveness to cultural needs and cost efficiency</p>
       </div>
 
@@ -122,8 +122,8 @@
          <h1>Navigating Markets, <span>Building Alliances,</span> Maximizing Opportunities.</h1>
           <p>
             The mission of The Sun Champ Global Trades is to create a scenario which is mutually
-            beneficial for Supplier and Buyer, Create synergy between them and try to give inputs to
-            both Suppliers and Buyers. With regards to latest market scenario, new developments, tax
+            beneficial for Exporter and Importer, Create synergy between them and try to give inputs to
+            both Exporter and Importer. With regards to latest market scenario, new developments, tax
             regulations and future forecasts.
           </p>
           <p>

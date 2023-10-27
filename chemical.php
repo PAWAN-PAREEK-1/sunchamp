@@ -79,7 +79,7 @@
                     including PET, and PPT Chips, which are examples of multiple petrochemicals, We are
                     exporting the best quality chemical products all over the world.</p>
                 <p>Our firm is active in supplying and trading chemical products quickly, and we prioritize
-                    preserving strong connections with our clients and suppliers.</p>
+                    preserving strong connections with our clients </p>
                 <p>Today's world's contribution to boosting productivity, building sustainability, and
                     improving our quality of life is a key pillar of the progress we observe.</p>
             </div>
