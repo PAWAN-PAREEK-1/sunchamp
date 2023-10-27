@@ -96,8 +96,9 @@
 
     <p class="para2" id="para2"> <i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i> The material is as soft and durable as polyester, which has not been recycled. </p>
     <p class="para2"><i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i> Recycled plastic bottles, commonly known as rPET, are used to manufacture recycled
-      polyester and maka para.
-      Fabric that is made from recycled plastic need not be uncomfortable or stiff.</p>
+      polyester.
+      </p>
+      <p class="para2"><i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i>Fabric that is made from recycled plastic need not be uncomfortable or stiff.</p>
     <p class="para2"><i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i>The rPET makes about 45 % or 70 % less CO2 emissions than virgin polyester.</p>
     <p class="para2"><i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i>The production of rPET has a 60% lower energy consumption than virgin polyester.</p>
     <p class="para2"><i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237;"></i> First method is converting Bottles into flakes and then optimized for melting and spinning in

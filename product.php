@@ -257,9 +257,9 @@ suppliers in the world.</p>
         <a href="./Recycled.php#p1">
           <h4><img src="img/icon2.svg" alt="">FSC Certified Bamboo Fibers</h4>
         </a>
-        <!-- <a href="./Recycled.php#p1">
-          <h4><img src="img/icon2.svg" alt="">Recycled Polyester Chips for Textile and Film applications <br>The rayon fabrics wholesaler is available.</h4>
-        </a> -->
+        <a href="./Recycled.php#p1">
+          <h4><img src="img/icon2.svg" alt="">Recycled Polyester Chips for Textile and Film applications</h4>
+        </a>
         <a href="./Recycled.php#p1">
           <h4><img src="img/icon2.svg" alt="">Recycled Polyester Filament Yarns (POY, FDY, DTY)</h4>
         </a>

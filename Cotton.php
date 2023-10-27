@@ -239,11 +239,11 @@
         <p class="para2 para21">
           <i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237"></i> Single or double covering modes are ordinarily available
         </p>
-        <p class="para2 para21">
+        <!-- <p class="para2 para21">
           <i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237"></i>The recovery of PET plastic products for
           reuse or recovery of their
           raw materials for production results in the production of fibres.
-        </p>
+        </p> -->
         <p class="para2 para21">
           <i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237"></i>
           The two most common single-covering modes are nylon-covered yarn and
@@ -255,18 +255,19 @@
           leggings, sportswear, pantyhose, protective gear, and knitted
           sweaters etc are predominantly utilize in CSY
         </p>
+        <p class="para2 para21" >
+          <i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237"></i>The fabric knitted with air covered yarn
+          will have a soft and
+          smooth hand feels.
+        </p>
 
 
       </div>
 
     </div>
 
+
     <p class="para2 para21" id="para2">
-      <i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237"></i>The fabric knitted with air covered yarn
-      will have a soft and
-      smooth hand feels.
-    </p>
-    <p class="para2 para21">
       <i class="fa-solid fa-circle-dot fa-sm" style="color: #ed3237"></i>CSY Drafting the spandex yarn and outer
       covering fibre through a
       specific type of nozzle simultaneously, applying regular pressure
