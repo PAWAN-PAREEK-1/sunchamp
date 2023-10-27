@@ -61,7 +61,7 @@
   <section class="products" id="p1">
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="img/productSec.svg" alt="" class="pimage" />
+        <img src="img/Polyester Chips textile Grade.svg" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon9.svg" alt="" />
           <h1>Textile Grade</h1>
@@ -131,7 +131,7 @@
   <section class="products" id="p2">
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="img/productSec.svg" alt="" class="pimage" />
+        <img src="img/Polyester Chips Bottle Grade.svg" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon9.svg" alt="" />
           <h1>Bottle Grade</h1>
@@ -201,7 +201,7 @@
   <section class="products" id="p3">
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="img/productSec.svg" alt="" class="pimage" />
+        <img src="img/Polyester Chips Film Grade.svg" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon9.svg" alt="" />
           <h1>Film Grade</h1>
@@ -272,7 +272,7 @@
   <section class="products" id="p4">
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="https://www.apexthreads.com/img/products/pdt_aydl_002.jpg" alt="" class="pimage"  id="pimagepoy"/>
+        <img src="img/poy.avif" alt="" class="pimage"  id="pimagepoy"/>
         <div class="pro-head">
           <img src="img/icon9.svg" alt="" />
           <h1>POY</h1>
@@ -350,7 +350,7 @@
   <section class="products" id="p5">
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="img/productSec.svg" alt="" class="pimage" />
+        <img src="img/polyester-dty-yarn.jpg" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon9.svg" alt="" />
           <h1>DTY</h1>
@@ -432,7 +432,7 @@
   <section class="products" id="p6">
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="img/productSec.svg" alt="" class="pimage" />
+        <img src="img/fdy.jpg" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon9.svg" alt="" />
           <h1>FDY</h1>
@@ -511,7 +511,7 @@
   <section class="products" id="p7">
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="img/productSec.svg" alt="" class="pimage" />
+        <img src="img/acy.webp" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon9.svg" alt="" />
           <h1>ACY</h1>
@@ -589,7 +589,7 @@
   <section class="products" id="p8">
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="img/productSec.svg" alt="" class="pimage" />
+        <img src="img/psf.webp" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon9.svg" alt="" />
           <h1>PSF</h1>
@@ -667,7 +667,7 @@
   <section class="products" id="p9">
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="img/productSec.svg" alt="" class="pimage" />
+        <img src="img/hollow.jpg" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon9.svg" alt="" />
           <h1>Solid & Hollow</h1>

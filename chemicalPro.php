@@ -65,7 +65,7 @@
 
         <div class="pro-dec">
             <div class="pro-img">
-                <img src="img/productSec.svg" alt="" class="pimage" />
+                <img src="img/PTA.svg" alt="" class="pimage" />
                 <div class="pro-head">
                     <img src="img/icon6.svg" alt="">
                     <h1>PTA</h1>
@@ -104,7 +104,7 @@
 
         <div class="pro-dec">
             <div class="pro-img">
-                <img src="img/productSec.svg" alt="" class="pimage" />
+                <img src="img/PP chips.svg" alt="" class="pimage" />
                 <div class="pro-head">
                     <img src="img/icon6.svg" alt="">
                     <h1>PP Chips</h1>
@@ -132,7 +132,7 @@
 
         <div class="pro-dec">
             <div class="pro-img">
-                <img src="img/productSec.svg" alt="" class="pimage" />
+                <img src="img/HDPE.svg" alt="" class="pimage" />
                 <div class="pro-head">
                     <img src="img/icon6.svg" alt="">
                     <h1>HDPE Chips</h1>
@@ -160,7 +160,7 @@
 
         <div class="pro-dec">
             <div class="pro-img">
-                <img src="img/productSec.svg" alt="" class="pimage" />
+                <img src="img/PVC.svg" alt="" class="pimage" />
                 <div class="pro-head">
                     <img src="img/icon6.svg" alt="">
                     <h1>PVC</h1>

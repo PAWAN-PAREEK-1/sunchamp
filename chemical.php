@@ -64,7 +64,7 @@
 
         <div class="pro-dec">
             <div class="pro-img">
-                <img src="img/productSec.svg" alt="" class="pimage" />
+                <img src="img/che.jpg" alt="" class="pimage" />
                 <div class="pro-head">
                     <img src="img/icon9.svg" alt="">
                     <h1>Chemical Products</h1>

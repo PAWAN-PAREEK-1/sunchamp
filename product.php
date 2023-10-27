@@ -160,7 +160,7 @@
 
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="img/productSec.svg" alt="" class="pimage" />
+        <img src="img/polyster.jpg" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon9.svg" alt="">
           <h1>Polyester</h1>
@@ -230,7 +230,7 @@ exporter in the world.</p>
 
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="img/productSec.svg" alt="" class="pimage" />
+        <img src="img/recy.webp" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon4.svg" alt="">
           <h1>Recycled</h1>
@@ -287,7 +287,7 @@ exporter in the world.</p>
 
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="img/productSec.svg" alt="" class="pimage" />
+        <img src="img/nylon.jpg" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon5.svg" alt="">
           <h1>Nylon</h1>
@@ -334,7 +334,7 @@ exporter in the world.</p>
 
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="img/productSec.svg" alt="" class="pimage" />
+        <img src="img/cotton.avif" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon6.svg" alt="">
           <h1>Cotton/Yarn</h1>
@@ -395,7 +395,7 @@ exporter in the world.</p>
 
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="img/productSec.svg" alt="" class="pimage" />
+        <img src="img/fabric.jpg" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon7.svg" alt="">
           <h1>Fabrics</h1>
@@ -433,7 +433,7 @@ exporter in the world.</p>
 
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="img/productSec.svg" alt="" class="pimage" />
+        <img src="img/spacility1.jpeg" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon8.svg" alt="">
           <h1>Specialties</h1>
