@@ -62,7 +62,7 @@
   <section class="products" id="p1">
     <div class="pro-dec">
       <div class="pro-img">
-         <img src="img/rawcotton.jpg" alt="" class="pimage" />
+         <img src="img/Raw Cotton .png" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon6.svg" alt="" />
           <h1>Raw Cotton</h1>
@@ -141,7 +141,7 @@
   <section class="products" id="p2">
     <div class="pro-dec">
       <div class="pro-img">
-         <img src="img/yarn.avif" alt="" class="pimage" />
+         <img src="img/Cotton Yarns .png" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon6.svg" alt="" />
           <h1>Cotton Yarn</h1>
@@ -224,7 +224,7 @@
   <section class="products" id="p3">
     <div class="pro-dec">
       <div class="pro-img">
-         <img src="img/csy.avif" alt="" class="pimage" />
+         <img src="img/core spun.webp" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon6.svg" alt="" />
           <h1>CSY</h1>
@@ -331,7 +331,7 @@
   <section class="products" id="p4">
     <div class="pro-dec">
       <div class="pro-img">
-         <img src="img/vsf.jpg" alt="" class="pimage" />
+         <img src="img/VSF .png" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon6.svg" alt="" />
           <h1>VSF</h1>
@@ -441,7 +441,7 @@
   <section class="products" id="p5">
     <div class="pro-dec">
       <div class="pro-img">
-         <img src="img/vis.jpg" alt="" class="pimage" />
+         <img src="img/Viscose1.jpg" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon6.svg" alt="" />
           <h1>Viscose Yarns</h1>
@@ -518,7 +518,7 @@
   <section class="products" id="p6">
     <div class="pro-dec">
       <div class="pro-img">
-         <img src="img/blanded.png" alt="" class="pimage" />
+         <img src="img/Blended Yarns 1.png" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon6.svg" alt="" />
           <h1>Blended Yarn</h1>
@@ -604,7 +604,7 @@
   <section class="products lastp" id="p7">
     <div class="pro-dec">
       <div class="pro-img">
-         <img src="img/spon.webp" alt="" class="pimage" />
+         <img src="img/spun yarn1.png" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon6.svg" alt="" />
           <h1>Polyster Spun Yarn</h1>

@@ -61,7 +61,7 @@
   <section class="products" id="p1">
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="img/Polyester Chips textile Grade.svg" alt="" class="pimage" />
+        <img src="img/textile grade.jpg" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon9.svg" alt="" />
           <h1>Textile Grade</h1>
@@ -432,7 +432,7 @@
   <section class="products" id="p6">
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="img/fdy.jpg" alt="" class="pimage" />
+        <img src="img/Fdy1.jpg" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon9.svg" alt="" />
           <h1>FDY</h1>

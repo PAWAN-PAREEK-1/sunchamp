@@ -395,7 +395,7 @@ exporter in the world.</p>
 
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="img/fabric.jpg" alt="" class="pimage" />
+        <img src="img/Fabrics1.jpg" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon7.svg" alt="">
           <h1>Fabrics</h1>

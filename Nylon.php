@@ -294,7 +294,7 @@
 
         <div class="pro-dec">
             <div class="pro-img">
-                <img src="img/nfy.jpg" alt="" class="pimage" />
+                <img src="img/NFY 1.jpg" alt="" class="pimage" />
                 <div class="pro-head">
                     <img src="img/icon5.svg" alt="">
                     <h1>NFY</h1>
