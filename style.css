@@ -475,6 +475,14 @@ input:focus {
 .footerlinks a:hover span {
     color: red;
 }
+.pro-img .pimage{
+   border-radius: 15px;
+   width: 532px;
+}
+#pimagepoy{
+    margin-top: 2rem;
+}
+
 
 
 
@@ -2344,6 +2352,10 @@ line-height: normal;
 #para2{
     padding-top: 0 !important;
 }
+#pimagepoy{
+    margin-top: 0rem;
+}
+
 
 
 

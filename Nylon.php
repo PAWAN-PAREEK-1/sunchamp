@@ -66,7 +66,7 @@
 
         <div class="pro-dec">
             <div class="pro-img">
-                <img src="img/productSec.svg" alt="">
+                <img src="img/productSec.svg" alt="" class="pimage" />
                 <div class="pro-head">
                     <img src="img/icon5.svg" alt="">
                     <h1>Nylon</h1>
@@ -134,7 +134,7 @@
 
         <div class="pro-dec">
             <div class="pro-img">
-                <img src="img/productSec.svg" alt="">
+                <img src="img/productSec.svg" alt="" class="pimage" />
                 <div class="pro-head">
                     <img src="img/icon5.svg" alt="">
                     <h1>NPOY</h1>
@@ -214,7 +214,7 @@
 
         <div class="pro-dec">
             <div class="pro-img">
-                <img src="img/productSec.svg" alt="">
+                <img src="img/productSec.svg" alt="" class="pimage" />
                 <div class="pro-head">
                     <img src="img/icon5.svg" alt="">
                     <h1>NDTY</h1>
@@ -294,7 +294,7 @@
 
         <div class="pro-dec">
             <div class="pro-img">
-                <img src="img/productSec.svg" alt="">
+                <img src="img/productSec.svg" alt="" class="pimage" />
                 <div class="pro-head">
                     <img src="img/icon5.svg" alt="">
                     <h1>NFY</h1>

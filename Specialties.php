@@ -67,7 +67,7 @@
     <section class="products" id="p1">
       <div class="pro-dec">
         <div class="pro-img">
-          <img src="img/productSec.svg" alt="" />
+           <img src="img/productSec.svg" alt="" class="pimage" />
           <div class="pro-head">
             <img src="img/icon8.svg" alt="" />
             <h1>Spandex Yarn</h1>
@@ -153,7 +153,7 @@ raise the spandex fibres market growth.
     <section class="products" id="p2">
       <div class="pro-dec">
         <div class="pro-img">
-          <img src="img/productSec.svg" alt="" />
+           <img src="img/productSec.svg" alt="" class="pimage" />
           <div class="pro-head">
             <img src="img/icon8.svg" alt="" />
             <h1>Bamboo & Lyocell</h1>
@@ -257,7 +257,7 @@ raise the spandex fibres market growth.
     <section class="products lastp" id="p3">
       <div class="pro-dec">
         <div class="pro-img">
-          <img src="img/productSec.svg" alt="" />
+           <img src="img/productSec.svg" alt="" class="pimage" />
           <div class="pro-head">
             <img src="img/icon8.svg" alt="" />
             <h1>Linen</h1>

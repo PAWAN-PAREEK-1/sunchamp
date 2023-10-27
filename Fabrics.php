@@ -65,7 +65,7 @@
 
         <div class="pro-dec">
             <div class="pro-img">
-                <img src="img/productSec.svg" alt="">
+                <img src="img/productSec.svg" alt="" class="pimage" />
                 <div class="pro-head">
                     <img src="img/icon7.svg" alt="">
                     <h1>Fabrics</h1>

@@ -62,7 +62,7 @@
   <section class="products" id="p1">
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="img/productSec.svg" alt="" />
+         <img src="img/productSec.svg" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon6.svg" alt="" />
           <h1>Raw Cotton</h1>
@@ -141,7 +141,7 @@
   <section class="products" id="p2">
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="img/productSec.svg" alt="" />
+         <img src="img/productSec.svg" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon6.svg" alt="" />
           <h1>Cotton Yarn</h1>
@@ -224,7 +224,7 @@
   <section class="products" id="p3">
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="img/productSec.svg" alt="" />
+         <img src="img/productSec.svg" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon6.svg" alt="" />
           <h1>CSY</h1>
@@ -331,7 +331,7 @@
   <section class="products" id="p4">
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="img/productSec.svg" alt="" />
+         <img src="img/productSec.svg" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon6.svg" alt="" />
           <h1>VSF</h1>
@@ -441,7 +441,7 @@
   <section class="products" id="p5">
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="img/productSec.svg" alt="" />
+         <img src="img/productSec.svg" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon6.svg" alt="" />
           <h1>Viscose Yarns</h1>
@@ -518,7 +518,7 @@
   <section class="products" id="p6">
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="img/productSec.svg" alt="" />
+         <img src="img/productSec.svg" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon6.svg" alt="" />
           <h1>Blended Yarn</h1>
@@ -604,7 +604,7 @@
   <section class="products lastp" id="p7">
     <div class="pro-dec">
       <div class="pro-img">
-        <img src="img/productSec.svg" alt="" />
+         <img src="img/productSec.svg" alt="" class="pimage" />
         <div class="pro-head">
           <img src="img/icon6.svg" alt="" />
           <h1>Polyster Spun Yarn</h1>
