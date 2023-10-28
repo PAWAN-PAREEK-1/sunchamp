@@ -46,6 +46,11 @@
   <textarea placeholder="Your Message" name="message" required></textarea>
   <button type="submit">Submit</button>
 </form>
+<script>window.onbeforeunload = () => {
+  for(const form of document.getElementsByTagName('form')) {
+    form.reset();
+  }
+}</script>
 
 
 
@@ -55,6 +60,7 @@
       <?php
     include "footer.php";
    ?>
+
 
 </body>
 </html>
