@@ -69,3 +69,16 @@
     </div>
 
 </footer>
+
+
+<!-- <form action="https://formspree.io/f/mzblooly" method="POST">
+            <div class="newslatter">
+
+        <input type="email" placeholder="Your Email Address.." name="email" required>
+        <div class="contactbtn contactbtn2">
+            <button id="contactbtn01" >Subscribe Now </button>
+            <img src="img/skip.svg" alt="" id="contactbtnimg">
+        </div>
+
+    </div>
+    </form> -->

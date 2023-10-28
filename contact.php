@@ -34,32 +34,21 @@
           <p>
             Feel free to reach out to us by sending a message through our website's contact form. -  we're here to listen
           </p>
-          <form action="https://formspree.io/f/xeqbojpn" method="POST">
-            <div class="nameemail">
-              <input type="text" placeholder="Name" name="name" required />
-              <input type="email" placeholder="Email" name="email" required />
-            </div>
-            <div class="nameemail">
-              <input
-                type="tel"
-                placeholder="Phone Number"
-                name="phone"
-                required
-              />
-              <input
-                type="text"
-                placeholder="Subject"
-                name="subject"
-                required
-              />
-            </div>
-            <textarea
-              placeholder="Your Message"
-              name="Message"
-              required
-            ></textarea>
-            <button type="submit" name="submit">Submit</button>
-          </form>
+          <form action="https://formspree.io/f/mknlyyld" method="POST" >
+  <div class="nameemail">
+    <input type="text" placeholder="Name" name="name" required />
+    <input type="email" placeholder="Email" name="email" required />
+  </div>
+  <div class="nameemail">
+    <input type="tel" placeholder="Phone Number" name="phone" required />
+    <input type="text" placeholder="Subject" name ="subject" required />
+  </div>
+  <textarea placeholder="Your Message" name="message" required></textarea>
+  <button type="submit">Submit</button>
+</form>
+
+
+
         </div>
       </section>
       </div>
