@@ -134,13 +134,13 @@
             Sun Champ Global Trades, We are a leading exporter of Textile and chemical Products from Surat, India. We have established a wide range of contacts and reputations in India, China, Bangladesh, Egypt, Thailand, Indonesia, Vietnam, Europe, and North America's international market.
           </p>
           <h4>
-            <img src="img/icon2.svg" alt="" />India has a long-standing tradition of textile manufacturing and is known for its beautiful fabrics.
+            <img src="img/icon2.svg" alt="" />We are the Top exporter of Textile and Chemical Products based in Surat, India. Our reach extends far and wide, as we have forged strong connections and established a solid reputation in international markets across India, China, Bangladesh, Egypt, Thailand, Indonesia, Vietnam, Europe, and North America.
           </h4>
           <h4>
-            <img src="img/icon2.svg" alt="" />From traditional materials like silk, cotton, and wool to more modern options like polyester and nylon, We  offer a diverse range of choices.
+            <img src="img/icon2.svg" alt="" />Our Sales Network Office is strategically located in key regions, including India, Bangladesh, Canada, Thailand, and the UAE, and we maintain associate offices in numerous other nations such as China, Egypt, Turkey, and more.
           </h4>
           <h4>
-            <img src="img/icon2.svg" alt="" />Skilled artisans  in India take great pride in creating fabrics that are both stunning and of high quality.
+            <img src="img/icon2.svg" alt="" />We're servicing a wide range of customers, from textile producers, weavers, and spinning mill operators in the textile industry. We established very good relationships in several countries with well-known manufacturers.
           </h4>
         </div>
       </section>

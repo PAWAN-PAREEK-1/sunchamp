@@ -22,20 +22,10 @@
         </div>
     </div>
 
-    <div class="column quick-links">
-        <h3>Quick Links</h3>
-        <ul>
-            <li><a href="index.php">Home</a></li>
-            <li><a href="about.php">About Us</a></li>
-            <li><a href="product.php">Textile Products </a></li>
-            <li><a href="chemical.php">Chemical Products</a></li>
-            <li><a href="contact.php">Contact Us</a></li>
 
-        </ul>
-    </div>
 
     <div class="column post">
-        <h3>Recent Posts</h3>
+        <!-- <h3>Recent Posts</h3>
         <div class="recent-post">
             <img src="img/newsjpg.png" alt="Post Image">
             <div class="post-content">
@@ -51,7 +41,18 @@
                 <p>Nulla vitae elit libero, a pharetra augue.</p>
             </div>
         </div>
-        <a href=""><h4 style="padding-top:25px;">VIEW ALL RECENT POST</h4></a>
+        <a href=""><h4 style="padding-top:25px;">VIEW ALL RECENT POST</h4></a> -->
+    </div>
+    <div class="column quick-links">
+        <h3>Quick Links</h3>
+        <ul>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="about.php">About Us</a></li>
+            <li><a href="product.php">Textile Products </a></li>
+            <li><a href="chemical.php">Chemical Products</a></li>
+            <li><a href="contact.php">Contact Us</a></li>
+
+        </ul>
     </div>
 
 
