@@ -3,12 +3,17 @@
     <div class="column">
         <h3 id="newshead">WANT TO GET MOTIVATED?<br>
             STAY CONNECTED!</h3>
+
             <div class="newslatter">
-        <input type="email" placeholder="Your Email Address..">
+            <form action="https://formspree.io/f/mzblooly" method="POST" class="form1">
+        <input type="email" placeholder="Your Email Address.." name="email" required>
         <div class="contactbtn contactbtn2">
-            <a id="contactbtn01" href="">Subscribe Now </a>
+            <button id="contactbtn01" >Subscribe Now </button>
             <img src="img/skip.svg" alt="" id="contactbtnimg">
-        </div></div>
+        </div>
+        </form>
+    </div>
+
         <div class="contact-row">
             <div class="contact-info">
                 <h3><img src="img/call.svg" alt="">CONTACT US</h3>

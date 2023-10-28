@@ -165,6 +165,7 @@ nav {
     font-style: normal;
     font-weight: 600;
     line-height: normal;
+    width: max-content;
 }
 
 #contactbtnimg {
@@ -384,7 +385,6 @@ input:focus {
     display: flex;
     flex-direction: row;
     margin-bottom: 50px;
-    max-width: 77%;
 }
 
 .quick-links-heading {
@@ -2535,4 +2535,18 @@ line-height: normal;
   .para21{
     padding-inline: 0;
     padding-bottom: 0 !important;
+  }
+  .form1{
+    display: flex;
+    align-items: center;
+    max-width: 77%;
+    width: 77%;
+    gap: 10px;
+  }
+  .form1 input{
+    margin-bottom: 0;
+    height: 100%;
+    border:1px solid white;
+    color: white;
+    font-size: 20px;
   }
